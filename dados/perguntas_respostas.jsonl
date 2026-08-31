@@ -1,0 +1,829 @@
+{"pergunta": "SIMM", "intencao": "confirmar_acao", "origem": "respostas", "base": "sim"}
+{"pergunta": "SIM", "intencao": "confirmar_acao", "origem": "respostas", "base": "sim"}
+{"pergunta": "isao", "intencao": "confirmar_acao", "origem": "respostas", "base": "isso"}
+{"pergunta": "isso", "intencao": "confirmar_acao", "origem": "respostas", "base": "isso"}
+{"pergunta": "issi", "intencao": "confirmar_acao", "origem": "respostas", "base": "isso"}
+{"pergunta": "issoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "isso"}
+{"pergunta": "certo", "intencao": "confirmar_acao", "origem": "respostas", "base": "certo"}
+{"pergunta": "ceto", "intencao": "confirmar_acao", "origem": "respostas", "base": "certo"}
+{"pergunta": "cetoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "certo"}
+{"pergunta": "certoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "certo"}
+{"pergunta": "EXATO", "intencao": "confirmar_acao", "origem": "respostas", "base": "exato"}
+{"pergunta": "eato", "intencao": "confirmar_acao", "origem": "respostas", "base": "exato"}
+{"pergunta": "exatoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "exato"}
+{"pergunta": "exto", "intencao": "confirmar_acao", "origem": "respostas", "base": "exato"}
+{"pergunta": "correyo", "intencao": "confirmar_acao", "origem": "respostas", "base": "correto"}
+{"pergunta": "CRRETO", "intencao": "confirmar_acao", "origem": "respostas", "base": "correto"}
+{"pergunta": "CORRETO", "intencao": "confirmar_acao", "origem": "respostas", "base": "correto"}
+{"pergunta": "coreeto", "intencao": "confirmar_acao", "origem": "respostas", "base": "correto"}
+{"pergunta": "POSITIVO", "intencao": "confirmar_acao", "origem": "respostas", "base": "positivo"}
+{"pergunta": "positivoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "positivo"}
+{"pergunta": "psitivo", "intencao": "confirmar_acao", "origem": "respostas", "base": "positivo"}
+{"pergunta": "pide", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode"}
+{"pergunta": "pose", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode"}
+{"pergunta": "pode", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode"}
+{"pergunta": "podee", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode"}
+{"pergunta": "pide sim", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode sim"}
+{"pergunta": "pode sím", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode sim"}
+{"pergunta": "pode simm", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode sim"}
+{"pergunta": "pode faer", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode fazer"}
+{"pergunta": "pode fazer", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode fazer"}
+{"pergunta": "pode fazr", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode fazer"}
+{"pergunta": "pode fzer", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode fazer"}
+{"pergunta": "pode alterar", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode alterar"}
+{"pergunta": "pode aterar", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode alterar"}
+{"pergunta": "pode alterarr", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode alterar"}
+{"pergunta": "pide alterar", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode alterar"}
+{"pergunta": "pide prosseguir", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode prosseguir"}
+{"pergunta": "pode proseguir", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode prosseguir"}
+{"pergunta": "pode prosseguir", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode prosseguir"}
+{"pergunta": "pode prossguirr", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode prosseguir"}
+{"pergunta": "pode prosseguor", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode prosseguir"}
+{"pergunta": "podee ir", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode ir"}
+{"pergunta": "pode irr", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode ir"}
+{"pergunta": "pose ir", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode ir"}
+{"pergunta": "PODE IR", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode ir"}
+{"pergunta": "pode msndar", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode mandar"}
+{"pergunta": "pode mandar", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode mandar"}
+{"pergunta": "PODE MAMDAR", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode mandar"}
+{"pergunta": "pode madar", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode mandar"}
+{"pergunta": "pode mndar", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode mandar"}
+{"pergunta": "faz osso", "intencao": "confirmar_acao", "origem": "respostas", "base": "faz isso"}
+{"pergunta": "fazz isso", "intencao": "confirmar_acao", "origem": "respostas", "base": "faz isso"}
+{"pergunta": "FAZ ISSO", "intencao": "confirmar_acao", "origem": "respostas", "base": "faz isso"}
+{"pergunta": "faz isao", "intencao": "confirmar_acao", "origem": "respostas", "base": "faz isso"}
+{"pergunta": "faz sim", "intencao": "confirmar_acao", "origem": "respostas", "base": "faz sim"}
+{"pergunta": "faz simn", "intencao": "confirmar_acao", "origem": "respostas", "base": "faz sim"}
+{"pergunta": "FAZZ SIM", "intencao": "confirmar_acao", "origem": "respostas", "base": "faz sim"}
+{"pergunta": "faz simm", "intencao": "confirmar_acao", "origem": "respostas", "base": "faz sim"}
+{"pergunta": "MSNDA", "intencao": "confirmar_acao", "origem": "respostas", "base": "manda"}
+{"pergunta": "MAMDA", "intencao": "confirmar_acao", "origem": "respostas", "base": "manda"}
+{"pergunta": "manda", "intencao": "confirmar_acao", "origem": "respostas", "base": "manda"}
+{"pergunta": "mandaa", "intencao": "confirmar_acao", "origem": "respostas", "base": "manda"}
+{"pergunta": "MANDA VER", "intencao": "confirmar_acao", "origem": "respostas", "base": "manda ver"}
+{"pergunta": "nanda verr", "intencao": "confirmar_acao", "origem": "respostas", "base": "manda ver"}
+{"pergunta": "MADA VER", "intencao": "confirmar_acao", "origem": "respostas", "base": "manda ver"}
+{"pergunta": "mandaa ver", "intencao": "confirmar_acao", "origem": "respostas", "base": "manda ver"}
+{"pergunta": "vai laa", "intencao": "confirmar_acao", "origem": "respostas", "base": "vai la"}
+{"pergunta": "vaí la", "intencao": "confirmar_acao", "origem": "respostas", "base": "vai la"}
+{"pergunta": "vaii la", "intencao": "confirmar_acao", "origem": "respostas", "base": "vai la"}
+{"pergunta": "seguee", "intencao": "confirmar_acao", "origem": "respostas", "base": "segue"}
+{"pergunta": "SEGUE", "intencao": "confirmar_acao", "origem": "respostas", "base": "segue"}
+{"pergunta": "seue", "intencao": "confirmar_acao", "origem": "respostas", "base": "segue"}
+{"pergunta": "seuee", "intencao": "confirmar_acao", "origem": "respostas", "base": "segue"}
+{"pergunta": "prossegue", "intencao": "confirmar_acao", "origem": "respostas", "base": "prossegue"}
+{"pergunta": "prosaegue", "intencao": "confirmar_acao", "origem": "respostas", "base": "prossegue"}
+{"pergunta": "prosseguee", "intencao": "confirmar_acao", "origem": "respostas", "base": "prossegue"}
+{"pergunta": "prossege", "intencao": "confirmar_acao", "origem": "respostas", "base": "prossegue"}
+{"pergunta": "execuya", "intencao": "confirmar_acao", "origem": "respostas", "base": "executa"}
+{"pergunta": "executa", "intencao": "confirmar_acao", "origem": "respostas", "base": "executa"}
+{"pergunta": "execta", "intencao": "confirmar_acao", "origem": "respostas", "base": "executa"}
+{"pergunta": "EXECUTAA", "intencao": "confirmar_acao", "origem": "respostas", "base": "executa"}
+{"pergunta": "EXCUTA", "intencao": "confirmar_acao", "origem": "respostas", "base": "executa"}
+{"pergunta": "confrma", "intencao": "confirmar_acao", "origem": "respostas", "base": "confirma"}
+{"pergunta": "confiema", "intencao": "confirmar_acao", "origem": "respostas", "base": "confirma"}
+{"pergunta": "CONFIRMA", "intencao": "confirmar_acao", "origem": "respostas", "base": "confirma"}
+{"pergunta": "confirmaa", "intencao": "confirmar_acao", "origem": "respostas", "base": "confirma"}
+{"pergunta": "CONFIMO", "intencao": "confirmar_acao", "origem": "respostas", "base": "confirmo"}
+{"pergunta": "confirmo", "intencao": "confirmar_acao", "origem": "respostas", "base": "confirmo"}
+{"pergunta": "cinfirmo", "intencao": "confirmar_acao", "origem": "respostas", "base": "confirmo"}
+{"pergunta": "conirmoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "confirmo"}
+{"pergunta": "confirmoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "confirmo"}
+{"pergunta": "ahamm", "intencao": "confirmar_acao", "origem": "respostas", "base": "aham"}
+{"pergunta": "ahsm", "intencao": "confirmar_acao", "origem": "respostas", "base": "aham"}
+{"pergunta": "aham", "intencao": "confirmar_acao", "origem": "respostas", "base": "aham"}
+{"pergunta": "sham", "intencao": "confirmar_acao", "origem": "respostas", "base": "aham"}
+{"pergunta": "uhun", "intencao": "confirmar_acao", "origem": "respostas", "base": "uhum"}
+{"pergunta": "uhum", "intencao": "confirmar_acao", "origem": "respostas", "base": "uhum"}
+{"pergunta": "uhmm", "intencao": "confirmar_acao", "origem": "respostas", "base": "uhum"}
+{"pergunta": "uhumm", "intencao": "confirmar_acao", "origem": "respostas", "base": "uhum"}
+{"pergunta": "TA", "intencao": "confirmar_acao", "origem": "respostas", "base": "ta"}
+{"pergunta": "taa", "intencao": "confirmar_acao", "origem": "respostas", "base": "ta"}
+{"pergunta": "ta certoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "ta certo"}
+{"pergunta": "TA CERTO", "intencao": "confirmar_acao", "origem": "respostas", "base": "ta certo"}
+{"pergunta": "taa ceto", "intencao": "confirmar_acao", "origem": "respostas", "base": "ta certo"}
+{"pergunta": "taa bom", "intencao": "confirmar_acao", "origem": "respostas", "base": "ta bom"}
+{"pergunta": "ta bom", "intencao": "confirmar_acao", "origem": "respostas", "base": "ta bom"}
+{"pergunta": "tá bomm", "intencao": "confirmar_acao", "origem": "respostas", "base": "ta bom"}
+{"pergunta": "TA OK", "intencao": "confirmar_acao", "origem": "respostas", "base": "ta ok"}
+{"pergunta": "taa ok", "intencao": "confirmar_acao", "origem": "respostas", "base": "ta ok"}
+{"pergunta": "okk", "intencao": "confirmar_acao", "origem": "respostas", "base": "ok"}
+{"pergunta": "OK", "intencao": "confirmar_acao", "origem": "respostas", "base": "ok"}
+{"pergunta": "belezaa", "intencao": "confirmar_acao", "origem": "respostas", "base": "beleza"}
+{"pergunta": "belza", "intencao": "confirmar_acao", "origem": "respostas", "base": "beleza"}
+{"pergunta": "BLEZA", "intencao": "confirmar_acao", "origem": "respostas", "base": "beleza"}
+{"pergunta": "beleza", "intencao": "confirmar_acao", "origem": "respostas", "base": "beleza"}
+{"pergunta": "BLZZ", "intencao": "confirmar_acao", "origem": "respostas", "base": "blz"}
+{"pergunta": "BLZ", "intencao": "confirmar_acao", "origem": "respostas", "base": "blz"}
+{"pergunta": "issi mesmoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "isso mesmo"}
+{"pergunta": "isso mesoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "isso mesmo"}
+{"pergunta": "isso mrsmo", "intencao": "confirmar_acao", "origem": "respostas", "base": "isso mesmo"}
+{"pergunta": "isso mesmo", "intencao": "confirmar_acao", "origem": "respostas", "base": "isso mesmo"}
+{"pergunta": "isso mesmoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "isso mesmo"}
+{"pergunta": "ISSO AI", "intencao": "confirmar_acao", "origem": "respostas", "base": "isso ai"}
+{"pergunta": "issoo ai", "intencao": "confirmar_acao", "origem": "respostas", "base": "isso ai"}
+{"pergunta": "iaso ai", "intencao": "confirmar_acao", "origem": "respostas", "base": "isso ai"}
+{"pergunta": "e isso", "intencao": "confirmar_acao", "origem": "respostas", "base": "e isso"}
+{"pergunta": "e iaso", "intencao": "confirmar_acao", "origem": "respostas", "base": "e isso"}
+{"pergunta": "e osso", "intencao": "confirmar_acao", "origem": "respostas", "base": "e isso"}
+{"pergunta": "é isso mesmoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "e isso mesmo"}
+{"pergunta": "é isso mesmo", "intencao": "confirmar_acao", "origem": "respostas", "base": "e isso mesmo"}
+{"pergunta": "é issi mesmo", "intencao": "confirmar_acao", "origem": "respostas", "base": "e isso mesmo"}
+{"pergunta": "perfeto", "intencao": "confirmar_acao", "origem": "respostas", "base": "perfeito"}
+{"pergunta": "PERFEIYO", "intencao": "confirmar_acao", "origem": "respostas", "base": "perfeito"}
+{"pergunta": "peefeito", "intencao": "confirmar_acao", "origem": "respostas", "base": "perfeito"}
+{"pergunta": "perfeito", "intencao": "confirmar_acao", "origem": "respostas", "base": "perfeito"}
+{"pergunta": "perfeiti", "intencao": "confirmar_acao", "origem": "respostas", "base": "perfeito"}
+{"pergunta": "show", "intencao": "confirmar_acao", "origem": "respostas", "base": "show"}
+{"pergunta": "ahoww", "intencao": "confirmar_acao", "origem": "respostas", "base": "show"}
+{"pergunta": "SHOWW", "intencao": "confirmar_acao", "origem": "respostas", "base": "show"}
+{"pergunta": "AHOW", "intencao": "confirmar_acao", "origem": "respostas", "base": "show"}
+{"pergunta": "frchado", "intencao": "confirmar_acao", "origem": "respostas", "base": "fechado"}
+{"pergunta": "FECHADO", "intencao": "confirmar_acao", "origem": "respostas", "base": "fechado"}
+{"pergunta": "fechao", "intencao": "confirmar_acao", "origem": "respostas", "base": "fechado"}
+{"pergunta": "fechadoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "fechado"}
+{"pergunta": "combiado", "intencao": "confirmar_acao", "origem": "respostas", "base": "combinado"}
+{"pergunta": "combinado", "intencao": "confirmar_acao", "origem": "respostas", "base": "combinado"}
+{"pergunta": "cimbnado", "intencao": "confirmar_acao", "origem": "respostas", "base": "combinado"}
+{"pergunta": "combinao", "intencao": "confirmar_acao", "origem": "respostas", "base": "combinado"}
+{"pergunta": "comonado", "intencao": "confirmar_acao", "origem": "respostas", "base": "combinado"}
+{"pergunta": "tranquilo", "intencao": "confirmar_acao", "origem": "respostas", "base": "tranquilo"}
+{"pergunta": "TRANQUILOO", "intencao": "confirmar_acao", "origem": "respostas", "base": "tranquilo"}
+{"pergunta": "tranquio", "intencao": "confirmar_acao", "origem": "respostas", "base": "tranquilo"}
+{"pergunta": "por mim ta bomm", "intencao": "confirmar_acao", "origem": "respostas", "base": "por mim ta bom"}
+{"pergunta": "porr mim ta bom", "intencao": "confirmar_acao", "origem": "respostas", "base": "por mim ta bom"}
+{"pergunta": "por mim tá bom", "intencao": "confirmar_acao", "origem": "respostas", "base": "por mim ta bom"}
+{"pergunta": "por mimm ta bom", "intencao": "confirmar_acao", "origem": "respostas", "base": "por mim ta bom"}
+{"pergunta": "SIM PODE", "intencao": "confirmar_acao", "origem": "respostas", "base": "sim pode"}
+{"pergunta": "sim podr", "intencao": "confirmar_acao", "origem": "respostas", "base": "sim pode"}
+{"pergunta": "sim podee", "intencao": "confirmar_acao", "origem": "respostas", "base": "sim pode"}
+{"pergunta": "SIM FAZ", "intencao": "confirmar_acao", "origem": "respostas", "base": "sim faz"}
+{"pergunta": "SIMM FAZ", "intencao": "confirmar_acao", "origem": "respostas", "base": "sim faz"}
+{"pergunta": "claroo", "intencao": "confirmar_acao", "origem": "respostas", "base": "claro"}
+{"pergunta": "CLAO", "intencao": "confirmar_acao", "origem": "respostas", "base": "claro"}
+{"pergunta": "claro", "intencao": "confirmar_acao", "origem": "respostas", "base": "claro"}
+{"pergunta": "caro", "intencao": "confirmar_acao", "origem": "respostas", "base": "claro"}
+{"pergunta": "clro", "intencao": "confirmar_acao", "origem": "respostas", "base": "claro"}
+{"pergunta": "clsro que sim", "intencao": "confirmar_acao", "origem": "respostas", "base": "claro que sim"}
+{"pergunta": "claro que sim", "intencao": "confirmar_acao", "origem": "respostas", "base": "claro que sim"}
+{"pergunta": "claroo que sim", "intencao": "confirmar_acao", "origem": "respostas", "base": "claro que sim"}
+{"pergunta": "clari que sím", "intencao": "confirmar_acao", "origem": "respostas", "base": "claro que sim"}
+{"pergunta": "COM CERYEZA", "intencao": "confirmar_acao", "origem": "respostas", "base": "com certeza"}
+{"pergunta": "com certezaa", "intencao": "confirmar_acao", "origem": "respostas", "base": "com certeza"}
+{"pergunta": "COM CERTEZS", "intencao": "confirmar_acao", "origem": "respostas", "base": "com certeza"}
+{"pergunta": "com verteza", "intencao": "confirmar_acao", "origem": "respostas", "base": "com certeza"}
+{"pergunta": "com certeza", "intencao": "confirmar_acao", "origem": "respostas", "base": "com certeza"}
+{"pergunta": "afirmstivo", "intencao": "confirmar_acao", "origem": "respostas", "base": "afirmativo"}
+{"pergunta": "AFIRMATIVO", "intencao": "confirmar_acao", "origem": "respostas", "base": "afirmativo"}
+{"pergunta": "afirmaticoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "afirmativo"}
+{"pergunta": "afirmativoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "afirmativo"}
+{"pergunta": "bira", "intencao": "confirmar_acao", "origem": "respostas", "base": "bora"}
+{"pergunta": "BORA", "intencao": "confirmar_acao", "origem": "respostas", "base": "bora"}
+{"pergunta": "boaa", "intencao": "confirmar_acao", "origem": "respostas", "base": "bora"}
+{"pergunta": "boraa", "intencao": "confirmar_acao", "origem": "respostas", "base": "bora"}
+{"pergunta": "camos", "intencao": "confirmar_acao", "origem": "respostas", "base": "vamos"}
+{"pergunta": "vaos", "intencao": "confirmar_acao", "origem": "respostas", "base": "vamos"}
+{"pergunta": "vamos", "intencao": "confirmar_acao", "origem": "respostas", "base": "vamos"}
+{"pergunta": "vamoss", "intencao": "confirmar_acao", "origem": "respostas", "base": "vamos"}
+{"pergunta": "vai fndo", "intencao": "confirmar_acao", "origem": "respostas", "base": "vai fundo"}
+{"pergunta": "vaii fndo", "intencao": "confirmar_acao", "origem": "respostas", "base": "vai fundo"}
+{"pergunta": "VAI FUDO", "intencao": "confirmar_acao", "origem": "respostas", "base": "vai fundo"}
+{"pergunta": "vai fumdo", "intencao": "confirmar_acao", "origem": "respostas", "base": "vai fundo"}
+{"pergunta": "vai fundo", "intencao": "confirmar_acao", "origem": "respostas", "base": "vai fundo"}
+{"pergunta": "manda balá", "intencao": "confirmar_acao", "origem": "respostas", "base": "manda bala"}
+{"pergunta": "manda balaa", "intencao": "confirmar_acao", "origem": "respostas", "base": "manda bala"}
+{"pergunta": "mnda balá", "intencao": "confirmar_acao", "origem": "respostas", "base": "manda bala"}
+{"pergunta": "sim por favor", "intencao": "confirmar_acao", "origem": "respostas", "base": "sim por favor"}
+{"pergunta": "sim por facor", "intencao": "confirmar_acao", "origem": "respostas", "base": "sim por favor"}
+{"pergunta": "sím por favir", "intencao": "confirmar_acao", "origem": "respostas", "base": "sim por favor"}
+{"pergunta": "simm por favor", "intencao": "confirmar_acao", "origem": "respostas", "base": "sim por favor"}
+{"pergunta": "por favor", "intencao": "confirmar_acao", "origem": "respostas", "base": "por favor"}
+{"pergunta": "porr favor", "intencao": "confirmar_acao", "origem": "respostas", "base": "por favor"}
+{"pergunta": "POR FAVR", "intencao": "confirmar_acao", "origem": "respostas", "base": "por favor"}
+{"pergunta": "por fvir", "intencao": "confirmar_acao", "origem": "respostas", "base": "por favor"}
+{"pergunta": "POR FVOR", "intencao": "confirmar_acao", "origem": "respostas", "base": "por favor"}
+{"pergunta": "sim obrigado", "intencao": "confirmar_acao", "origem": "respostas", "base": "sim obrigado"}
+{"pergunta": "simm obrigado", "intencao": "confirmar_acao", "origem": "respostas", "base": "sim obrigado"}
+{"pergunta": "sim obrigso", "intencao": "confirmar_acao", "origem": "respostas", "base": "sim obrigado"}
+{"pergunta": "sim obrigasoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "sim obrigado"}
+{"pergunta": "sim obrigadoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "sim obrigado"}
+{"pergunta": "isso mesmo obriado", "intencao": "confirmar_acao", "origem": "respostas", "base": "isso mesmo obrigado"}
+{"pergunta": "isso mesmo obrigado", "intencao": "confirmar_acao", "origem": "respostas", "base": "isso mesmo obrigado"}
+{"pergunta": "isso mesmo obeigado", "intencao": "confirmar_acao", "origem": "respostas", "base": "isso mesmo obrigado"}
+{"pergunta": "issoo mesmo obrigado", "intencao": "confirmar_acao", "origem": "respostas", "base": "isso mesmo obrigado"}
+{"pergunta": "issoo meamo obrigado", "intencao": "confirmar_acao", "origem": "respostas", "base": "isso mesmo obrigado"}
+{"pergunta": "está correto", "intencao": "confirmar_acao", "origem": "respostas", "base": "esta correto"}
+{"pergunta": "está coreto", "intencao": "confirmar_acao", "origem": "respostas", "base": "esta correto"}
+{"pergunta": "eata coreto", "intencao": "confirmar_acao", "origem": "respostas", "base": "esta correto"}
+{"pergunta": "esta certoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "esta certo"}
+{"pergunta": "estaa certo", "intencao": "confirmar_acao", "origem": "respostas", "base": "esta certo"}
+{"pergunta": "eata certo", "intencao": "confirmar_acao", "origem": "respostas", "base": "esta certo"}
+{"pergunta": "está certo", "intencao": "confirmar_acao", "origem": "respostas", "base": "esta certo"}
+{"pergunta": "confirmadoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "confirmado"}
+{"pergunta": "confirado", "intencao": "confirmar_acao", "origem": "respostas", "base": "confirmado"}
+{"pergunta": "cinfirmado", "intencao": "confirmar_acao", "origem": "respostas", "base": "confirmado"}
+{"pergunta": "confirmao", "intencao": "confirmar_acao", "origem": "respostas", "base": "confirmado"}
+{"pergunta": "confirmado", "intencao": "confirmar_acao", "origem": "respostas", "base": "confirmado"}
+{"pergunta": "apovado", "intencao": "confirmar_acao", "origem": "respostas", "base": "aprovado"}
+{"pergunta": "APROVADO", "intencao": "confirmar_acao", "origem": "respostas", "base": "aprovado"}
+{"pergunta": "aprovadii", "intencao": "confirmar_acao", "origem": "respostas", "base": "aprovado"}
+{"pergunta": "aprovadoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "aprovado"}
+{"pergunta": "autorizo", "intencao": "confirmar_acao", "origem": "respostas", "base": "autorizo"}
+{"pergunta": "auorizo", "intencao": "confirmar_acao", "origem": "respostas", "base": "autorizo"}
+{"pergunta": "autorozo", "intencao": "confirmar_acao", "origem": "respostas", "base": "autorizo"}
+{"pergunta": "auyorizo", "intencao": "confirmar_acao", "origem": "respostas", "base": "autorizo"}
+{"pergunta": "AUTOIZADO", "intencao": "confirmar_acao", "origem": "respostas", "base": "autorizado"}
+{"pergunta": "autrizado", "intencao": "confirmar_acao", "origem": "respostas", "base": "autorizado"}
+{"pergunta": "AUTORIZADO", "intencao": "confirmar_acao", "origem": "respostas", "base": "autorizado"}
+{"pergunta": "autorizadoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "autorizado"}
+{"pergunta": "de acordi", "intencao": "confirmar_acao", "origem": "respostas", "base": "de acordo"}
+{"pergunta": "de aordo", "intencao": "confirmar_acao", "origem": "respostas", "base": "de acordo"}
+{"pergunta": "de acordo", "intencao": "confirmar_acao", "origem": "respostas", "base": "de acordo"}
+{"pergunta": "concrdo", "intencao": "confirmar_acao", "origem": "respostas", "base": "concordo"}
+{"pergunta": "concordo", "intencao": "confirmar_acao", "origem": "respostas", "base": "concordo"}
+{"pergunta": "CONCORDOO", "intencao": "confirmar_acao", "origem": "respostas", "base": "concordo"}
+{"pergunta": "acito", "intencao": "confirmar_acao", "origem": "respostas", "base": "aceito"}
+{"pergunta": "acetoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "aceito"}
+{"pergunta": "aveitoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "aceito"}
+{"pergunta": "aceito", "intencao": "confirmar_acao", "origem": "respostas", "base": "aceito"}
+{"pergunta": "ACEITOO", "intencao": "confirmar_acao", "origem": "respostas", "base": "aceito"}
+{"pergunta": "pode ir em fremte", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode ir em frente"}
+{"pergunta": "pode ir em frete", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode ir em frente"}
+{"pergunta": "podee ir em frente", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode ir em frente"}
+{"pergunta": "pode ir em frene", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode ir em frente"}
+{"pergunta": "pode ir em frente", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode ir em frente"}
+{"pergunta": "pide seguirr", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode seguir"}
+{"pergunta": "PODE SGUIR", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode seguir"}
+{"pergunta": "pode seguirr", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode seguir"}
+{"pergunta": "pode seguir", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode seguir"}
+{"pergunta": "podee seguir", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode seguir"}
+{"pergunta": "segue em frente", "intencao": "confirmar_acao", "origem": "respostas", "base": "segue em frente"}
+{"pergunta": "seue em frente", "intencao": "confirmar_acao", "origem": "respostas", "base": "segue em frente"}
+{"pergunta": "segue em fente", "intencao": "confirmar_acao", "origem": "respostas", "base": "segue em frente"}
+{"pergunta": "seguee em frente", "intencao": "confirmar_acao", "origem": "respostas", "base": "segue em frente"}
+{"pergunta": "segue emm frente", "intencao": "confirmar_acao", "origem": "respostas", "base": "segue em frente"}
+{"pergunta": "toca aíí", "intencao": "confirmar_acao", "origem": "respostas", "base": "toca ai"}
+{"pergunta": "toca ai", "intencao": "confirmar_acao", "origem": "respostas", "base": "toca ai"}
+{"pergunta": "tova ai", "intencao": "confirmar_acao", "origem": "respostas", "base": "toca ai"}
+{"pergunta": "TUDO CERTO", "intencao": "confirmar_acao", "origem": "respostas", "base": "tudo certo"}
+{"pergunta": "tudo ceeto", "intencao": "confirmar_acao", "origem": "respostas", "base": "tudo certo"}
+{"pergunta": "tudo crto", "intencao": "confirmar_acao", "origem": "respostas", "base": "tudo certo"}
+{"pergunta": "tudo cero", "intencao": "confirmar_acao", "origem": "respostas", "base": "tudo certo"}
+{"pergunta": "tudoo ok", "intencao": "confirmar_acao", "origem": "respostas", "base": "tudo ok"}
+{"pergunta": "TUDO OK", "intencao": "confirmar_acao", "origem": "respostas", "base": "tudo ok"}
+{"pergunta": "tudi ok", "intencao": "confirmar_acao", "origem": "respostas", "base": "tudo ok"}
+{"pergunta": "tudo okk", "intencao": "confirmar_acao", "origem": "respostas", "base": "tudo ok"}
+{"pergunta": "ta valendoo", "intencao": "confirmar_acao", "origem": "respostas", "base": "ta valendo"}
+{"pergunta": "ta valeno", "intencao": "confirmar_acao", "origem": "respostas", "base": "ta valendo"}
+{"pergunta": "ta vaendi", "intencao": "confirmar_acao", "origem": "respostas", "base": "ta valendo"}
+{"pergunta": "ta valendo", "intencao": "confirmar_acao", "origem": "respostas", "base": "ta valendo"}
+{"pergunta": "taa valndo", "intencao": "confirmar_acao", "origem": "respostas", "base": "ta valendo"}
+{"pergunta": "ta tudi certo", "intencao": "confirmar_acao", "origem": "respostas", "base": "ta tudo certo"}
+{"pergunta": "ta tudo ceto", "intencao": "confirmar_acao", "origem": "respostas", "base": "ta tudo certo"}
+{"pergunta": "ta tudo certo", "intencao": "confirmar_acao", "origem": "respostas", "base": "ta tudo certo"}
+{"pergunta": "ta tudoo crto", "intencao": "confirmar_acao", "origem": "respostas", "base": "ta tudo certo"}
+{"pergunta": "ta tudo crto", "intencao": "confirmar_acao", "origem": "respostas", "base": "ta tudo certo"}
+{"pergunta": "acho quee sim", "intencao": "confirmar_acao", "origem": "respostas", "base": "acho que sim"}
+{"pergunta": "ACHO QUE SIM", "intencao": "confirmar_acao", "origem": "respostas", "base": "acho que sim"}
+{"pergunta": "ahoo que sim", "intencao": "confirmar_acao", "origem": "respostas", "base": "acho que sim"}
+{"pergunta": "faz ai", "intencao": "confirmar_acao", "origem": "respostas", "base": "faz ai"}
+{"pergunta": "fazz aí", "intencao": "confirmar_acao", "origem": "respostas", "base": "faz ai"}
+{"pergunta": "faz por favorr", "intencao": "confirmar_acao", "origem": "respostas", "base": "faz por favor"}
+{"pergunta": "faz por fsvor", "intencao": "confirmar_acao", "origem": "respostas", "base": "faz por favor"}
+{"pergunta": "faz por favr", "intencao": "confirmar_acao", "origem": "respostas", "base": "faz por favor"}
+{"pergunta": "faz por favor", "intencao": "confirmar_acao", "origem": "respostas", "base": "faz por favor"}
+{"pergunta": "faz por faoe", "intencao": "confirmar_acao", "origem": "respostas", "base": "faz por favor"}
+{"pergunta": "lbera", "intencao": "confirmar_acao", "origem": "respostas", "base": "libera"}
+{"pergunta": "liberaa", "intencao": "confirmar_acao", "origem": "respostas", "base": "libera"}
+{"pergunta": "LIBERA", "intencao": "confirmar_acao", "origem": "respostas", "base": "libera"}
+{"pergunta": "liera", "intencao": "confirmar_acao", "origem": "respostas", "base": "libera"}
+{"pergunta": "liberaa aí", "intencao": "confirmar_acao", "origem": "respostas", "base": "libera ai"}
+{"pergunta": "libera aí", "intencao": "confirmar_acao", "origem": "respostas", "base": "libera ai"}
+{"pergunta": "lbera aí", "intencao": "confirmar_acao", "origem": "respostas", "base": "libera ai"}
+{"pergunta": "libeea ai", "intencao": "confirmar_acao", "origem": "respostas", "base": "libera ai"}
+{"pergunta": "autorza", "intencao": "confirmar_acao", "origem": "respostas", "base": "autoriza"}
+{"pergunta": "AUTORIZAA", "intencao": "confirmar_acao", "origem": "respostas", "base": "autoriza"}
+{"pergunta": "autoiza", "intencao": "confirmar_acao", "origem": "respostas", "base": "autoriza"}
+{"pergunta": "autoriza", "intencao": "confirmar_acao", "origem": "respostas", "base": "autoriza"}
+{"pergunta": "atoriza", "intencao": "confirmar_acao", "origem": "respostas", "base": "autoriza"}
+{"pergunta": "pode gravar", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode gravar"}
+{"pergunta": "podre gravar", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode gravar"}
+{"pergunta": "pode graar", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode gravar"}
+{"pergunta": "pode gravarr", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode gravar"}
+{"pergunta": "podee gravar", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode gravar"}
+{"pergunta": "pode salvar", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode salvar"}
+{"pergunta": "pose salvar", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode salvar"}
+{"pergunta": "pode salar", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode salvar"}
+{"pergunta": "pode savar", "intencao": "confirmar_acao", "origem": "respostas", "base": "pode salvar"}
+{"pergunta": "gravs", "intencao": "confirmar_acao", "origem": "respostas", "base": "grava"}
+{"pergunta": "gravaa", "intencao": "confirmar_acao", "origem": "respostas", "base": "grava"}
+{"pergunta": "grava", "intencao": "confirmar_acao", "origem": "respostas", "base": "grava"}
+{"pergunta": "gava", "intencao": "confirmar_acao", "origem": "respostas", "base": "grava"}
+{"pergunta": "grva", "intencao": "confirmar_acao", "origem": "respostas", "base": "grava"}
+{"pergunta": "salá", "intencao": "confirmar_acao", "origem": "respostas", "base": "salva"}
+{"pergunta": "salaa", "intencao": "confirmar_acao", "origem": "respostas", "base": "salva"}
+{"pergunta": "slva", "intencao": "confirmar_acao", "origem": "respostas", "base": "salva"}
+{"pergunta": "SALVAA", "intencao": "confirmar_acao", "origem": "respostas", "base": "salva"}
+{"pergunta": "salva", "intencao": "confirmar_acao", "origem": "respostas", "base": "salva"}
+{"pergunta": "aplica", "intencao": "confirmar_acao", "origem": "respostas", "base": "aplica"}
+{"pergunta": "aplicaa", "intencao": "confirmar_acao", "origem": "respostas", "base": "aplica"}
+{"pergunta": "apica", "intencao": "confirmar_acao", "origem": "respostas", "base": "aplica"}
+{"pergunta": "apicaa", "intencao": "confirmar_acao", "origem": "respostas", "base": "aplica"}
+{"pergunta": "aploca aí", "intencao": "confirmar_acao", "origem": "respostas", "base": "aplica ai"}
+{"pergunta": "aplica aí", "intencao": "confirmar_acao", "origem": "respostas", "base": "aplica ai"}
+{"pergunta": "aplicaa ai", "intencao": "confirmar_acao", "origem": "respostas", "base": "aplica ai"}
+{"pergunta": "efetiva", "intencao": "confirmar_acao", "origem": "respostas", "base": "efetiva"}
+{"pergunta": "efetivs", "intencao": "confirmar_acao", "origem": "respostas", "base": "efetiva"}
+{"pergunta": "eetiva", "intencao": "confirmar_acao", "origem": "respostas", "base": "efetiva"}
+{"pergunta": "efeyiva", "intencao": "confirmar_acao", "origem": "respostas", "base": "efetiva"}
+{"pergunta": "efetivaa", "intencao": "confirmar_acao", "origem": "respostas", "base": "efetiva"}
+{"pergunta": "VAI QUEE VAI", "intencao": "confirmar_acao", "origem": "respostas", "base": "vai que vai"}
+{"pergunta": "vai que vai", "intencao": "confirmar_acao", "origem": "respostas", "base": "vai que vai"}
+{"pergunta": "E POR AI", "intencao": "confirmar_acao", "origem": "respostas", "base": "e por ai"}
+{"pergunta": "e por aii", "intencao": "confirmar_acao", "origem": "respostas", "base": "e por ai"}
+{"pergunta": "eh issi", "intencao": "confirmar_acao", "origem": "respostas", "base": "eh isso"}
+{"pergunta": "eh osso", "intencao": "confirmar_acao", "origem": "respostas", "base": "eh isso"}
+{"pergunta": "EH ISSO", "intencao": "confirmar_acao", "origem": "respostas", "base": "eh isso"}
+{"pergunta": "ehh isso", "intencao": "confirmar_acao", "origem": "respostas", "base": "eh isso"}
+{"pergunta": "não", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao"}
+{"pergunta": "naoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao"}
+{"pergunta": "NAO QUERO", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao quero"}
+{"pergunta": "nao queo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao quero"}
+{"pergunta": "naoo quero", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao quero"}
+{"pergunta": "naoo queri", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao quero"}
+{"pergunta": "ERRADO", "intencao": "cancelar_operacao", "origem": "respostas", "base": "errado"}
+{"pergunta": "errdo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "errado"}
+{"pergunta": "errasoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "errado"}
+{"pergunta": "erado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "errado"}
+{"pergunta": "ta errado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "ta errado"}
+{"pergunta": "taa errsdo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "ta errado"}
+{"pergunta": "ta eerado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "ta errado"}
+{"pergunta": "tá erado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "ta errado"}
+{"pergunta": "ta erradoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "ta errado"}
+{"pergunta": "NAO E ISSO", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao e isso"}
+{"pergunta": "nao e isao", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao e isso"}
+{"pergunta": "NAOO E ISSO", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao e isso"}
+{"pergunta": "nao e issi", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao e isso"}
+{"pergunta": "nao e bem iaso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao e bem isso"}
+{"pergunta": "nao e bem issi", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao e bem isso"}
+{"pergunta": "não e bem isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao e bem isso"}
+{"pergunta": "nao e bem isao", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao e bem isso"}
+{"pergunta": "negativoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "negativo"}
+{"pergunta": "negativo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "negativo"}
+{"pergunta": "NEGTIVO", "intencao": "cancelar_operacao", "origem": "respostas", "base": "negativo"}
+{"pergunta": "neativo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "negativo"}
+{"pergunta": "negstivoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "negativo"}
+{"pergunta": "NEM", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nem"}
+{"pergunta": "nemm", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nem"}
+{"pergunta": "nrmm", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nem"}
+{"pergunta": "NADA DISO", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nada disso"}
+{"pergunta": "nada disso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nada disso"}
+{"pergunta": "nadaa disso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nada disso"}
+{"pergunta": "dee jeito nenhum", "intencao": "cancelar_operacao", "origem": "respostas", "base": "de jeito nenhum"}
+{"pergunta": "de jeito nehum", "intencao": "cancelar_operacao", "origem": "respostas", "base": "de jeito nenhum"}
+{"pergunta": "de jito menhum", "intencao": "cancelar_operacao", "origem": "respostas", "base": "de jeito nenhum"}
+{"pergunta": "de jeito nenhum", "intencao": "cancelar_operacao", "origem": "respostas", "base": "de jeito nenhum"}
+{"pergunta": "de jeito nenhm", "intencao": "cancelar_operacao", "origem": "respostas", "base": "de jeito nenhum"}
+{"pergunta": "cncelá", "intencao": "cancelar_operacao", "origem": "respostas", "base": "cancela"}
+{"pergunta": "cancela", "intencao": "cancelar_operacao", "origem": "respostas", "base": "cancela"}
+{"pergunta": "cancelaa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "cancela"}
+{"pergunta": "cacelar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "cancelar"}
+{"pergunta": "cncelar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "cancelar"}
+{"pergunta": "CANCELARR", "intencao": "cancelar_operacao", "origem": "respostas", "base": "cancelar"}
+{"pergunta": "cancelar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "cancelar"}
+{"pergunta": "paraa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para"}
+{"pergunta": "PARA", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para"}
+{"pergunta": "pars", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para"}
+{"pergunta": "para tudo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para tudo"}
+{"pergunta": "paraa tudo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para tudo"}
+{"pergunta": "PARA TUDOO", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para tudo"}
+{"pergunta": "pars tudo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para tudo"}
+{"pergunta": "deixa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa"}
+{"pergunta": "dexa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa"}
+{"pergunta": "deixas", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa"}
+{"pergunta": "DEIXAA", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa"}
+{"pergunta": "deixa pra la", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa pra la"}
+{"pergunta": "seixa praa la", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa pra la"}
+{"pergunta": "drixa pra la", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa pra la"}
+{"pergunta": "deia praa la", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa pra la"}
+{"pergunta": "equece", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esquece"}
+{"pergunta": "esquee", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esquece"}
+{"pergunta": "esquece", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esquece"}
+{"pergunta": "ESQUECR", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esquece"}
+{"pergunta": "ESQUCE ISSO", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esquece isso"}
+{"pergunta": "esquece isao", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esquece isso"}
+{"pergunta": "esuece isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esquece isso"}
+{"pergunta": "esquecé isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esquece isso"}
+{"pergunta": "NAO FAZ", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao faz"}
+{"pergunta": "naoi faz", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao faz"}
+{"pergunta": "nao fazz", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao faz"}
+{"pergunta": "nao faca", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao faca"}
+{"pergunta": "nao facaa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao faca"}
+{"pergunta": "nãoo faca", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao faca"}
+{"pergunta": "nao altera", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao altera"}
+{"pergunta": "NAO SLTERA", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao altera"}
+{"pergunta": "nao altes", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao altera"}
+{"pergunta": "naoo altera", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao altera"}
+{"pergunta": "nao prrcisa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao precisa"}
+{"pergunta": "não precisa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao precisa"}
+{"pergunta": "não preciss", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao precisa"}
+{"pergunta": "nao precisaa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao precisa"}
+{"pergunta": "melorr nao", "intencao": "cancelar_operacao", "origem": "respostas", "base": "melhor nao"}
+{"pergunta": "melor nao", "intencao": "cancelar_operacao", "origem": "respostas", "base": "melhor nao"}
+{"pergunta": "MELHOR NAO", "intencao": "cancelar_operacao", "origem": "respostas", "base": "melhor nao"}
+{"pergunta": "melhoe nao", "intencao": "cancelar_operacao", "origem": "respostas", "base": "melhor nao"}
+{"pergunta": "prefieo não", "intencao": "cancelar_operacao", "origem": "respostas", "base": "prefiro nao"}
+{"pergunta": "prfiro não", "intencao": "cancelar_operacao", "origem": "respostas", "base": "prefiro nao"}
+{"pergunta": "prefiro naoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "prefiro nao"}
+{"pergunta": "prefiro nao", "intencao": "cancelar_operacao", "origem": "respostas", "base": "prefiro nao"}
+{"pergunta": "prefiroo não", "intencao": "cancelar_operacao", "origem": "respostas", "base": "prefiro nao"}
+{"pergunta": "quro outra coisaa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "quero outra coisa"}
+{"pergunta": "quero iutra coisaa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "quero outra coisa"}
+{"pergunta": "quero outra voisa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "quero outra coisa"}
+{"pergunta": "qero outra coisa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "quero outra coisa"}
+{"pergunta": "quero outra coisa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "quero outra coisa"}
+{"pergunta": "e outra coisa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "e outra coisa"}
+{"pergunta": "e outra coia", "intencao": "cancelar_operacao", "origem": "respostas", "base": "e outra coisa"}
+{"pergunta": "e outa coisa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "e outra coisa"}
+{"pergunta": "e ouyra coisaa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "e outra coisa"}
+{"pergunta": "e oura coisa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "e outra coisa"}
+{"pergunta": "otra voisa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "outra coisa"}
+{"pergunta": "OUTRA COISAA", "intencao": "cancelar_operacao", "origem": "respostas", "base": "outra coisa"}
+{"pergunta": "outraa coisa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "outra coisa"}
+{"pergunta": "outra coisa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "outra coisa"}
+{"pergunta": "muda de assunto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "muda de assunto"}
+{"pergunta": "muda de assnto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "muda de assunto"}
+{"pergunta": "muda dee assunto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "muda de assunto"}
+{"pergunta": "mdaa de assunto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "muda de assunto"}
+{"pergunta": "muds de assunto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "muda de assunto"}
+{"pergunta": "deixa eu perguntar outra coisa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa eu perguntar outra coisa"}
+{"pergunta": "deixa eu perguntar oura coisa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa eu perguntar outra coisa"}
+{"pergunta": "deixa eu perguntar outraa coisa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa eu perguntar outra coisa"}
+{"pergunta": "dixa eu perguntar outra coisa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa eu perguntar outra coisa"}
+{"pergunta": "ESPERA", "intencao": "cancelar_operacao", "origem": "respostas", "base": "espera"}
+{"pergunta": "esera", "intencao": "cancelar_operacao", "origem": "respostas", "base": "espera"}
+{"pergunta": "ESPERS", "intencao": "cancelar_operacao", "origem": "respostas", "base": "espera"}
+{"pergunta": "esperaa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "espera"}
+{"pergunta": "espeaa ai", "intencao": "cancelar_operacao", "origem": "respostas", "base": "espera ai"}
+{"pergunta": "espea ai", "intencao": "cancelar_operacao", "origem": "respostas", "base": "espera ai"}
+{"pergunta": "ESPERA AI", "intencao": "cancelar_operacao", "origem": "respostas", "base": "espera ai"}
+{"pergunta": "rspera ai", "intencao": "cancelar_operacao", "origem": "respostas", "base": "espera ai"}
+{"pergunta": "valma", "intencao": "cancelar_operacao", "origem": "respostas", "base": "calma"}
+{"pergunta": "calma", "intencao": "cancelar_operacao", "origem": "respostas", "base": "calma"}
+{"pergunta": "calna", "intencao": "cancelar_operacao", "origem": "respostas", "base": "calma"}
+{"pergunta": "cala", "intencao": "cancelar_operacao", "origem": "respostas", "base": "calma"}
+{"pergunta": "peraíí", "intencao": "cancelar_operacao", "origem": "respostas", "base": "peraí"}
+{"pergunta": "persi", "intencao": "cancelar_operacao", "origem": "respostas", "base": "peraí"}
+{"pergunta": "perí", "intencao": "cancelar_operacao", "origem": "respostas", "base": "peraí"}
+{"pergunta": "perai", "intencao": "cancelar_operacao", "origem": "respostas", "base": "peraí"}
+{"pergunta": "opa não", "intencao": "cancelar_operacao", "origem": "respostas", "base": "opa nao"}
+{"pergunta": "opa nãoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "opa nao"}
+{"pergunta": "opaa nao", "intencao": "cancelar_operacao", "origem": "respostas", "base": "opa nao"}
+{"pergunta": "opaa errado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "opa errado"}
+{"pergunta": "opa errdo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "opa errado"}
+{"pergunta": "OPA ERRADO", "intencao": "cancelar_operacao", "origem": "respostas", "base": "opa errado"}
+{"pergunta": "opa erado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "opa errado"}
+{"pergunta": "mee engani", "intencao": "cancelar_operacao", "origem": "respostas", "base": "me enganei"}
+{"pergunta": "ME ENGANEI", "intencao": "cancelar_operacao", "origem": "respostas", "base": "me enganei"}
+{"pergunta": "MEE ENGANEI", "intencao": "cancelar_operacao", "origem": "respostas", "base": "me enganei"}
+{"pergunta": "me eganei", "intencao": "cancelar_operacao", "origem": "respostas", "base": "me enganei"}
+{"pergunta": "erreoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "errei"}
+{"pergunta": "erreii", "intencao": "cancelar_operacao", "origem": "respostas", "base": "errei"}
+{"pergunta": "errei", "intencao": "cancelar_operacao", "origem": "respostas", "base": "errei"}
+{"pergunta": "eereii", "intencao": "cancelar_operacao", "origem": "respostas", "base": "errei"}
+{"pergunta": "erei", "intencao": "cancelar_operacao", "origem": "respostas", "base": "errei"}
+{"pergunta": "digiyei errado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "digitei errado"}
+{"pergunta": "digitei erado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "digitei errado"}
+{"pergunta": "digitei errado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "digitei errado"}
+{"pergunta": "digiei errado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "digitei errado"}
+{"pergunta": "digiteii errado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "digitei errado"}
+{"pergunta": "nao era issoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao era isso"}
+{"pergunta": "nao era isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao era isso"}
+{"pergunta": "nao eraa isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao era isso"}
+{"pergunta": "nao era iaso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao era isso"}
+{"pergunta": "nao era esse prosuto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao era esse produto"}
+{"pergunta": "nao era esse poduto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao era esse produto"}
+{"pergunta": "nao era esse produto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao era esse produto"}
+{"pergunta": "nao era esse prodto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao era esse produto"}
+{"pergunta": "naoo era esse produto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao era esse produto"}
+{"pergunta": "ESSE NAO", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esse nao"}
+{"pergunta": "ESSE NAOO", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esse nao"}
+{"pergunta": "easee nao", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esse nao"}
+{"pergunta": "esae nao", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esse nao"}
+{"pergunta": "prosuto errado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "produto errado"}
+{"pergunta": "produto errado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "produto errado"}
+{"pergunta": "priduto errado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "produto errado"}
+{"pergunta": "produto rrado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "produto errado"}
+{"pergunta": "prduti errado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "produto errado"}
+{"pergunta": "valor errsdoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "valor errado"}
+{"pergunta": "valor errado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "valor errado"}
+{"pergunta": "valorr errado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "valor errado"}
+{"pergunta": "valor eerado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "valor errado"}
+{"pergunta": "naoo era esse valor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao era esse valor"}
+{"pergunta": "nao era esse valor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao era esse valor"}
+{"pergunta": "não era esse vaor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao era esse valor"}
+{"pergunta": "nao era esse valoe", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao era esse valor"}
+{"pergunta": "nao era ease valor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao era esse valor"}
+{"pergunta": "volts", "intencao": "cancelar_operacao", "origem": "respostas", "base": "volta"}
+{"pergunta": "volta", "intencao": "cancelar_operacao", "origem": "respostas", "base": "volta"}
+{"pergunta": "vlta", "intencao": "cancelar_operacao", "origem": "respostas", "base": "volta"}
+{"pergunta": "colta", "intencao": "cancelar_operacao", "origem": "respostas", "base": "volta"}
+{"pergunta": "VOTA", "intencao": "cancelar_operacao", "origem": "respostas", "base": "volta"}
+{"pergunta": "volta atrass", "intencao": "cancelar_operacao", "origem": "respostas", "base": "volta atras"}
+{"pergunta": "voltá stras", "intencao": "cancelar_operacao", "origem": "respostas", "base": "volta atras"}
+{"pergunta": "VLTA ATRAS", "intencao": "cancelar_operacao", "origem": "respostas", "base": "volta atras"}
+{"pergunta": "volta atras", "intencao": "cancelar_operacao", "origem": "respostas", "base": "volta atras"}
+{"pergunta": "desfaz", "intencao": "cancelar_operacao", "origem": "respostas", "base": "desfaz"}
+{"pergunta": "desfz", "intencao": "cancelar_operacao", "origem": "respostas", "base": "desfaz"}
+{"pergunta": "deafazz", "intencao": "cancelar_operacao", "origem": "respostas", "base": "desfaz"}
+{"pergunta": "desfazz", "intencao": "cancelar_operacao", "origem": "respostas", "base": "desfaz"}
+{"pergunta": "ANULA", "intencao": "cancelar_operacao", "origem": "respostas", "base": "anula"}
+{"pergunta": "amula", "intencao": "cancelar_operacao", "origem": "respostas", "base": "anula"}
+{"pergunta": "anuláá", "intencao": "cancelar_operacao", "origem": "respostas", "base": "anula"}
+{"pergunta": "rfaz", "intencao": "cancelar_operacao", "origem": "respostas", "base": "refaz"}
+{"pergunta": "reaz", "intencao": "cancelar_operacao", "origem": "respostas", "base": "refaz"}
+{"pergunta": "REFAZ", "intencao": "cancelar_operacao", "origem": "respostas", "base": "refaz"}
+{"pergunta": "refazz", "intencao": "cancelar_operacao", "origem": "respostas", "base": "refaz"}
+{"pergunta": "rrfaz isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "refaz isso"}
+{"pergunta": "reaz isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "refaz isso"}
+{"pergunta": "refz isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "refaz isso"}
+{"pergunta": "refaz isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "refaz isso"}
+{"pergunta": "refazz isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "refaz isso"}
+{"pergunta": "de nocoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "de novo"}
+{"pergunta": "de novo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "de novo"}
+{"pergunta": "de noco", "intencao": "cancelar_operacao", "origem": "respostas", "base": "de novo"}
+{"pergunta": "de novoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "de novo"}
+{"pergunta": "tenta dee novo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "tenta de novo"}
+{"pergunta": "tenta de novo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "tenta de novo"}
+{"pergunta": "tenta de noco", "intencao": "cancelar_operacao", "origem": "respostas", "base": "tenta de novo"}
+{"pergunta": "tentaa de novo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "tenta de novo"}
+{"pergunta": "peruntá de novo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pergunta de novo"}
+{"pergunta": "pergunta de novo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pergunta de novo"}
+{"pergunta": "pergumta de novo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pergunta de novo"}
+{"pergunta": "pergunta dee novo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pergunta de novo"}
+{"pergunta": "pergunta de novoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pergunta de novo"}
+{"pergunta": "outro produto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "outro produto"}
+{"pergunta": "otro produtoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "outro produto"}
+{"pergunta": "otro produto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "outro produto"}
+{"pergunta": "ouyro produto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "outro produto"}
+{"pergunta": "outro produtoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "outro produto"}
+{"pergunta": "outro valr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "outro valor"}
+{"pergunta": "ouro valor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "outro valor"}
+{"pergunta": "OUTRO VALOR", "intencao": "cancelar_operacao", "origem": "respostas", "base": "outro valor"}
+{"pergunta": "NÃO ESSE", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao esse"}
+{"pergunta": "naoo rsse", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao esse"}
+{"pergunta": "nao ease", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao esse"}
+{"pergunta": "naoo esse", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao esse"}
+{"pergunta": "nao esse prouto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao esse produto"}
+{"pergunta": "nao esse produto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao esse produto"}
+{"pergunta": "nao esse prduto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao esse produto"}
+{"pergunta": "nao esse prodto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao esse produto"}
+{"pergunta": "nao esse poduto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao esse produto"}
+{"pergunta": "nao esse calor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao esse valor"}
+{"pergunta": "nao esse valor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao esse valor"}
+{"pergunta": "nao esse valorr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao esse valor"}
+{"pergunta": "nao essr valor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao esse valor"}
+{"pergunta": "esse valir nao", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esse valor nao"}
+{"pergunta": "esse valoe nao", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esse valor nao"}
+{"pergunta": "esse valor não", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esse valor nao"}
+{"pergunta": "esse vaor nao", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esse valor nao"}
+{"pergunta": "taa errado isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "ta errado isso"}
+{"pergunta": "ta errado issoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "ta errado isso"}
+{"pergunta": "ta errado isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "ta errado isso"}
+{"pergunta": "taa erado isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "ta errado isso"}
+{"pergunta": "isso ta erradoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "isso ta errado"}
+{"pergunta": "issoo ta errado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "isso ta errado"}
+{"pergunta": "isso ta errado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "isso ta errado"}
+{"pergunta": "isso ta eerado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "isso ta errado"}
+{"pergunta": "nao e esse", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao e esse"}
+{"pergunta": "nao e essr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao e esse"}
+{"pergunta": "nao e essee", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao e esse"}
+{"pergunta": "nao e rsse", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao e esse"}
+{"pergunta": "nao e esse produto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao e esse produto"}
+{"pergunta": "nãoo e esse produto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao e esse produto"}
+{"pergunta": "nao e esse prodto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao e esse produto"}
+{"pergunta": "nao e esse prduto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao e esse produto"}
+{"pergunta": "erou", "intencao": "cancelar_operacao", "origem": "respostas", "base": "errou"}
+{"pergunta": "ERROU", "intencao": "cancelar_operacao", "origem": "respostas", "base": "errou"}
+{"pergunta": "rrrou", "intencao": "cancelar_operacao", "origem": "respostas", "base": "errou"}
+{"pergunta": "errouu", "intencao": "cancelar_operacao", "origem": "respostas", "base": "errou"}
+{"pergunta": "voce errou", "intencao": "cancelar_operacao", "origem": "respostas", "base": "voce errou"}
+{"pergunta": "vocee erou", "intencao": "cancelar_operacao", "origem": "respostas", "base": "voce errou"}
+{"pergunta": "voce erou", "intencao": "cancelar_operacao", "origem": "respostas", "base": "voce errou"}
+{"pergunta": "coce errou", "intencao": "cancelar_operacao", "origem": "respostas", "base": "voce errou"}
+{"pergunta": "coce errouu", "intencao": "cancelar_operacao", "origem": "respostas", "base": "voce errou"}
+{"pergunta": "nao foi isso que eu pedi", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao foi isso que eu pedi"}
+{"pergunta": "nao foi osso que eu pedi", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao foi isso que eu pedi"}
+{"pergunta": "naoo foi isso que eu pedi", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao foi isso que eu pedi"}
+{"pergunta": "nao foi isso que eu pedii", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao foi isso que eu pedi"}
+{"pergunta": "nao pedi issoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao pedi isso"}
+{"pergunta": "nao pedi isao", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao pedi isso"}
+{"pergunta": "não pedi isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao pedi isso"}
+{"pergunta": "nao prdi isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao pedi isso"}
+{"pergunta": "para com isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para com isso"}
+{"pergunta": "para com issoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para com isso"}
+{"pergunta": "paraa com isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para com isso"}
+{"pergunta": "para com issi", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para com isso"}
+{"pergunta": "para comm isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para com isso"}
+{"pergunta": "PARAA AGORA", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para agora"}
+{"pergunta": "para aira", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para agora"}
+{"pergunta": "PARA AGORA", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para agora"}
+{"pergunta": "para agra", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para agora"}
+{"pergunta": "para ai", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para ai"}
+{"pergunta": "PARAA AI", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para ai"}
+{"pergunta": "pars aí", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para ai"}
+{"pergunta": "paree", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pare"}
+{"pergunta": "pare", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pare"}
+{"pergunta": "psree", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pare"}
+{"pergunta": "nem penssr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nem pensar"}
+{"pergunta": "nem pemsar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nem pensar"}
+{"pergunta": "nem pensar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nem pensar"}
+{"pergunta": "nem pnsar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nem pensar"}
+{"pergunta": "nem pensae", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nem pensar"}
+{"pergunta": "recuss", "intencao": "cancelar_operacao", "origem": "respostas", "base": "recusa"}
+{"pergunta": "recusaa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "recusa"}
+{"pergunta": "recusa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "recusa"}
+{"pergunta": "rcusa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "recusa"}
+{"pergunta": "EECUSO", "intencao": "cancelar_operacao", "origem": "respostas", "base": "recuso"}
+{"pergunta": "recuso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "recuso"}
+{"pergunta": "reusi", "intencao": "cancelar_operacao", "origem": "respostas", "base": "recuso"}
+{"pergunta": "recusoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "recuso"}
+{"pergunta": "DESISTE", "intencao": "cancelar_operacao", "origem": "respostas", "base": "desiste"}
+{"pergunta": "desistee", "intencao": "cancelar_operacao", "origem": "respostas", "base": "desiste"}
+{"pergunta": "sesistee", "intencao": "cancelar_operacao", "origem": "respostas", "base": "desiste"}
+{"pergunta": "DESISTO", "intencao": "cancelar_operacao", "origem": "respostas", "base": "desisto"}
+{"pergunta": "sesisto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "desisto"}
+{"pergunta": "desiso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "desisto"}
+{"pergunta": "DESSTO", "intencao": "cancelar_operacao", "origem": "respostas", "base": "desisto"}
+{"pergunta": "deixa queto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa quieto"}
+{"pergunta": "deixaa quieto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa quieto"}
+{"pergunta": "deixa quieto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa quieto"}
+{"pergunta": "dixa quieto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa quieto"}
+{"pergunta": "melhor dexar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "melhor deixar"}
+{"pergunta": "melhr deixar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "melhor deixar"}
+{"pergunta": "melhor deixsr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "melhor deixar"}
+{"pergunta": "melhorr deixar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "melhor deixar"}
+{"pergunta": "melhor deixar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "melhor deixar"}
+{"pergunta": "nãoo vale", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao vale"}
+{"pergunta": "NAO VALE", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao vale"}
+{"pergunta": "abotar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "abortar"}
+{"pergunta": "ABORTAR", "intencao": "cancelar_operacao", "origem": "respostas", "base": "abortar"}
+{"pergunta": "ABORTARR", "intencao": "cancelar_operacao", "origem": "respostas", "base": "abortar"}
+{"pergunta": "aborta", "intencao": "cancelar_operacao", "origem": "respostas", "base": "aborta"}
+{"pergunta": "abotá", "intencao": "cancelar_operacao", "origem": "respostas", "base": "aborta"}
+{"pergunta": "abortaa", "intencao": "cancelar_operacao", "origem": "respostas", "base": "aborta"}
+{"pergunta": "aborya", "intencao": "cancelar_operacao", "origem": "respostas", "base": "aborta"}
+{"pergunta": "ABORA", "intencao": "cancelar_operacao", "origem": "respostas", "base": "aborta"}
+{"pergunta": "psra por favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para por favor"}
+{"pergunta": "para por favr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para por favor"}
+{"pergunta": "para por favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para por favor"}
+{"pergunta": "para por faor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para por favor"}
+{"pergunta": "paraa por fsvor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para por favor"}
+{"pergunta": "nao por favorr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao por favor"}
+{"pergunta": "nao por favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao por favor"}
+{"pergunta": "nao por favoe", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao por favor"}
+{"pergunta": "nao porr favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao por favor"}
+{"pergunta": "cancela por faor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "cancela por favor"}
+{"pergunta": "cancela por favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "cancela por favor"}
+{"pergunta": "cancea por favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "cancela por favor"}
+{"pergunta": "cacela por favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "cancela por favor"}
+{"pergunta": "para ai por favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para ai por favor"}
+{"pergunta": "pars aí por favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para ai por favor"}
+{"pergunta": "psra ai por fvor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para ai por favor"}
+{"pergunta": "para ai por favir", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para ai por favor"}
+{"pergunta": "para aí por favr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "para ai por favor"}
+{"pergunta": "nao faz por facor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao faz por favor"}
+{"pergunta": "nao faz por faoe", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao faz por favor"}
+{"pergunta": "não faz por favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao faz por favor"}
+{"pergunta": "nao faz por favr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao faz por favor"}
+{"pergunta": "deixa por favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa por favor"}
+{"pergunta": "dixa por favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa por favor"}
+{"pergunta": "deixa por favrr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa por favor"}
+{"pergunta": "deixa por faor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa por favor"}
+{"pergunta": "drixa por favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "deixa por favor"}
+{"pergunta": "esquece por favorr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esquece por favor"}
+{"pergunta": "esquece por fsvor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esquece por favor"}
+{"pergunta": "esquece por favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esquece por favor"}
+{"pergunta": "esquece por favoe", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esquece por favor"}
+{"pergunta": "esquece porr favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "esquece por favor"}
+{"pergunta": "melhor não por favorr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "melhor nao por favor"}
+{"pergunta": "melhor nao porr faor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "melhor nao por favor"}
+{"pergunta": "melhorr nao por favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "melhor nao por favor"}
+{"pergunta": "melhor não por favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "melhor nao por favor"}
+{"pergunta": "refaz por favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "refaz por favor"}
+{"pergunta": "refaz por favorr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "refaz por favor"}
+{"pergunta": "refaz por favr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "refaz por favor"}
+{"pergunta": "refaz por fsvor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "refaz por favor"}
+{"pergunta": "refsz por favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "refaz por favor"}
+{"pergunta": "outroo por favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "outro por favor"}
+{"pergunta": "outro por faor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "outro por favor"}
+{"pergunta": "outeo por favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "outro por favor"}
+{"pergunta": "outro por fvor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "outro por favor"}
+{"pergunta": "outro por favor", "intencao": "cancelar_operacao", "origem": "respostas", "base": "outro por favor"}
+{"pergunta": "não obrigado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao obrigado"}
+{"pergunta": "nao obrgado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao obrigado"}
+{"pergunta": "nao obrigadoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao obrigado"}
+{"pergunta": "nao valeuu", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao valeu"}
+{"pergunta": "nao valeu", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao valeu"}
+{"pergunta": "NAOO VALEU", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao valeu"}
+{"pergunta": "não vsleu", "intencao": "cancelar_operacao", "origem": "respostas", "base": "nao valeu"}
+{"pergunta": "assim naoo obrigao", "intencao": "cancelar_operacao", "origem": "respostas", "base": "assim nao obrigado"}
+{"pergunta": "assim não obrigado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "assim nao obrigado"}
+{"pergunta": "asim nao obrigado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "assim nao obrigado"}
+{"pergunta": "assimm nao obrigado", "intencao": "cancelar_operacao", "origem": "respostas", "base": "assim nao obrigado"}
+{"pergunta": "prefiro que nãoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "prefiro que nao"}
+{"pergunta": "prfiro que naoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "prefiro que nao"}
+{"pergunta": "prefiro que não", "intencao": "cancelar_operacao", "origem": "respostas", "base": "prefiro que nao"}
+{"pergunta": "prefro que naoo", "intencao": "cancelar_operacao", "origem": "respostas", "base": "prefiro que nao"}
+{"pergunta": "pderia nao fazee", "intencao": "cancelar_operacao", "origem": "respostas", "base": "poderia nao fazer"}
+{"pergunta": "poeria nao fazer", "intencao": "cancelar_operacao", "origem": "respostas", "base": "poderia nao fazer"}
+{"pergunta": "podria nao fazer", "intencao": "cancelar_operacao", "origem": "respostas", "base": "poderia nao fazer"}
+{"pergunta": "poderia nao fazer", "intencao": "cancelar_operacao", "origem": "respostas", "base": "poderia nao fazer"}
+{"pergunta": "pode parsr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode parar"}
+{"pergunta": "pode prar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode parar"}
+{"pergunta": "pode paar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode parar"}
+{"pergunta": "pode pararr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode parar"}
+{"pergunta": "pode parar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode parar"}
+{"pergunta": "pode cancelar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode cancelar"}
+{"pergunta": "pode cancelarr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode cancelar"}
+{"pergunta": "podre cancelar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode cancelar"}
+{"pergunta": "pode cacelár", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode cancelar"}
+{"pergunta": "PODE DEIXARR", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode deixar"}
+{"pergunta": "podee deixar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode deixar"}
+{"pergunta": "pode dexarr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode deixar"}
+{"pergunta": "pode deixar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode deixar"}
+{"pergunta": "pode drixar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode deixar"}
+{"pergunta": "pose esquecer", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode esquecer"}
+{"pergunta": "pode esquecr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode esquecer"}
+{"pergunta": "pode esquecer", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode esquecer"}
+{"pergunta": "pode esquecerr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode esquecer"}
+{"pergunta": "pode esqucer", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode esquecer"}
+{"pergunta": "PODE REFAZER", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode refazer"}
+{"pergunta": "pode refzer", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode refazer"}
+{"pergunta": "pose refazerr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode refazer"}
+{"pergunta": "pode refazerr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode refazer"}
+{"pergunta": "PODE ABORTAR", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode abortar"}
+{"pergunta": "pode abortarr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode abortar"}
+{"pergunta": "POSE ABORTAR", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode abortar"}
+{"pergunta": "PODR ANULAR", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode anular"}
+{"pergunta": "PODE ANLAR", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode anular"}
+{"pergunta": "pode anularr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode anular"}
+{"pergunta": "pode anular", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode anular"}
+{"pergunta": "podee desfazer", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode desfazer"}
+{"pergunta": "podee desfzer", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode desfazer"}
+{"pergunta": "pode desfazer", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode desfazer"}
+{"pergunta": "pode drsfazer", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode desfazer"}
+{"pergunta": "pode dsfazer", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode desfazer"}
+{"pergunta": "PODE VOLTÁR", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode voltar"}
+{"pergunta": "pode voltarr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode voltar"}
+{"pergunta": "pode corrigie", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode corrigir"}
+{"pergunta": "pode coreigir", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode corrigir"}
+{"pergunta": "pode corrigir", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode corrigir"}
+{"pergunta": "pode corrigirr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode corrigir"}
+{"pergunta": "podee corrigir", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode corrigir"}
+{"pergunta": "PODE TROAR", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode trocar"}
+{"pergunta": "podee trocar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode trocar"}
+{"pergunta": "pode trocar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode trocar"}
+{"pergunta": "pode trcar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode trocar"}
+{"pergunta": "pode trocr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode trocar"}
+{"pergunta": "pode deixar pra la", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode deixar pra la"}
+{"pergunta": "podee deixar pra la", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode deixar pra la"}
+{"pergunta": "podee dexar pra la", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode deixar pra la"}
+{"pergunta": "pode deiar pra la", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode deixar pra la"}
+{"pergunta": "podee parar ai", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode parar ai"}
+{"pergunta": "pode prar ai", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode parar ai"}
+{"pergunta": "pode parar ai", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode parar ai"}
+{"pergunta": "pode pararr ai", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode parar ai"}
+{"pergunta": "pode paar ai", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode parar ai"}
+{"pergunta": "pode cancelár isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode cancelar isso"}
+{"pergunta": "pode canclar isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode cancelar isso"}
+{"pergunta": "pode cancelar iaso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode cancelar isso"}
+{"pergunta": "pode cancelsr isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode cancelar isso"}
+{"pergunta": "pode deixar quieto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode deixar quieto"}
+{"pergunta": "pode deixar quieti", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode deixar quieto"}
+{"pergunta": "pode dexar quieto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode deixar quieto"}
+{"pergunta": "podee dexar quieto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode deixar quieto"}
+{"pergunta": "pode deixarr quieto", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode deixar quieto"}
+{"pergunta": "podee esquecer isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode esquecer isso"}
+{"pergunta": "podee eaquecer isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode esquecer isso"}
+{"pergunta": "pode esqueer issi", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode esquecer isso"}
+{"pergunta": "pode esquecer isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode esquecer isso"}
+{"pergunta": "pode equecer isso", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode esquecer isso"}
+{"pergunta": "pode voltar aras", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode voltar atras"}
+{"pergunta": "pose voltar atras", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode voltar atras"}
+{"pergunta": "pode voltárr atras", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode voltar atras"}
+{"pergunta": "pode voltar atras", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode voltar atras"}
+{"pergunta": "pode voltar atrss", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode voltar atras"}
+{"pergunta": "pode naoo fazer", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode nao fazer"}
+{"pergunta": "podr nao fazer", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode nao fazer"}
+{"pergunta": "pode nao fzer", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode nao fazer"}
+{"pergunta": "pode nao fazer", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode nao fazer"}
+{"pergunta": "pode deixar assim", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode deixar assim"}
+{"pergunta": "pode deixae assím", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode deixar assim"}
+{"pergunta": "pode deixar assimm", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode deixar assim"}
+{"pergunta": "pode deixarr assím", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode deixar assim"}
+{"pergunta": "pode deixar asaim", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode deixar assim"}
+{"pergunta": "pode não alterr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode nao alterar"}
+{"pergunta": "pode nao alerar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode nao alterar"}
+{"pergunta": "pode nao alterarr", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode nao alterar"}
+{"pergunta": "pode nao alterar", "intencao": "cancelar_operacao", "origem": "respostas", "base": "pode nao alterar"}

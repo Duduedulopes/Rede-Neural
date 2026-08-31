@@ -1,0 +1,5 @@
+# Fase 1 e 2: rede do zero. Nada alem disto e necessario.
+numpy>=1.26
+
+# Desenvolvimento
+pytest>=8.0

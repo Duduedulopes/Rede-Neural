@@ -1,0 +1,593 @@
+{"pergunta": "quantas pessoas estao na loja agora", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "tem gente na loja?", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "quantos clientes agora", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "quem esta na loja", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "tem alguem ai dentro", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "qnts clientes tem agora", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "quantas pessoas la dentro", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "tem cliente na loja nesse momento", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "quantos corpos rastreados", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "tem movimento na loja", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "quantas pessoas circulando", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "alguem na loja?", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "ta cheio?", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "ta vazio a loja", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "numero de clientes agora", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "quantos estao comprando agora", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "quantas pessoas o sistema ta vendo", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "tem cliente dentro", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "quantos rastros ativos", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "me diz quantas pessoas tem ai", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "quanta gente ta na loja", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "tem gente comprando agora", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "loja tem gente?", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "quantos clientes estao dentro da loja agora", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "movimento de clientes agora", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "quantos produtos temos", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "qual o estoque", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "quanto tem de agua", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "estoque de refrigerante", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "quantas unidades no total", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "tem quanto de chocolate", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "qnt de batata chips tem", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "quantos itens cadastrados", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "me mostra o estoque", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "quantos produtos no catalogo", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "tem cafe ainda?", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "quantas aguas tem", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "estoque do suco", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "qual a quantidade de barra de cereal", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "quanto sanduiche sobrou", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "total de produtos", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "quantidade em estoque", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "quantas unidades tem no total", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "o catalogo tem quantos itens", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "tem quanto de cada coisa", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "estoque geral", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "quanto vale o estoque", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "quantos produtos ativos", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "me da o estoque de chocolate", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "tem coca?", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "o que esta acabando", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "o que ta acabando", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "produtos em baixa", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "o que preciso repor", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "estoque baixo", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "o que ta faltando", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "quais produtos estao no minimo", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "o que precisa de reposicao", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "tem alguma coisa acabando", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "o que vai acabar", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "algum produto em falta", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "o que devo comprar", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "lista de reposicao", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "o que ta no vermelho", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "produtos abaixo do minimo", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "o que precisa repor hoje", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "algo acabando?", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "me avisa o que ta baixo", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "quais itens em baixa", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "o que ta no fim", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "preciso repor alguma coisa?", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "estoque critico", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "o que ta pra acabar", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "quais produtos estao acabando", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "falta alguma coisa", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "quanto faturamos hoje", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "qual o faturamento", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quanto vendemos", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quanto vendi hoje", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "faturamento de hoje", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quanto deu de venda", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quanto entrou de dinheiro", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "qual a receita de hoje", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quanto q eu vendi hj", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "vendas de hoje", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quanto ta o caixa", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "faturamento total", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quanto ja vendemos", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "receita total", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quanto de venda ate agora", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quanto foi o faturamento de hoje", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "total vendido", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quanto lucrei", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "qual o ticket medio", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quantas vendas hoje", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quanto arrecadamos", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "me da o faturamento", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "vendas totais", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quanto de dinheiro entrou hoje", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "resultado de vendas", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "o que tem no carrinho", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "o que o cliente ta levando", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "carrinho atual", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "o que ta no carrinho agora", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "quais itens o cliente pegou", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "o que a pessoa comprou", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "mostra o carrinho", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "o cliente pegou o que", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "itens da sessao", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "sessao aberta tem o que", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "o que tem na sacola", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "quanto ta o carrinho", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "total do carrinho", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "o que ele pegou", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "quais produtos no carrinho", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "compra em andamento", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "sessao atual", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "o que ta sendo comprado", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "carrinho da sessao aberta", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "itens comprados agora", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "o que o cliente colocou no carrinho", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "ver carrinho", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "compra atual", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "quantos itens no carrinho", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "o que foi pego", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "como estao as cameras", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "as cameras estao ok", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "status das cameras", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "cameras funcionando?", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "quantas cameras online", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "tem camera caida", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "o sistema espacial ta ok", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "so espacial funcionando", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "camera com problema", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "as tres cameras estao de pe", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "fps das cameras", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "camera caiu?", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "estado do rastreio", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "as cameras ta tudo certo", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "verificar cameras", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "alguma camera offline", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "o rastreamento ta funcionando", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "cameras ligadas", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "quantas cameras estao online agora", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "diagnostico das cameras", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "sistema de visao ok?", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "tem camera fora do ar", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "as cameras", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "checar cameras", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "tudo certo com as cameras", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "ajuda", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "o que voce faz", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "quais comandos", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "o que posso perguntar", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "me ajuda", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "como funciona", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "o que voce sabe", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "o que da pra perguntar", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "quais suas funcoes", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "me explica", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "o que voce consegue responder", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "opcoes", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "menu", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "comandos disponiveis", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "help", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "nao sei o que perguntar", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "o que voce pode fazer", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "suas funcoes", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "me mostra o que da pra fazer", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "quais perguntas voce entende", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "como te uso", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "pra que voce serve", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "o que da pra ver aqui", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "lista de comandos", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "o que voce responde", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "oi", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "ola", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "bom dia", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "boa tarde", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "boa noite", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "e ai", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "opa", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "oi gerente", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "ola tudo bem", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "salve", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "fala ai", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "hey", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "oi bom dia", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "tudo bem?", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "como vai", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "ola gerente", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "eai", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "oii", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "boa", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "chegando", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "cheguei", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "oi de novo", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "bom dia gerente", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "ola bom dia", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "oie", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "quanto custa o baly", "intencao": "preco", "origem": "semente"}
+{"pergunta": "qual o preco da agua", "intencao": "preco", "origem": "semente"}
+{"pergunta": "preco do chocolate", "intencao": "preco", "origem": "semente"}
+{"pergunta": "quanto ta o refrigerante", "intencao": "preco", "origem": "semente"}
+{"pergunta": "valor do sanduiche", "intencao": "preco", "origem": "semente"}
+{"pergunta": "por quanto vende o cafe", "intencao": "preco", "origem": "semente"}
+{"pergunta": "qual o valor da barra de cereal", "intencao": "preco", "origem": "semente"}
+{"pergunta": "preco dos produtos", "intencao": "preco", "origem": "semente"}
+{"pergunta": "tabela de precos", "intencao": "preco", "origem": "semente"}
+{"pergunta": "quanto custa cada item", "intencao": "preco", "origem": "semente"}
+{"pergunta": "qual o preco", "intencao": "preco", "origem": "semente"}
+{"pergunta": "quanto sai a batata chips", "intencao": "preco", "origem": "semente"}
+{"pergunta": "valor unitario do suco", "intencao": "preco", "origem": "semente"}
+{"pergunta": "por quanto ta a agua", "intencao": "preco", "origem": "semente"}
+{"pergunta": "custo do chocolate", "intencao": "preco", "origem": "semente"}
+{"pergunta": "me da os precos", "intencao": "preco", "origem": "semente"}
+{"pergunta": "quanto custa", "intencao": "preco", "origem": "semente"}
+{"pergunta": "qual valor do produto", "intencao": "preco", "origem": "semente"}
+{"pergunta": "preco de venda", "intencao": "preco", "origem": "semente"}
+{"pergunta": "quanto ta custando o cafe", "intencao": "preco", "origem": "semente"}
+{"pergunta": "valores da loja", "intencao": "preco", "origem": "semente"}
+{"pergunta": "quanto vale cada produto", "intencao": "preco", "origem": "semente"}
+{"pergunta": "lista de precos", "intencao": "preco", "origem": "semente"}
+{"pergunta": "o baly custa quanto", "intencao": "preco", "origem": "semente"}
+{"pergunta": "quanto ta o preco do suco", "intencao": "preco", "origem": "semente"}
+{"pergunta": "qual a cor do ceu", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "que horas sao", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "como esta o tempo hoje", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "me conta uma piada", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "qual a capital da franca", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "quem descobriu o brasil", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "quanto e 2 mais 2", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "voce e uma ia?", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "qual seu nome", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "vai chover amanha", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "me ajuda com o dever de casa", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "traduz isso pro ingles", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "qual o resultado do jogo", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "como faz bolo", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "quantos anos voce tem", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "escreve um poema", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "qual a melhor linguagem de programacao", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "me explica fisica quantica", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "quem ganhou as eleicoes", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "qual a distancia ate a lua", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "voce gosta de musica", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "conta ate dez", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "qual o sentido da vida", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "abre o navegador", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "manda mensagem pro joao", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "tem quantas pessoas ai", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "loja movimentada?", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "quantos clientes no salao", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "alguem comprando agora", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "tem fila?", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "quantas pessoas passaram hoje", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "fluxo de clientes", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "tem cliente parado na gondola", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "quantos na frente da estante", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "alguem na zona de saida", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "tem gente perto do caixa", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "quantas pessoas identificadas", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "o rastreio pegou quantas pessoas", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "loja ocupada?", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "tem cliente agora ou nao", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "me diz o movimento", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "quantos clientes ativos", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "tem alguem sendo rastreado", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "quantas pessoas o sistema conta", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "cliente na loja", "intencao": "pessoas_na_loja", "origem": "semente"}
+{"pergunta": "quantas unidades de agua", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "sobrou quanto de coca", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "tem quantos chocolates", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "me da a posicao de estoque", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "quanto tem no deposito", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "inventario", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "posicao dos produtos", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "quantos itens temos ao todo", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "estoque atual", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "quantidade de cada produto", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "tem quanto de tudo", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "cadastro de produtos", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "quantos skus", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "me lista os produtos", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "quais produtos existem", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "tem sanduiche?", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "sobrou barra de cereal", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "conta o estoque pra mim", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "quantas pecas no total", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "estoque por produto", "intencao": "estoque", "origem": "semente"}
+{"pergunta": "preciso comprar o que", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "o que ta pouco", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "tem item zerado", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "algum produto zerou", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "o que devo pedir ao fornecedor", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "alerta de estoque", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "quais estao no limite", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "produtos criticos", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "o que ta perto de acabar", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "me avisa o que repor", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "tem coisa faltando", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "reposicao urgente", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "o que precisa de atencao no estoque", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "algum alerta de estoque", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "quais produtos abaixo do limite", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "o que sumiu da prateleira", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "tem produto acabado", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "lista do que comprar", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "estoque no minimo", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "quais itens preciso repor primeiro", "intencao": "estoque_baixo", "origem": "semente"}
+{"pergunta": "quanto entrou hoje", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "vendas do dia", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quanto ja fechou de venda", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "qual foi a receita", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quanto de grana entrou", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "resultado do dia", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "faturamento da semana", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quanto vendemos no mes", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "total de vendas hoje", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quantas compras foram fechadas", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quanto de dinheiro fizemos", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "movimento financeiro", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quanto rendeu hoje", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "vendas fechadas", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quanto foi pago hoje", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "somatorio das vendas", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quanto o caixa fez", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "receita do dia de hoje", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "faturei quanto", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "balanço de vendas", "intencao": "faturamento", "origem": "semente"}
+{"pergunta": "quais itens estao na sessao", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "o cliente ja pegou o que", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "sacola atual", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "o que ta sendo levado", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "mostra a compra em andamento", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "quanto ja tem no carrinho", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "itens da compra atual", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "o que entrou no carrinho", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "produtos escolhidos agora", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "compra aberta", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "o cliente pegou quantos itens", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "valor da compra atual", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "quanto ta a compra", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "detalhe da sessao aberta", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "o que tem na compra", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "carrinho tem o que", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "o que foi adicionado", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "itens em maos do cliente", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "sessao em andamento", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "compra em curso", "intencao": "carrinho", "origem": "semente"}
+{"pergunta": "sistema de rastreio ok", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "as webcams estao boas", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "camera do teto funcionando", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "camera frontal ok", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "camera lateral caiu", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "a c920 ta online", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "quantos quadros por segundo", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "a visao ta boa", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "problema de camera", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "cameras conectadas", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "o gemeo digital ta rodando", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "estado do so espacial", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "as vistas estao ativas", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "perdi alguma camera", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "camera desconectou", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "diagnostico do rastreio", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "o sistema espacial responde", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "cameras de pe", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "tudo online?", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "saude das cameras", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "quanto sai o refrigerante", "intencao": "preco", "origem": "semente"}
+{"pergunta": "valor do chocolate", "intencao": "preco", "origem": "semente"}
+{"pergunta": "por quanto vendo a agua", "intencao": "preco", "origem": "semente"}
+{"pergunta": "qual o preco de venda", "intencao": "preco", "origem": "semente"}
+{"pergunta": "quanto custa o suco", "intencao": "preco", "origem": "semente"}
+{"pergunta": "precos atuais", "intencao": "preco", "origem": "semente"}
+{"pergunta": "me diz o preco", "intencao": "preco", "origem": "semente"}
+{"pergunta": "tabela de valores", "intencao": "preco", "origem": "semente"}
+{"pergunta": "quanto ta cada um", "intencao": "preco", "origem": "semente"}
+{"pergunta": "valor do cafe expresso", "intencao": "preco", "origem": "semente"}
+{"pergunta": "preco unitario", "intencao": "preco", "origem": "semente"}
+{"pergunta": "quanto e o sanduiche", "intencao": "preco", "origem": "semente"}
+{"pergunta": "quanto custa a barra", "intencao": "preco", "origem": "semente"}
+{"pergunta": "valores dos produtos", "intencao": "preco", "origem": "semente"}
+{"pergunta": "preco de tudo", "intencao": "preco", "origem": "semente"}
+{"pergunta": "o chocolate sai por quanto", "intencao": "preco", "origem": "semente"}
+{"pergunta": "quanto vale o refrigerante", "intencao": "preco", "origem": "semente"}
+{"pergunta": "custo de venda", "intencao": "preco", "origem": "semente"}
+{"pergunta": "quanto e a agua mineral", "intencao": "preco", "origem": "semente"}
+{"pergunta": "preco por item", "intencao": "preco", "origem": "semente"}
+{"pergunta": "o que da pra fazer aqui", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "me lista as opcoes", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "quais informacoes voce tem", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "sobre o que posso perguntar", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "voce responde o que", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "como conversar com voce", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "que tipo de pergunta", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "me orienta", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "nao entendi como usar", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "quais dados voce acessa", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "de onde vem seus dados", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "voce ve o que", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "quais sistemas voce le", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "me da exemplos de pergunta", "intencao": "ajuda", "origem": "semente"}
+{"pergunta": "bom dia gerente virtual", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "ola de novo", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "voltei", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "to de volta", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "bom trabalho", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "obrigado", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "valeu", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "brigado", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "tchau", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "ate mais", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "boa noite gerente", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "e ai gerente", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "fala gerente", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "oi tudo certo", "intencao": "saudacao", "origem": "semente"}
+{"pergunta": "que dia e hoje", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "toca uma musica", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "qual seu time", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "voce dorme?", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "me da a receita de brigadeiro", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "quanto e a raiz de 144", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "quem e o presidente", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "conta uma historia", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "vai chover?", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "qual o melhor celular", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "me ajuda a estudar", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "escreve um email pra mim", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "abre o excel", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "liga a luz", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "faz um resumo desse texto", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "qual a populacao do brasil", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "traduz bom dia", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "me acorda amanha", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "voce tem sentimentos", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "o que voce acha de mim", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "qual a bolsa hoje", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "cotacao do dolar", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "quanto custa um iphone", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "me ensina python", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "qual a formula de bhaskara", "intencao": "fora_de_escopo", "origem": "semente"}
+{"pergunta": "como funciona o rfid", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "o que e a prateleira p3", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "por que a camera caiu", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "como o sistema sabe quem pegou", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "o que significa surpresa em nats", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "como funciona o rastreio", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "o que e uma sessao", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "como o cliente entra na loja", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "o que o qr code faz", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "como o estoque baixa", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "o que e o so espacial", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "como voce sabe quantas pessoas tem", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "de onde vem o numero de faturamento", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "o que e altura da mao", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "por que tem tres cameras", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "como funciona o carrinho automatico", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "o que acontece quando o cliente sai", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "como o produto entra no carrinho", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "explica o gemeo digital", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "o que e o monitor do gerente", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "por que o sistema perde o rastro", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "como funciona a verificacao de saida", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "o que e zona na loja", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "como o rfid identifica o produto", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "por que preciso do minimo de estoque", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "vendemos mais que ontem", "intencao": "comparar", "origem": "semente"}
+{"pergunta": "faturamento de hoje contra ontem", "intencao": "comparar", "origem": "semente"}
+{"pergunta": "esta semana foi melhor", "intencao": "comparar", "origem": "semente"}
+{"pergunta": "comparar com o mes passado", "intencao": "comparar", "origem": "semente"}
+{"pergunta": "cresceu ou caiu", "intencao": "comparar", "origem": "semente"}
+{"pergunta": "melhorou em relacao a ontem", "intencao": "comparar", "origem": "semente"}
+{"pergunta": "como foi ontem", "intencao": "comparar", "origem": "semente"}
+{"pergunta": "diferenca de hoje pra ontem", "intencao": "comparar", "origem": "semente"}
+{"pergunta": "estamos vendendo mais", "intencao": "comparar", "origem": "semente"}
+{"pergunta": "tendencia de vendas", "intencao": "comparar", "origem": "semente"}
+{"pergunta": "vendas subiram", "intencao": "comparar", "origem": "semente"}
+{"pergunta": "caiu o movimento", "intencao": "comparar", "origem": "semente"}
+{"pergunta": "hoje foi melhor que ontem", "intencao": "comparar", "origem": "semente"}
+{"pergunta": "compara os dias", "intencao": "comparar", "origem": "semente"}
+{"pergunta": "evolucao das vendas", "intencao": "comparar", "origem": "semente"}
+{"pergunta": "qual dia vendeu mais", "intencao": "comparar", "origem": "semente"}
+{"pergunta": "melhor dia da semana", "intencao": "comparar", "origem": "semente"}
+{"pergunta": "esta pior que antes", "intencao": "comparar", "origem": "semente"}
+{"pergunta": "comparativo de faturamento", "intencao": "comparar", "origem": "semente"}
+{"pergunta": "o movimento aumentou", "intencao": "comparar", "origem": "semente"}
+{"pergunta": "qual produto mais vende", "intencao": "mais_vendidos", "origem": "semente"}
+{"pergunta": "o que mais sai", "intencao": "mais_vendidos", "origem": "semente"}
+{"pergunta": "produto campeao", "intencao": "mais_vendidos", "origem": "semente"}
+{"pergunta": "mais vendido da loja", "intencao": "mais_vendidos", "origem": "semente"}
+{"pergunta": "o que os clientes mais levam", "intencao": "mais_vendidos", "origem": "semente"}
+{"pergunta": "ranking de produtos", "intencao": "mais_vendidos", "origem": "semente"}
+{"pergunta": "top produtos", "intencao": "mais_vendidos", "origem": "semente"}
+{"pergunta": "qual item sai mais", "intencao": "mais_vendidos", "origem": "semente"}
+{"pergunta": "o que vende melhor", "intencao": "mais_vendidos", "origem": "semente"}
+{"pergunta": "produto mais popular", "intencao": "mais_vendidos", "origem": "semente"}
+{"pergunta": "o que menos vende", "intencao": "mais_vendidos", "origem": "semente"}
+{"pergunta": "qual encalha", "intencao": "mais_vendidos", "origem": "semente"}
+{"pergunta": "produto parado", "intencao": "mais_vendidos", "origem": "semente"}
+{"pergunta": "o que ninguem leva", "intencao": "mais_vendidos", "origem": "semente"}
+{"pergunta": "quais os campeoes de venda", "intencao": "mais_vendidos", "origem": "semente"}
+{"pergunta": "me da o ranking", "intencao": "mais_vendidos", "origem": "semente"}
+{"pergunta": "o que sai mais rapido", "intencao": "mais_vendidos", "origem": "semente"}
+{"pergunta": "produto de maior giro", "intencao": "mais_vendidos", "origem": "semente"}
+{"pergunta": "qual tem mais saida", "intencao": "mais_vendidos", "origem": "semente"}
+{"pergunta": "os mais pedidos", "intencao": "mais_vendidos", "origem": "semente"}
+{"pergunta": "esta tudo funcionando?", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "ta tudo funcionando", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "tudo funcionando?", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "esta tudo certo?", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "ta tudo certo", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "tudo ok?", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "ta tudo ok", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "esta tudo rodando?", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "ta rodando tudo?", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "o sistema esta no ar?", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "o sistema ta no ar", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "o sistema esta de pe?", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "os sistemas estao no ar", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "esta tudo online?", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "ta tudo online", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "tudo conectado?", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "esta tudo conectado", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "diagnostico", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "diagnostico do sistema", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "faz um diagnostico", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "me da um diagnostico geral", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "status", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "status do sistema", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "qual o status geral", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "me mostra o status de tudo", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "checagem geral", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "faz uma checagem", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "saude do sistema", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "como esta a saude do sistema", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "tem algum problema?", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "algum problema no sistema", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "ta tudo bem com o sistema", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "algo fora do ar?", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "tem alguma coisa caida?", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "caiu alguma coisa?", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "alguma falha?", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "tem alguma falha agora", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "algum erro no sistema", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "esta tudo saudavel", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "a api esta respondendo?", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "a webapi ta no ar", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "o so espacial esta rodando?", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "o so espacial ta ligado", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "o monitor esta ligado?", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "os dois sistemas estao funcionando", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "smart store e so espacial estao no ar", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "esta tudo integrado e funcionando", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "o sistema todo esta operando normal", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "tudo operacional?", "intencao": "status_sistema", "origem": "semente"}
+{"pergunta": "como funciona o sistema?", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "como funciona o sistema", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "me explica o sistema", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "explica como o sistema funciona", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "me explica como isso funciona", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "como isso tudo funciona", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "como esse sistema funciona", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "me conta como funciona", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "explica o funcionamento", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "queria entender como funciona", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "o que e um embutimento", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "o que e o limiar de confianca", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "por que voce nao entendeu minha pergunta", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "como voce classifica o que eu pergunto", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "o que e uma intencao", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "como voce foi treinado", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "quantas frases voce aprendeu", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "o que e a rede neural do gerente", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "voce usa gemini?", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "voce e o mesmo chat do aplicativo do cliente", "intencao": "duvida_sistema", "origem": "semente"}
+{"pergunta": "qual o fps da camera alta", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "qual o fps da camera frontal", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "fps da camera lateral", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "quantos quadros por segundo cada camera", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "a camera alta esta boa", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "como esta a camera frontal", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "e a camera lateral", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "qual a resolucao da camera alta", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "qual a latencia das cameras", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "quanto de latencia a camera frontal tem", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "quantos quadros estao sendo descartados", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "taxa de descarte das cameras", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "alguma camera reconectou", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "o brilho das cameras esta bom", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "me da os detalhes das cameras", "intencao": "cameras", "origem": "semente"}
+{"pergunta": "detalhe de cada camera", "intencao": "cameras", "origem": "semente"}

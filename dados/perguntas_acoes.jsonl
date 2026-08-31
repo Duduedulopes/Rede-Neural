@@ -1,0 +1,383 @@
+{"pergunta": "muda o preço da água para 5 reais", "intencao": "alterar_preco", "origem": "acoes", "base": "muda o preco da agua para 5 reais"}
+{"pergunta": "muda preco agua 5 reais", "intencao": "alterar_preco", "origem": "acoes", "base": "muda o preco da agua para 5 reais"}
+{"pergunta": "alera o valor do baly", "intencao": "alterar_preco", "origem": "acoes", "base": "altera o valor do baly"}
+{"pergunta": "altera o valor do baly", "intencao": "alterar_preco", "origem": "acoes", "base": "altera o valor do baly"}
+{"pergunta": "altera o vslor do baly", "intencao": "alterar_preco", "origem": "acoes", "base": "altera o valor do baly"}
+{"pergunta": "altera valor baly", "intencao": "alterar_preco", "origem": "acoes", "base": "altera o valor do baly"}
+{"pergunta": "quero mudar o preco do chocolate", "intencao": "alterar_preco", "origem": "acoes", "base": "quero mudar o preco do chocolate"}
+{"pergunta": "quero mudar preco chocolate", "intencao": "alterar_preco", "origem": "acoes", "base": "quero mudar o preco do chocolate"}
+{"pergunta": "quero mudar peco chocolate", "intencao": "alterar_preco", "origem": "acoes", "base": "quero mudar o preco do chocolate"}
+{"pergunta": "poe a agua a 4,50", "intencao": "alterar_preco", "origem": "acoes", "base": "poe a agua a 4,50"}
+{"pergunta": "poe agya 4,50", "intencao": "alterar_preco", "origem": "acoes", "base": "poe a agua a 4,50"}
+{"pergunta": "poe a agua a 450", "intencao": "alterar_preco", "origem": "acoes", "base": "poe a agua a 4,50"}
+{"pergunta": "poe água 4,50", "intencao": "alterar_preco", "origem": "acoes", "base": "poe a agua a 4,50"}
+{"pergunta": "o preco da coca ta errado, aruma", "intencao": "alterar_preco", "origem": "acoes", "base": "o preco da coca ta errado, arruma"}
+{"pergunta": "o prco da coca ta errado, arruma", "intencao": "alterar_preco", "origem": "acoes", "base": "o preco da coca ta errado, arruma"}
+{"pergunta": "o peco da coca ta errado, arruma", "intencao": "alterar_preco", "origem": "acoes", "base": "o preco da coca ta errado, arruma"}
+{"pergunta": "o preco da coca ta errado, arruma", "intencao": "alterar_preco", "origem": "acoes", "base": "o preco da coca ta errado, arruma"}
+{"pergunta": "atualiza valor salgadinho", "intencao": "alterar_preco", "origem": "acoes", "base": "atualiza o valor do salgadinho"}
+{"pergunta": "atualiza o valor do salgadinho", "intencao": "alterar_preco", "origem": "acoes", "base": "atualiza o valor do salgadinho"}
+{"pergunta": "atualiza o valor fo salgadinho", "intencao": "alterar_preco", "origem": "acoes", "base": "atualiza o valor do salgadinho"}
+{"pergunta": "ayualiza o valor do salgadinho", "intencao": "alterar_preco", "origem": "acoes", "base": "atualiza o valor do salgadinho"}
+{"pergunta": "preciso corrigir o preco de um produto", "intencao": "alterar_preco", "origem": "acoes", "base": "preciso corrigir o preco de um produto"}
+{"pergunta": "preciso corriir o preco de um produto", "intencao": "alterar_preco", "origem": "acoes", "base": "preciso corrigir o preco de um produto"}
+{"pergunta": "preciso corrigir o preco de um oroduto", "intencao": "alterar_preco", "origem": "acoes", "base": "preciso corrigir o preco de um produto"}
+{"pergunta": "preciso corigir o preco de um produto", "intencao": "alterar_preco", "origem": "acoes", "base": "preciso corrigir o preco de um produto"}
+{"pergunta": "reajusta o preco da água", "intencao": "alterar_preco", "origem": "acoes", "base": "reajusta o preco da agua"}
+{"pergunta": "reajusta preco agua", "intencao": "alterar_preco", "origem": "acoes", "base": "reajusta o preco da agua"}
+{"pergunta": "reajusta o preco da sgua", "intencao": "alterar_preco", "origem": "acoes", "base": "reajusta o preco da agua"}
+{"pergunta": "coloca baly por 7 reais", "intencao": "alterar_preco", "origem": "acoes", "base": "coloca o baly por 7 reais"}
+{"pergunta": "cloca baly por 7 reais", "intencao": "alterar_preco", "origem": "acoes", "base": "coloca o baly por 7 reais"}
+{"pergunta": "coloca o baly por 7 reais", "intencao": "alterar_preco", "origem": "acoes", "base": "coloca o baly por 7 reais"}
+{"pergunta": "coloca baly por 7 rs", "intencao": "alterar_preco", "origem": "acoes", "base": "coloca o baly por 7 reais"}
+{"pergunta": "yroca o preco do chocolate pra 5,90", "intencao": "alterar_preco", "origem": "acoes", "base": "troca o preco do chocolate para 5,90"}
+{"pergunta": "trca o preco do chocolate para 590", "intencao": "alterar_preco", "origem": "acoes", "base": "troca o preco do chocolate para 5,90"}
+{"pergunta": "troca preco chocolate 5,90", "intencao": "alterar_preco", "origem": "acoes", "base": "troca o preco do chocolate para 5,90"}
+{"pergunta": "troca o preco do chocolate para 5,90", "intencao": "alterar_preco", "origem": "acoes", "base": "troca o preco do chocolate para 5,90"}
+{"pergunta": "deixa o baly mais baato", "intencao": "alterar_preco", "origem": "acoes", "base": "deixa o baly mais barato"}
+{"pergunta": "deixa baly mais barato", "intencao": "alterar_preco", "origem": "acoes", "base": "deixa o baly mais barato"}
+{"pergunta": "deixa o baly msis barato", "intencao": "alterar_preco", "origem": "acoes", "base": "deixa o baly mais barato"}
+{"pergunta": "deixa o baly mais barato", "intencao": "alterar_preco", "origem": "acoes", "base": "deixa o baly mais barato"}
+{"pergunta": "aumenta preco refrigerante", "intencao": "alterar_preco", "origem": "acoes", "base": "aumenta o preco do refrigerante"}
+{"pergunta": "aumenta o preco do refrigerante", "intencao": "alterar_preco", "origem": "acoes", "base": "aumenta o preco do refrigerante"}
+{"pergunta": "aumenta pteco refrigerante", "intencao": "alterar_preco", "origem": "acoes", "base": "aumenta o preco do refrigerante"}
+{"pergunta": "aumenta o preco do refeigerante", "intencao": "alterar_preco", "origem": "acoes", "base": "aumenta o preco do refrigerante"}
+{"pergunta": "abaixa o valr do salgadinho", "intencao": "alterar_preco", "origem": "acoes", "base": "abaixa o valor do salgadinho"}
+{"pergunta": "abaixa o valor do salgadinho", "intencao": "alterar_preco", "origem": "acoes", "base": "abaixa o valor do salgadinho"}
+{"pergunta": "abaixa valor salgadinho", "intencao": "alterar_preco", "origem": "acoes", "base": "abaixa o valor do salgadinho"}
+{"pergunta": "abaixa o calor do salgadinho", "intencao": "alterar_preco", "origem": "acoes", "base": "abaixa o valor do salgadinho"}
+{"pergunta": "coerige o preco que ta errado", "intencao": "alterar_preco", "origem": "acoes", "base": "corrige o preco que ta errado"}
+{"pergunta": "corrige o preco que ta errado", "intencao": "alterar_preco", "origem": "acoes", "base": "corrige o preco que ta errado"}
+{"pergunta": "corrige preço ta errado", "intencao": "alterar_preco", "origem": "acoes", "base": "corrige o preco que ta errado"}
+{"pergunta": "corrige estoque água 30", "intencao": "alterar_estoque", "origem": "acoes", "base": "corrige o estoque da agua para 30"}
+{"pergunta": "corroge estoque agua 30", "intencao": "alterar_estoque", "origem": "acoes", "base": "corrige o estoque da agua para 30"}
+{"pergunta": "corrige o estoque da agua para 30", "intencao": "alterar_estoque", "origem": "acoes", "base": "corrige o estoque da agua para 30"}
+{"pergunta": "corrige o estoque da agua pra 30", "intencao": "alterar_estoque", "origem": "acoes", "base": "corrige o estoque da agua para 30"}
+{"pergunta": "muds a quantidade do baly", "intencao": "alterar_estoque", "origem": "acoes", "base": "muda a quantidade do baly"}
+{"pergunta": "muda a quantidade do baly", "intencao": "alterar_estoque", "origem": "acoes", "base": "muda a quantidade do baly"}
+{"pergunta": "muda a qtd do baly", "intencao": "alterar_estoque", "origem": "acoes", "base": "muda a quantidade do baly"}
+{"pergunta": "muda a quanidade do baly", "intencao": "alterar_estoque", "origem": "acoes", "base": "muda a quantidade do baly"}
+{"pergunta": "chegaram mais 20 cjocolates", "intencao": "alterar_estoque", "origem": "acoes", "base": "chegaram mais 20 chocolates"}
+{"pergunta": "chegaram mais 20 chocolates", "intencao": "alterar_estoque", "origem": "acoes", "base": "chegaram mais 20 chocolates"}
+{"pergunta": "chegaram mais 20 choclates", "intencao": "alterar_estoque", "origem": "acoes", "base": "chegaram mais 20 chocolates"}
+{"pergunta": "chegaram mais 20 chocokates", "intencao": "alterar_estoque", "origem": "acoes", "base": "chegaram mais 20 chocolates"}
+{"pergunta": "arualiza o estoque do salgadinho", "intencao": "alterar_estoque", "origem": "acoes", "base": "atualiza o estoque do salgadinho"}
+{"pergunta": "atualiza o estoque do salgadinho", "intencao": "alterar_estoque", "origem": "acoes", "base": "atualiza o estoque do salgadinho"}
+{"pergunta": "atualiza o estoqe do salgadinho", "intencao": "alterar_estoque", "origem": "acoes", "base": "atualiza o estoque do salgadinho"}
+{"pergunta": "atualiza o wstoque do salgadinho", "intencao": "alterar_estoque", "origem": "acoes", "base": "atualiza o estoque do salgadinho"}
+{"pergunta": "poe 50 unidades agua", "intencao": "alterar_estoque", "origem": "acoes", "base": "poe 50 unidades de agua"}
+{"pergunta": "poe 50 unidades de agua", "intencao": "alterar_estoque", "origem": "acoes", "base": "poe 50 unidades de agua"}
+{"pergunta": "pow 50 unidades de agua", "intencao": "alterar_estoque", "origem": "acoes", "base": "poe 50 unidades de agua"}
+{"pergunta": "o estoque da coca ta errado", "intencao": "alterar_estoque", "origem": "acoes", "base": "o estoque da coca ta errado"}
+{"pergunta": "estoque coca ta errado", "intencao": "alterar_estoque", "origem": "acoes", "base": "o estoque da coca ta errado"}
+{"pergunta": "o estoque fa coca ta erado", "intencao": "alterar_estoque", "origem": "acoes", "base": "o estoque da coca ta errado"}
+{"pergunta": "o etoque da coca ta errado", "intencao": "alterar_estoque", "origem": "acoes", "base": "o estoque da coca ta errado"}
+{"pergunta": "preciso ajustar quantidade produto", "intencao": "alterar_estoque", "origem": "acoes", "base": "preciso ajustar a quantidade de um produto"}
+{"pergunta": "preciso ajustar a qtd de um prod", "intencao": "alterar_estoque", "origem": "acoes", "base": "preciso ajustar a quantidade de um produto"}
+{"pergunta": "precuso ajustar a quantdade de um produto", "intencao": "alterar_estoque", "origem": "acoes", "base": "preciso ajustar a quantidade de um produto"}
+{"pergunta": "preciso ajustar a quantidade de um produto", "intencao": "alterar_estoque", "origem": "acoes", "base": "preciso ajustar a quantidade de um produto"}
+{"pergunta": "da baixa em 3 agus", "intencao": "alterar_estoque", "origem": "acoes", "base": "da baixa em 3 aguas"}
+{"pergunta": "da baixa em 3 aguas", "intencao": "alterar_estoque", "origem": "acoes", "base": "da baixa em 3 aguas"}
+{"pergunta": "da bixa em 3 aguas", "intencao": "alterar_estoque", "origem": "acoes", "base": "da baixa em 3 aguas"}
+{"pergunta": "baixa 3 aguas", "intencao": "alterar_estoque", "origem": "acoes", "base": "da baixa em 3 aguas"}
+{"pergunta": "entrou mercadoria mva, atualiza", "intencao": "alterar_estoque", "origem": "acoes", "base": "entrou mercadoria nova, atualiza"}
+{"pergunta": "entrou mercadoria nova, atualiza", "intencao": "alterar_estoque", "origem": "acoes", "base": "entrou mercadoria nova, atualiza"}
+{"pergunta": "entrou mercadoria nova atualiza", "intencao": "alterar_estoque", "origem": "acoes", "base": "entrou mercadoria nova, atualiza"}
+{"pergunta": "entou mercadoria nova, atualiza", "intencao": "alterar_estoque", "origem": "acoes", "base": "entrou mercadoria nova, atualiza"}
+{"pergunta": "cota de novo o estoque do baly", "intencao": "alterar_estoque", "origem": "acoes", "base": "conta de novo o estoque do baly"}
+{"pergunta": "conta de novo o estoque do baly", "intencao": "alterar_estoque", "origem": "acoes", "base": "conta de novo o estoque do baly"}
+{"pergunta": "conta novo estoque baly", "intencao": "alterar_estoque", "origem": "acoes", "base": "conta de novo o estoque do baly"}
+{"pergunta": "conta de novo o estoqie do baly", "intencao": "alterar_estoque", "origem": "acoes", "base": "conta de novo o estoque do baly"}
+{"pergunta": "acrescebta 10 estoque chocolate", "intencao": "alterar_estoque", "origem": "acoes", "base": "acrescenta 10 no estoque do chocolate"}
+{"pergunta": "acrescenta 10 no esoque do chocolate", "intencao": "alterar_estoque", "origem": "acoes", "base": "acrescenta 10 no estoque do chocolate"}
+{"pergunta": "acrescenta 10 no estoque do chocolae", "intencao": "alterar_estoque", "origem": "acoes", "base": "acrescenta 10 no estoque do chocolate"}
+{"pergunta": "acrescenta 10 no estoque do chocolate", "intencao": "alterar_estoque", "origem": "acoes", "base": "acrescenta 10 no estoque do chocolate"}
+{"pergunta": "diminui a quantidade da cocs", "intencao": "alterar_estoque", "origem": "acoes", "base": "diminui a quantidade da coca"}
+{"pergunta": "diminui a quantidade da coca", "intencao": "alterar_estoque", "origem": "acoes", "base": "diminui a quantidade da coca"}
+{"pergunta": "diminui a qtd da coca", "intencao": "alterar_estoque", "origem": "acoes", "base": "diminui a quantidade da coca"}
+{"pergunta": "diminui a wuantidade da coca", "intencao": "alterar_estoque", "origem": "acoes", "base": "diminui a quantidade da coca"}
+{"pergunta": "repoe o estoque do salgadinho", "intencao": "alterar_estoque", "origem": "acoes", "base": "repoe o estoque do salgadinho"}
+{"pergunta": "eepoe o estoque do salgadinho", "intencao": "alterar_estoque", "origem": "acoes", "base": "repoe o estoque do salgadinho"}
+{"pergunta": "repoe o estoque dp salgadinho", "intencao": "alterar_estoque", "origem": "acoes", "base": "repoe o estoque do salgadinho"}
+{"pergunta": "reoe o estoque do salgadinho", "intencao": "alterar_estoque", "origem": "acoes", "base": "repoe o estoque do salgadinho"}
+{"pergunta": "arruma a quntidade que ta errada", "intencao": "alterar_estoque", "origem": "acoes", "base": "arruma a quantidade que ta errada"}
+{"pergunta": "arruma quantidade ta errada", "intencao": "alterar_estoque", "origem": "acoes", "base": "arruma a quantidade que ta errada"}
+{"pergunta": "arruma qyantidade ta errada", "intencao": "alterar_estoque", "origem": "acoes", "base": "arruma a quantidade que ta errada"}
+{"pergunta": "arruma a quantidade que ta errada", "intencao": "alterar_estoque", "origem": "acoes", "base": "arruma a quantidade que ta errada"}
+{"pergunta": "adiciona produto novo", "intencao": "adicionar_produto", "origem": "acoes", "base": "adiciona um produto novo"}
+{"pergunta": "adiciona oroduto novo", "intencao": "adicionar_produto", "origem": "acoes", "base": "adiciona um produto novo"}
+{"pergunta": "adiciona um poduto novo", "intencao": "adicionar_produto", "origem": "acoes", "base": "adiciona um produto novo"}
+{"pergunta": "adiciona um produto novo", "intencao": "adicionar_produto", "origem": "acoes", "base": "adiciona um produto novo"}
+{"pergunta": "cadastra chocolate ao lite", "intencao": "adicionar_produto", "origem": "acoes", "base": "cadastra chocolate ao leite"}
+{"pergunta": "cadastra chocolate ao lete", "intencao": "adicionar_produto", "origem": "acoes", "base": "cadastra chocolate ao leite"}
+{"pergunta": "cadastra chocolate ao keite", "intencao": "adicionar_produto", "origem": "acoes", "base": "cadastra chocolate ao leite"}
+{"pergunta": "cadastra chocolate ao leite", "intencao": "adicionar_produto", "origem": "acoes", "base": "cadastra chocolate ao leite"}
+{"pergunta": "quero por um item novo no cstalogo", "intencao": "adicionar_produto", "origem": "acoes", "base": "quero por um item novo no catalogo"}
+{"pergunta": "quero por item novo catalogo", "intencao": "adicionar_produto", "origem": "acoes", "base": "quero por um item novo no catalogo"}
+{"pergunta": "quero por um item novo no catalogo", "intencao": "adicionar_produto", "origem": "acoes", "base": "quero por um item novo no catalogo"}
+{"pergunta": "quero por um item novo np catalgo", "intencao": "adicionar_produto", "origem": "acoes", "base": "quero por um item novo no catalogo"}
+{"pergunta": "crua um produto", "intencao": "adicionar_produto", "origem": "acoes", "base": "cria um produto"}
+{"pergunta": "cria produto", "intencao": "adicionar_produto", "origem": "acoes", "base": "cria um produto"}
+{"pergunta": "cria um prodito", "intencao": "adicionar_produto", "origem": "acoes", "base": "cria um produto"}
+{"pergunta": "cria um produto", "intencao": "adicionar_produto", "origem": "acoes", "base": "cria um produto"}
+{"pergunta": "tem prod novo cadastrar", "intencao": "adicionar_produto", "origem": "acoes", "base": "tem um produto novo pra cadastrar"}
+{"pergunta": "tem um prod novo pra cadastrar", "intencao": "adicionar_produto", "origem": "acoes", "base": "tem um produto novo pra cadastrar"}
+{"pergunta": "tem um produto novo pra cadastrar", "intencao": "adicionar_produto", "origem": "acoes", "base": "tem um produto novo pra cadastrar"}
+{"pergunta": "tem um produto novi pra cadastrar", "intencao": "adicionar_produto", "origem": "acoes", "base": "tem um produto novo pra cadastrar"}
+{"pergunta": "inclui a agua com gas no sistems", "intencao": "adicionar_produto", "origem": "acoes", "base": "inclui a agua com gas no sistema"}
+{"pergunta": "inclui a agua com gas no sustema", "intencao": "adicionar_produto", "origem": "acoes", "base": "inclui a agua com gas no sistema"}
+{"pergunta": "inclui a agua com gas no sist", "intencao": "adicionar_produto", "origem": "acoes", "base": "inclui a agua com gas no sistema"}
+{"pergunta": "inclui a agua com gas no sistema", "intencao": "adicionar_produto", "origem": "acoes", "base": "inclui a agua com gas no sistema"}
+{"pergunta": "novo produto: suco de uva", "intencao": "adicionar_produto", "origem": "acoes", "base": "novo produto: suco de uva"}
+{"pergunta": "novo produto: suco uva", "intencao": "adicionar_produto", "origem": "acoes", "base": "novo produto: suco de uva"}
+{"pergunta": "novo prod: suco uva", "intencao": "adicionar_produto", "origem": "acoes", "base": "novo produto: suco de uva"}
+{"pergunta": "novo prod: suco dr uva", "intencao": "adicionar_produto", "origem": "acoes", "base": "novo produto: suco de uva"}
+{"pergunta": "preiso adicionar mais um item", "intencao": "adicionar_produto", "origem": "acoes", "base": "preciso adicionar mais um item"}
+{"pergunta": "preciso aficionar mais um item", "intencao": "adicionar_produto", "origem": "acoes", "base": "preciso adicionar mais um item"}
+{"pergunta": "preciso adicionar mais um item", "intencao": "adicionar_produto", "origem": "acoes", "base": "preciso adicionar mais um item"}
+{"pergunta": "prciso adivionar mais um item", "intencao": "adicionar_produto", "origem": "acoes", "base": "preciso adicionar mais um item"}
+{"pergunta": "cadastra ai um salgadinho novo", "intencao": "adicionar_produto", "origem": "acoes", "base": "cadastra ai um salgadinho novo"}
+{"pergunta": "cadastra ai um salgadiho novo", "intencao": "adicionar_produto", "origem": "acoes", "base": "cadastra ai um salgadinho novo"}
+{"pergunta": "cadastra ai um aalgadinho novo", "intencao": "adicionar_produto", "origem": "acoes", "base": "cadastra ai um salgadinho novo"}
+{"pergunta": "cadastra ai um sslgadinho novo", "intencao": "adicionar_produto", "origem": "acoes", "base": "cadastra ai um salgadinho novo"}
+{"pergunta": "poe esse produto no catalogo", "intencao": "adicionar_produto", "origem": "acoes", "base": "poe esse produto no catalogo"}
+{"pergunta": "poe esse produto catalogo", "intencao": "adicionar_produto", "origem": "acoes", "base": "poe esse produto no catalogo"}
+{"pergunta": "poe esse prod no catalgo", "intencao": "adicionar_produto", "origem": "acoes", "base": "poe esse produto no catalogo"}
+{"pergunta": "poe esse prod no catalogo", "intencao": "adicionar_produto", "origem": "acoes", "base": "poe esse produto no catalogo"}
+{"pergunta": "da pra criar um prod", "intencao": "adicionar_produto", "origem": "acoes", "base": "da pra criar um produto?"}
+{"pergunta": "da pra criar um produto?", "intencao": "adicionar_produto", "origem": "acoes", "base": "da pra criar um produto?"}
+{"pergunta": "da pra criar um prod?", "intencao": "adicionar_produto", "origem": "acoes", "base": "da pra criar um produto?"}
+{"pergunta": "da pra criar um prodto?", "intencao": "adicionar_produto", "origem": "acoes", "base": "da pra criar um produto?"}
+{"pergunta": "regisrra um item novo", "intencao": "adicionar_produto", "origem": "acoes", "base": "registra um item novo"}
+{"pergunta": "registra um item novo", "intencao": "adicionar_produto", "origem": "acoes", "base": "registra um item novo"}
+{"pergunta": "registra item novo", "intencao": "adicionar_produto", "origem": "acoes", "base": "registra um item novo"}
+{"pergunta": "regitra um item novo", "intencao": "adicionar_produto", "origem": "acoes", "base": "registra um item novo"}
+{"pergunta": "cou cadastrar uma bebida nova", "intencao": "adicionar_produto", "origem": "acoes", "base": "vou cadastrar uma bebida nova"}
+{"pergunta": "vou cadastrar uma bebia nova", "intencao": "adicionar_produto", "origem": "acoes", "base": "vou cadastrar uma bebida nova"}
+{"pergunta": "vou cadastrar uma bebida nova", "intencao": "adicionar_produto", "origem": "acoes", "base": "vou cadastrar uma bebida nova"}
+{"pergunta": "vou cadastar uma bebida nova", "intencao": "adicionar_produto", "origem": "acoes", "base": "vou cadastrar uma bebida nova"}
+{"pergunta": "insere um produto bo sistema", "intencao": "adicionar_produto", "origem": "acoes", "base": "insere um produto no sistema"}
+{"pergunta": "insere um produto no sistes", "intencao": "adicionar_produto", "origem": "acoes", "base": "insere um produto no sistema"}
+{"pergunta": "insere um prod no sist", "intencao": "adicionar_produto", "origem": "acoes", "base": "insere um produto no sistema"}
+{"pergunta": "insere um produto no sistema", "intencao": "adicionar_produto", "origem": "acoes", "base": "insere um produto no sistema"}
+{"pergunta": "renove a agua do catalogo", "intencao": "remover_produto", "origem": "acoes", "base": "remove a agua do catalogo"}
+{"pergunta": "remove a agua do catalogo", "intencao": "remover_produto", "origem": "acoes", "base": "remove a agua do catalogo"}
+{"pergunta": "rmove a agua do catalogo", "intencao": "remover_produto", "origem": "acoes", "base": "remove a agua do catalogo"}
+{"pergunta": "remove agua catalogo", "intencao": "remover_produto", "origem": "acoes", "base": "remove a agua do catalogo"}
+{"pergunta": "apaga esse produto", "intencao": "remover_produto", "origem": "acoes", "base": "apaga esse produto"}
+{"pergunta": "apaga esse prod", "intencao": "remover_produto", "origem": "acoes", "base": "apaga esse produto"}
+{"pergunta": "apga esse produtp", "intencao": "remover_produto", "origem": "acoes", "base": "apaga esse produto"}
+{"pergunta": "apaga esse prouto", "intencao": "remover_produto", "origem": "acoes", "base": "apaga esse produto"}
+{"pergunta": "tira o baly da lita", "intencao": "remover_produto", "origem": "acoes", "base": "tira o baly da lista"}
+{"pergunta": "tira baly lista", "intencao": "remover_produto", "origem": "acoes", "base": "tira o baly da lista"}
+{"pergunta": "tira o baly da lista", "intencao": "remover_produto", "origem": "acoes", "base": "tira o baly da lista"}
+{"pergunta": "tira baly lisa", "intencao": "remover_produto", "origem": "acoes", "base": "tira o baly da lista"}
+{"pergunta": "exclui o vhocolate", "intencao": "remover_produto", "origem": "acoes", "base": "exclui o chocolate"}
+{"pergunta": "exclui o choolate", "intencao": "remover_produto", "origem": "acoes", "base": "exclui o chocolate"}
+{"pergunta": "exclui o chocolate", "intencao": "remover_produto", "origem": "acoes", "base": "exclui o chocolate"}
+{"pergunta": "exclui chocolate", "intencao": "remover_produto", "origem": "acoes", "base": "exclui o chocolate"}
+{"pergunta": "quero rrmover um item", "intencao": "remover_produto", "origem": "acoes", "base": "quero remover um item"}
+{"pergunta": "quero remocer um item", "intencao": "remover_produto", "origem": "acoes", "base": "quero remover um item"}
+{"pergunta": "quero remover item", "intencao": "remover_produto", "origem": "acoes", "base": "quero remover um item"}
+{"pergunta": "quero remover um item", "intencao": "remover_produto", "origem": "acoes", "base": "quero remover um item"}
+{"pergunta": "deleta o salgadinho do sostema", "intencao": "remover_produto", "origem": "acoes", "base": "deleta o salgadinho do sistema"}
+{"pergunta": "deleta o salgadinho do sistema", "intencao": "remover_produto", "origem": "acoes", "base": "deleta o salgadinho do sistema"}
+{"pergunta": "deleta salgadinho sistema", "intencao": "remover_produto", "origem": "acoes", "base": "deleta o salgadinho do sistema"}
+{"pergunta": "seleta o slgadinho do sistema", "intencao": "remover_produto", "origem": "acoes", "base": "deleta o salgadinho do sistema"}
+{"pergunta": "esse prouto nao vendemos mais, tita", "intencao": "remover_produto", "origem": "acoes", "base": "esse produto nao vendemos mais, tira"}
+{"pergunta": "esse prod nao vendemos mais tira", "intencao": "remover_produto", "origem": "acoes", "base": "esse produto nao vendemos mais, tira"}
+{"pergunta": "esse produto nao vendemos mais, tira", "intencao": "remover_produto", "origem": "acoes", "base": "esse produto nao vendemos mais, tira"}
+{"pergunta": "esse prod nao vendemos mais, tira", "intencao": "remover_produto", "origem": "acoes", "base": "esse produto nao vendemos mais, tira"}
+{"pergunta": "desstiva a coca no catalogo", "intencao": "remover_produto", "origem": "acoes", "base": "desativa a coca no catalogo"}
+{"pergunta": "desativa a coca no catalogo", "intencao": "remover_produto", "origem": "acoes", "base": "desativa a coca no catalogo"}
+{"pergunta": "desativa coca catalogo", "intencao": "remover_produto", "origem": "acoes", "base": "desativa a coca no catalogo"}
+{"pergunta": "desayiva a coca no catalogo", "intencao": "remover_produto", "origem": "acoes", "base": "desativa a coca no catalogo"}
+{"pergunta": "some con esse produto", "intencao": "remover_produto", "origem": "acoes", "base": "some com esse produto"}
+{"pergunta": "some com wsse produto", "intencao": "remover_produto", "origem": "acoes", "base": "some com esse produto"}
+{"pergunta": "some com esse produto", "intencao": "remover_produto", "origem": "acoes", "base": "some com esse produto"}
+{"pergunta": "some com esse prod", "intencao": "remover_produto", "origem": "acoes", "base": "some com esse produto"}
+{"pergunta": "cancela cadastro suco", "intencao": "remover_produto", "origem": "acoes", "base": "cancela o cadastro do suco"}
+{"pergunta": "vancela o cadastro do suco", "intencao": "remover_produto", "origem": "acoes", "base": "cancela o cadastro do suco"}
+{"pergunta": "canela o cadastro do suco", "intencao": "remover_produto", "origem": "acoes", "base": "cancela o cadastro do suco"}
+{"pergunta": "cancela o cadastro do suco", "intencao": "remover_produto", "origem": "acoes", "base": "cancela o cadastro do suco"}
+{"pergunta": "da pra apagr um produto?", "intencao": "remover_produto", "origem": "acoes", "base": "da pra apagar um produto?"}
+{"pergunta": "da pra apagar um produto", "intencao": "remover_produto", "origem": "acoes", "base": "da pra apagar um produto?"}
+{"pergunta": "da pra apagar um produto?", "intencao": "remover_produto", "origem": "acoes", "base": "da pra apagar um produto?"}
+{"pergunta": "da pra apagar um prod", "intencao": "remover_produto", "origem": "acoes", "base": "da pra apagar um produto?"}
+{"pergunta": "retira o itrm do catalogo", "intencao": "remover_produto", "origem": "acoes", "base": "retira o item do catalogo"}
+{"pergunta": "retira item catalogo", "intencao": "remover_produto", "origem": "acoes", "base": "retira o item do catalogo"}
+{"pergunta": "rtira o item do catalogo", "intencao": "remover_produto", "origem": "acoes", "base": "retira o item do catalogo"}
+{"pergunta": "retira o item do catalogo", "intencao": "remover_produto", "origem": "acoes", "base": "retira o item do catalogo"}
+{"pergunta": "elimina esse prod da lista", "intencao": "remover_produto", "origem": "acoes", "base": "elimina esse produto da lista"}
+{"pergunta": "elimina esse produto lista", "intencao": "remover_produto", "origem": "acoes", "base": "elimina esse produto da lista"}
+{"pergunta": "eimina esse produto lista", "intencao": "remover_produto", "origem": "acoes", "base": "elimina esse produto da lista"}
+{"pergunta": "elimina esse produto da lista", "intencao": "remover_produto", "origem": "acoes", "base": "elimina esse produto da lista"}
+{"pergunta": "nap quero mais vendr agua com gas", "intencao": "remover_produto", "origem": "acoes", "base": "nao quero mais vender agua com gas"}
+{"pergunta": "nao quero mais vender agua com gas", "intencao": "remover_produto", "origem": "acoes", "base": "nao quero mais vender agua com gas"}
+{"pergunta": "nao quero mais vnder agua com gas", "intencao": "remover_produto", "origem": "acoes", "base": "nao quero mais vender agua com gas"}
+{"pergunta": "nao quero mais vendr agua com gas", "intencao": "remover_produto", "origem": "acoes", "base": "nao quero mais vender agua com gas"}
+{"pergunta": "configura uma cam nova", "intencao": "configurar_camera", "origem": "acoes", "base": "configura uma camera nova"}
+{"pergunta": "configura uma camera nova", "intencao": "configurar_camera", "origem": "acoes", "base": "configura uma camera nova"}
+{"pergunta": "configura uma camra nova", "intencao": "configurar_camera", "origem": "acoes", "base": "configura uma camera nova"}
+{"pergunta": "configura camera nova", "intencao": "configurar_camera", "origem": "acoes", "base": "configura uma camera nova"}
+{"pergunta": "adiciona a camera da entrada", "intencao": "configurar_camera", "origem": "acoes", "base": "adiciona a camera da entrada"}
+{"pergunta": "adicoona a câmera da entrada", "intencao": "configurar_camera", "origem": "acoes", "base": "adiciona a camera da entrada"}
+{"pergunta": "adiciona cam entrada", "intencao": "configurar_camera", "origem": "acoes", "base": "adiciona a camera da entrada"}
+{"pergunta": "adiciona a cam da entrada", "intencao": "configurar_camera", "origem": "acoes", "base": "adiciona a camera da entrada"}
+{"pergunta": "muda o endereco da cam lateral", "intencao": "configurar_camera", "origem": "acoes", "base": "muda o endereco da camera lateral"}
+{"pergunta": "muda o endereco da camera lateral", "intencao": "configurar_camera", "origem": "acoes", "base": "muda o endereco da camera lateral"}
+{"pergunta": "muda o endereco da camera lteral", "intencao": "configurar_camera", "origem": "acoes", "base": "muda o endereco da camera lateral"}
+{"pergunta": "muds o endereco da camera lateral", "intencao": "configurar_camera", "origem": "acoes", "base": "muda o endereco da camera lateral"}
+{"pergunta": "quero configurar a camera do alto", "intencao": "configurar_camera", "origem": "acoes", "base": "quero configurar a camera do alto"}
+{"pergunta": "quero configurar xamera alto", "intencao": "configurar_camera", "origem": "acoes", "base": "quero configurar a camera do alto"}
+{"pergunta": "quero configurar a csmera do alto", "intencao": "configurar_camera", "origem": "acoes", "base": "quero configurar a camera do alto"}
+{"pergunta": "quero configurr camera alto", "intencao": "configurar_camera", "origem": "acoes", "base": "quero configurar a camera do alto"}
+{"pergunta": "troca a reslucao das cameras", "intencao": "configurar_camera", "origem": "acoes", "base": "troca a resolucao das cameras"}
+{"pergunta": "troca a resolucao das camras", "intencao": "configurar_camera", "origem": "acoes", "base": "troca a resolucao das cameras"}
+{"pergunta": "troca a resolucao dad cams", "intencao": "configurar_camera", "origem": "acoes", "base": "troca a resolucao das cameras"}
+{"pergunta": "troca a resolucao das cameras", "intencao": "configurar_camera", "origem": "acoes", "base": "troca a resolucao das cameras"}
+{"pergunta": "poe uma camera nova no sistema", "intencao": "configurar_camera", "origem": "acoes", "base": "poe uma camera nova no sistema"}
+{"pergunta": "poe uma cam nova no sist", "intencao": "configurar_camera", "origem": "acoes", "base": "poe uma camera nova no sistema"}
+{"pergunta": "poe uma camera nova no distema", "intencao": "configurar_camera", "origem": "acoes", "base": "poe uma camera nova no sistema"}
+{"pergunta": "poe camera nova sistma", "intencao": "configurar_camera", "origem": "acoes", "base": "poe uma camera nova no sistema"}
+{"pergunta": "ajusta a camera frontal", "intencao": "configurar_camera", "origem": "acoes", "base": "ajusta a camera frontal"}
+{"pergunta": "ajusta a camera fronal", "intencao": "configurar_camera", "origem": "acoes", "base": "ajusta a camera frontal"}
+{"pergunta": "ajusta a cam frontsl", "intencao": "configurar_camera", "origem": "acoes", "base": "ajusta a camera frontal"}
+{"pergunta": "ajusta camera frontal", "intencao": "configurar_camera", "origem": "acoes", "base": "ajusta a camera frontal"}
+{"pergunta": "preciso mexer na configuracao da cmera", "intencao": "configurar_camera", "origem": "acoes", "base": "preciso mexer na configuracao da camera"}
+{"pergunta": "preciso mexer na configuracao da camera", "intencao": "configurar_camera", "origem": "acoes", "base": "preciso mexer na configuracao da camera"}
+{"pergunta": "preciso mexer na config da câmera", "intencao": "configurar_camera", "origem": "acoes", "base": "preciso mexer na configuracao da camera"}
+{"pergunta": "preciso mezer na configuracao da câmera", "intencao": "configurar_camera", "origem": "acoes", "base": "preciso mexer na configuracao da camera"}
+{"pergunta": "altera ip camera lateral", "intencao": "configurar_camera", "origem": "acoes", "base": "altera o ip da camera lateral"}
+{"pergunta": "altera o ip da cam lteral", "intencao": "configurar_camera", "origem": "acoes", "base": "altera o ip da camera lateral"}
+{"pergunta": "altera o ip da camera latrral", "intencao": "configurar_camera", "origem": "acoes", "base": "altera o ip da camera lateral"}
+{"pergunta": "altera o ip da camera lateral", "intencao": "configurar_camera", "origem": "acoes", "base": "altera o ip da camera lateral"}
+{"pergunta": "reconfigura a cam que ta caindo", "intencao": "configurar_camera", "origem": "acoes", "base": "reconfigura a camera que ta caindo"}
+{"pergunta": "reconfigura a camra que ta caindo", "intencao": "configurar_camera", "origem": "acoes", "base": "reconfigura a camera que ta caindo"}
+{"pergunta": "reconfigura a câmera que ta caindo", "intencao": "configurar_camera", "origem": "acoes", "base": "reconfigura a camera que ta caindo"}
+{"pergunta": "da pra adicionar maos uma camera", "intencao": "configurar_camera", "origem": "acoes", "base": "da pra adicionar mais uma camera?"}
+{"pergunta": "adicionar mais canera?", "intencao": "configurar_camera", "origem": "acoes", "base": "da pra adicionar mais uma camera?"}
+{"pergunta": "da pra sdicionar mais uma camera?", "intencao": "configurar_camera", "origem": "acoes", "base": "da pra adicionar mais uma camera?"}
+{"pergunta": "da pra adicionar mais uma camera?", "intencao": "configurar_camera", "origem": "acoes", "base": "da pra adicionar mais uma camera?"}
+{"pergunta": "muda a taxa de quadros da camera", "intencao": "configurar_camera", "origem": "acoes", "base": "muda a taxa de quadros da camera"}
+{"pergunta": "muda a taxa de quados da cam", "intencao": "configurar_camera", "origem": "acoes", "base": "muda a taxa de quadros da camera"}
+{"pergunta": "muda a taxa de quadros da cam", "intencao": "configurar_camera", "origem": "acoes", "base": "muda a taxa de quadros da camera"}
+{"pergunta": "muda taxa quadros camera", "intencao": "configurar_camera", "origem": "acoes", "base": "muda a taxa de quadros da camera"}
+{"pergunta": "instala uma camera na saida", "intencao": "configurar_camera", "origem": "acoes", "base": "instala uma camera na saida"}
+{"pergunta": "instla uma cam na saida", "intencao": "configurar_camera", "origem": "acoes", "base": "instala uma camera na saida"}
+{"pergunta": "instala camera sada", "intencao": "configurar_camera", "origem": "acoes", "base": "instala uma camera na saida"}
+{"pergunta": "arruma a confihuracao das cameras", "intencao": "configurar_camera", "origem": "acoes", "base": "arruma a configuracao das cameras"}
+{"pergunta": "arruma configuracao das cameras", "intencao": "configurar_camera", "origem": "acoes", "base": "arruma a configuracao das cameras"}
+{"pergunta": "arruma a configuracao das cameras", "intencao": "configurar_camera", "origem": "acoes", "base": "arruma a configuracao das cameras"}
+{"pergunta": "arrua a configuracao das cameras", "intencao": "configurar_camera", "origem": "acoes", "base": "arruma a configuracao das cameras"}
+{"pergunta": "muda a configuracao do sistema", "intencao": "configurar_sistema", "origem": "acoes", "base": "muda a configuracao do sistema"}
+{"pergunta": "muda configuracao sistema", "intencao": "configurar_sistema", "origem": "acoes", "base": "muda a configuracao do sistema"}
+{"pergunta": "muda a configuracao do sustema", "intencao": "configurar_sistema", "origem": "acoes", "base": "muda a configuracao do sistema"}
+{"pergunta": "muda a configuracao do sutema", "intencao": "configurar_sistema", "origem": "acoes", "base": "muda a configuracao do sistema"}
+{"pergunta": "alteta o limite de estoque baixo", "intencao": "configurar_sistema", "origem": "acoes", "base": "altera o limite de estoque baixo"}
+{"pergunta": "altera o limite de estoque bixo", "intencao": "configurar_sistema", "origem": "acoes", "base": "altera o limite de estoque baixo"}
+{"pergunta": "alyera o limite de estoque baixo", "intencao": "configurar_sistema", "origem": "acoes", "base": "altera o limite de estoque baixo"}
+{"pergunta": "altera o limite de estoque baixo", "intencao": "configurar_sistema", "origem": "acoes", "base": "altera o limite de estoque baixo"}
+{"pergunta": "quero mudar uma configuracai", "intencao": "configurar_sistema", "origem": "acoes", "base": "quero mudar uma configuracao"}
+{"pergunta": "quero mudar uma configuracao", "intencao": "configurar_sistema", "origem": "acoes", "base": "quero mudar uma configuracao"}
+{"pergunta": "quero mudar uma comfigracao", "intencao": "configurar_sistema", "origem": "acoes", "base": "quero mudar uma configuracao"}
+{"pergunta": "quero mudar uma config", "intencao": "configurar_sistema", "origem": "acoes", "base": "quero mudar uma configuracao"}
+{"pergunta": "ajusa parametros sistema", "intencao": "configurar_sistema", "origem": "acoes", "base": "ajusta os parametros do sistema"}
+{"pergunta": "ajusta os parametros do sistma", "intencao": "configurar_sistema", "origem": "acoes", "base": "ajusta os parametros do sistema"}
+{"pergunta": "ajusta os parametros do sistema", "intencao": "configurar_sistema", "origem": "acoes", "base": "ajusta os parametros do sistema"}
+{"pergunta": "ajusta os parametros do sstema", "intencao": "configurar_sistema", "origem": "acoes", "base": "ajusta os parametros do sistema"}
+{"pergunta": "configura o alerta de estoque", "intencao": "configurar_sistema", "origem": "acoes", "base": "configura o alerta de estoque"}
+{"pergunta": "configura alerta estoqye", "intencao": "configurar_sistema", "origem": "acoes", "base": "configura o alerta de estoque"}
+{"pergunta": "configura o alerta de estoue", "intencao": "configurar_sistema", "origem": "acoes", "base": "configura o alerta de estoque"}
+{"pergunta": "configura o alerts de estoque", "intencao": "configurar_sistema", "origem": "acoes", "base": "configura o alerta de estoque"}
+{"pergunta": "muda o tempo de expircao do qr code", "intencao": "configurar_sistema", "origem": "acoes", "base": "muda o tempo de expiracao do qr code"}
+{"pergunta": "myda o tempo de expiracao do qr code", "intencao": "configurar_sistema", "origem": "acoes", "base": "muda o tempo de expiracao do qr code"}
+{"pergunta": "muda o tempo de expiracao do qr codw", "intencao": "configurar_sistema", "origem": "acoes", "base": "muda o tempo de expiracao do qr code"}
+{"pergunta": "muda o tempo de expiracao do qr code", "intencao": "configurar_sistema", "origem": "acoes", "base": "muda o tempo de expiracao do qr code"}
+{"pergunta": "preciso alterar uma conig", "intencao": "configurar_sistema", "origem": "acoes", "base": "preciso alterar uma config"}
+{"pergunta": "preciso alterar uma config", "intencao": "configurar_sistema", "origem": "acoes", "base": "preciso alterar uma config"}
+{"pergunta": "previso alterar uma conig", "intencao": "configurar_sistema", "origem": "acoes", "base": "preciso alterar uma config"}
+{"pergunta": "preciso alterar yma config", "intencao": "configurar_sistema", "origem": "acoes", "base": "preciso alterar uma config"}
+{"pergunta": "troca configuracao loja", "intencao": "configurar_sistema", "origem": "acoes", "base": "troca a configuracao da loja"}
+{"pergunta": "troca a configuracao da loja", "intencao": "configurar_sistema", "origem": "acoes", "base": "troca a configuracao da loja"}
+{"pergunta": "troca a configuracao sa loja", "intencao": "configurar_sistema", "origem": "acoes", "base": "troca a configuracao da loja"}
+{"pergunta": "troca a confuguracao da loja", "intencao": "configurar_sistema", "origem": "acoes", "base": "troca a configuracao da loja"}
+{"pergunta": "define o minimo de estoquw como 5", "intencao": "configurar_sistema", "origem": "acoes", "base": "define o minimo de estoque como 5"}
+{"pergunta": "define minumo estoque como 5", "intencao": "configurar_sistema", "origem": "acoes", "base": "define o minimo de estoque como 5"}
+{"pergunta": "deine o minimo de estoque como 5", "intencao": "configurar_sistema", "origem": "acoes", "base": "define o minimo de estoque como 5"}
+{"pergunta": "define o minimo de estoque como 5", "intencao": "configurar_sistema", "origem": "acoes", "base": "define o minimo de estoque como 5"}
+{"pergunta": "mexe nas coniguracoes", "intencao": "configurar_sistema", "origem": "acoes", "base": "mexe nas configuracoes"}
+{"pergunta": "meze nas configuracoes", "intencao": "configurar_sistema", "origem": "acoes", "base": "mexe nas configuracoes"}
+{"pergunta": "mexe nas configuracoes", "intencao": "configurar_sistema", "origem": "acoes", "base": "mexe nas configuracoes"}
+{"pergunta": "mexe nas configurcoes", "intencao": "configurar_sistema", "origem": "acoes", "base": "mexe nas configuracoes"}
+{"pergunta": "mudar ajuste sist?", "intencao": "configurar_sistema", "origem": "acoes", "base": "da pra mudar o ajuste do sistema?"}
+{"pergunta": "da pra mudar o ajuste do sistema", "intencao": "configurar_sistema", "origem": "acoes", "base": "da pra mudar o ajuste do sistema?"}
+{"pergunta": "mudar ajuste sistema", "intencao": "configurar_sistema", "origem": "acoes", "base": "da pra mudar o ajuste do sistema?"}
+{"pergunta": "da pra mudar o ajuste do sistema?", "intencao": "configurar_sistema", "origem": "acoes", "base": "da pra mudar o ajuste do sistema?"}
+{"pergunta": "atualiza os prametros", "intencao": "configurar_sistema", "origem": "acoes", "base": "atualiza os parametros"}
+{"pergunta": "atualiza os parametros", "intencao": "configurar_sistema", "origem": "acoes", "base": "atualiza os parametros"}
+{"pergunta": "atualiza os praetros", "intencao": "configurar_sistema", "origem": "acoes", "base": "atualiza os parametros"}
+{"pergunta": "atualiza os oarametros", "intencao": "configurar_sistema", "origem": "acoes", "base": "atualiza os parametros"}
+{"pergunta": "altera a config das znas", "intencao": "configurar_sistema", "origem": "acoes", "base": "altera a configuracao das zonas"}
+{"pergunta": "altera a configuracao das zonas", "intencao": "configurar_sistema", "origem": "acoes", "base": "altera a configuracao das zonas"}
+{"pergunta": "atera a configuracao das zonas", "intencao": "configurar_sistema", "origem": "acoes", "base": "altera a configuracao das zonas"}
+{"pergunta": "altera cofiguracao das zonas", "intencao": "configurar_sistema", "origem": "acoes", "base": "altera a configuracao das zonas"}
+{"pergunta": "arrma config ta errada", "intencao": "configurar_sistema", "origem": "acoes", "base": "arruma a config que ta errada"}
+{"pergunta": "arruma a config que ta errada", "intencao": "configurar_sistema", "origem": "acoes", "base": "arruma a config que ta errada"}
+{"pergunta": "arruma config ta errada", "intencao": "configurar_sistema", "origem": "acoes", "base": "arruma a config que ta errada"}
+{"pergunta": "arruma a config que ta errsda", "intencao": "configurar_sistema", "origem": "acoes", "base": "arruma a config que ta errada"}
+{"pergunta": "reinicia o sistema", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reinicia o sistema"}
+{"pergunta": "reinicia o sisrema", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reinicia o sistema"}
+{"pergunta": "reinicia o distema", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reinicia o sistema"}
+{"pergunta": "reinicia o sist", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reinicia o sistema"}
+{"pergunta": "rwinicia o so espacial", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reinicia o so espacial"}
+{"pergunta": "reinicia o so espacial", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reinicia o so espacial"}
+{"pergunta": "rinicia o so espacial", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reinicia o so espacial"}
+{"pergunta": "reiicia o so espacial", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reinicia o so espacial"}
+{"pergunta": "da um rtart no monitor", "intencao": "reiniciar_servico", "origem": "acoes", "base": "da um restart no monitor"}
+{"pergunta": "da um resart no minitor", "intencao": "reiniciar_servico", "origem": "acoes", "base": "da um restart no monitor"}
+{"pergunta": "rtart monitor", "intencao": "reiniciar_servico", "origem": "acoes", "base": "da um restart no monitor"}
+{"pergunta": "da um restart no monitor", "intencao": "reiniciar_servico", "origem": "acoes", "base": "da um restart no monitor"}
+{"pergunta": "e liga sevico novo", "intencao": "reiniciar_servico", "origem": "acoes", "base": "para e liga o servico de novo"}
+{"pergunta": "é liga servico novo", "intencao": "reiniciar_servico", "origem": "acoes", "base": "para e liga o servico de novo"}
+{"pergunta": "para e liga o servico de novo", "intencao": "reiniciar_servico", "origem": "acoes", "base": "para e liga o servico de novo"}
+{"pergunta": "preciso reinixiar o rastreamento", "intencao": "reiniciar_servico", "origem": "acoes", "base": "preciso reiniciar o rastreamento"}
+{"pergunta": "preciso reiniciar o rastreamento", "intencao": "reiniciar_servico", "origem": "acoes", "base": "preciso reiniciar o rastreamento"}
+{"pergunta": "precso reiniciar o rastreamento", "intencao": "reiniciar_servico", "origem": "acoes", "base": "preciso reiniciar o rastreamento"}
+{"pergunta": "preciso reiniciar o rastreanento", "intencao": "reiniciar_servico", "origem": "acoes", "base": "preciso reiniciar o rastreamento"}
+{"pergunta": "reinicia a captura das cameras", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reinicia a captura das cameras"}
+{"pergunta": "reinicia a captura das cameas", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reinicia a captura das cameras"}
+{"pergunta": "reinicia a captura das cams", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reinicia a captura das cameras"}
+{"pergunta": "reiniia a captura das cameras", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reinicia a captura das cameras"}
+{"pergunta": "derrba e sobe o servidor", "intencao": "reiniciar_servico", "origem": "acoes", "base": "derruba e sobe o servidor"}
+{"pergunta": "deruba e sobe o servidor", "intencao": "reiniciar_servico", "origem": "acoes", "base": "derruba e sobe o servidor"}
+{"pergunta": "derruba e sobe o dervidor", "intencao": "reiniciar_servico", "origem": "acoes", "base": "derruba e sobe o servidor"}
+{"pergunta": "derruba e sobe o servidor", "intencao": "reiniciar_servico", "origem": "acoes", "base": "derruba e sobe o servidor"}
+{"pergunta": "reseta o servico", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reseta o servico"}
+{"pergunta": "reseta o sevico", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reseta o servico"}
+{"pergunta": "reseta servico", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reseta o servico"}
+{"pergunta": "reeta o servico", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reseta o servico"}
+{"pergunta": "reiniciar sistema", "intencao": "reiniciar_servico", "origem": "acoes", "base": "da pra reiniciar o sistema?"}
+{"pergunta": "da pra reiniciar o sistema?", "intencao": "reiniciar_servico", "origem": "acoes", "base": "da pra reiniciar o sistema?"}
+{"pergunta": "da pra reiniciar o sistena?", "intencao": "reiniciar_servico", "origem": "acoes", "base": "da pra reiniciar o sistema?"}
+{"pergunta": "da pra reiniciar o sistema", "intencao": "reiniciar_servico", "origem": "acoes", "base": "da pra reiniciar o sistema?"}
+{"pergunta": "reinicializa monitor", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reinicializa o monitor"}
+{"pergunta": "reinicializa o monitor", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reinicializa o monitor"}
+{"pergunta": "reiniciaiza o monitor", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reinicializa o monitor"}
+{"pergunta": "reinicializa o monitr", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reinicializa o monitor"}
+{"pergunta": "sobe o srvico de novo", "intencao": "reiniciar_servico", "origem": "acoes", "base": "sobe o servico de novo"}
+{"pergunta": "sobe servico novo", "intencao": "reiniciar_servico", "origem": "acoes", "base": "sobe o servico de novo"}
+{"pergunta": "sobe o serico de novo", "intencao": "reiniciar_servico", "origem": "acoes", "base": "sobe o servico de novo"}
+{"pergunta": "sobe o servico de novo", "intencao": "reiniciar_servico", "origem": "acoes", "base": "sobe o servico de novo"}
+{"pergunta": "restarta o so espacal", "intencao": "reiniciar_servico", "origem": "acoes", "base": "restarta o so espacial"}
+{"pergunta": "restarta o so espacial", "intencao": "reiniciar_servico", "origem": "acoes", "base": "restarta o so espacial"}
+{"pergunta": "rtarta o so espacial", "intencao": "reiniciar_servico", "origem": "acoes", "base": "restarta o so espacial"}
+{"pergunta": "rtarta so espacial", "intencao": "reiniciar_servico", "origem": "acoes", "base": "restarta o so espacial"}
+{"pergunta": "reiicia tudo", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reinicia tudo"}
+{"pergunta": "reinica tudo", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reinicia tudo"}
+{"pergunta": "reiniia tudo", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reinicia tudo"}
+{"pergunta": "reinicia tudo", "intencao": "reiniciar_servico", "origem": "acoes", "base": "reinicia tudo"}
+{"pergunta": "para o serico é liga de novo", "intencao": "reiniciar_servico", "origem": "acoes", "base": "para o servico e liga de novo"}
+{"pergunta": "para o servio e liga de novo", "intencao": "reiniciar_servico", "origem": "acoes", "base": "para o servico e liga de novo"}
+{"pergunta": "servico e liga novo", "intencao": "reiniciar_servico", "origem": "acoes", "base": "para o servico e liga de novo"}
+{"pergunta": "para o servico e liga de novo", "intencao": "reiniciar_servico", "origem": "acoes", "base": "para o servico e liga de novo"}
