@@ -1,0 +1,6 @@
+# Forçar GitHub a reconhecer Python como linguagem principal
+*.py linguist-language=Python
+*.html linguist-language=Python
+*.md linguist-documentation
+*.jsonl linguist-data
+*.cs linguist-language=C#
