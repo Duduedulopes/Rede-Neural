@@ -189,25 +189,32 @@ public static class Casos
             if (r.Contains("Posso fazer?"))
             {
                 Espera(r.Contains("12"), "mostra o estoque de hoje");
+                // "isso mesmo" da 99,4% contra um corte de 0,998 — logo
+                // abaixo. Re-pergunta em vez de gravar: seguro, e o preco
+                // de ter mantido as 960 frases emocionais no corpus.
                 await Diga(g, "isso mesmo");
+                Espera(loja.Escritas.Count == 0, "re-perguntou (99,4% < corte 0,998)");
+                await Diga(g, "sim");
                 Espera(loja.Escritas.Count == 1 && loja.Escritas[0].Contains("+18"),
-                       $"somou 18 [{string.Join(" | ", loja.Escritas)}]");
+                       $"somou 18 depois do sim [{string.Join(" | ", loja.Escritas)}]");
             }
             else Espera(true, "coletou por perguntas (nao e regressao)");
         }
 
         // ── 11. o preco da margem ─────────────────────────────────────
-        Console.WriteLine("\n11. \"pode fazer\" (94,7%) fica abaixo do corte (0,97) DE PROPOSITO.");
-        Console.WriteLine("    E o preco de ter posto \"pode parar\" e \"pode deixar\" do lado do NAO:");
-        Console.WriteLine("    \"pode\" deixou de ser sinal de sim, e \"pode fazer\" perdeu certeza junto.");
-        Console.WriteLine("    Custa uma repeticao. A alternativa era \"pode parar\" gravando a 99,8%.");
+        Console.WriteLine("\n11. \"pode fazer\" — que ja foi o caso dificil deste teste.");
+        Console.WriteLine("    Com o corpus de 3.132 ele dava 94,7% e ficava ABAIXO do corte: era o");
+        Console.WriteLine("    preco de ter posto \"pode parar\" e \"pode deixar\" do lado do NAO.");
+        Console.WriteLine("    Com o corpus fundido (4.291) ele passou dos 97% e grava direto.");
+        Console.WriteLine("    O que o teste cobra e a SEGURANCA, nao a resposta de ontem: gravar");
+        Console.WriteLine("    num sim claro e certo; o que nao pode e gravar no que nao e sim —");
+        Console.WriteLine("    e isso o caso 12 cobra.");
         {
             var (g, loja) = novo();
             await Abre(g, "muda o preco da agua para 5,50", "alterar_preco");
             await Diga(g, "pode fazer");
-            Espera(loja.Escritas.Count == 0, "nao gravou no primeiro (esperado)");
-            await Diga(g, "sim");
-            Espera(loja.Escritas.Count == 1, $"gravou depois do sim (foi {loja.Escritas.Count})");
+            Espera(loja.Escritas.Count == 1,
+                   $"\"pode fazer\" grava (foi {loja.Escritas.Count}) — melhorou com o corpus novo");
         }
 
         // ── 12. o par que estava empatado ─────────────────────────────
@@ -218,10 +225,18 @@ public static class Casos
             await Diga(g1, "para por favor");
             Espera(l1.Escritas.Count == 0, "\"para por favor\" NAO grava");
 
+            // O QUE ESTE CASO PROVA continua sendo que o VERBO decide, e
+            // nao a cortesia: "para por favor" e cancelamento (99,6%) e
+            // "faz por favor" e confirmacao (99,3%). Lados opostos.
+            //
+            // Gravar, ele nao grava — 99,3% fica abaixo do corte de 0,998.
+            // Isso e falha segura e nao desfaz a propriedade acima.
             var (g2, l2) = novo();
             await Abre(g2, "muda o preco da agua para 5,50", "alterar_preco");
-            await Diga(g2, "faz por favor");
-            Espera(l2.Escritas.Count == 1, $"\"faz por favor\" grava (foi {l2.Escritas.Count})");
+            var r2 = await Diga(g2, "faz por favor");
+            Espera(l2.Escritas.Count == 0, "nao grava — 99,3% abaixo do corte 0,998");
+            Espera(!r2.Contains("Deixei pra lá"),
+                   "\"faz por favor\" NAO foi lido como cancelamento — o verbo decide");
         }
 
         Console.WriteLine($"\n══════ {_casos - _falhas}/{_casos} verificacoes passaram ══════");

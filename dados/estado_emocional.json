@@ -1,0 +1,135 @@
+{
+  "personalidade": {
+    "interacoes_totais": 0,
+    "interacoes_positivas": 0,
+    "interacoes_negativas": 0,
+    "nivel_formalidade": 0.7,
+    "nivel_empatia": 0.8,
+    "humor": 0.5,
+    "proatividade": 0.6
+  },
+  "contexto": [
+    {
+      "usuario": "Estou muito feliz com o resultado!",
+      "sistema": "Fico feliz que você esteja bem! Como posso ajudar?",
+      "estado": {
+        "estado": "feliz",
+        "intensidade": "media",
+        "confianca": 0.6
+      },
+      "timestamp": "2026-08-31T16:44:55"
+    },
+    {
+      "usuario": "Isso é muito frustrante, não funciona!",
+      "sistema": "Entendo sua irritação. Vamos encontrar uma solução.",
+      "estado": {
+        "estado": "frustrado",
+        "intensidade": "media",
+        "confianca": 0.4
+      },
+      "timestamp": "2026-08-31T16:44:55"
+    },
+    {
+      "usuario": "Preciso de ajuda urgente por favor!",
+      "sistema": "Entendo a urgência. Vou trabalhar nisso imediatamente.",
+      "estado": {
+        "estado": "urgente",
+        "intensidade": "alta",
+        "confianca": 0.8400000000000001
+      },
+      "timestamp": "2026-08-31T16:44:55"
+    },
+    {
+      "usuario": "Estou preocupado com o sistema",
+      "sistema": "Não se preocupe, vamos resolver isso juntos.",
+      "estado": {
+        "estado": "preocupado",
+        "intensidade": "media",
+        "confianca": 0.4
+      },
+      "timestamp": "2026-08-31T16:44:55"
+    },
+    {
+      "usuario": "Obrigado pela ajuda, funcionou perfeito!",
+      "sistema": "Por nada! É um prazer ajudar você.",
+      "estado": {
+        "estado": "agradecido",
+        "intensidade": "alta",
+        "confianca": 1.0
+      },
+      "timestamp": "2026-08-31T16:44:55"
+    },
+    {
+      "usuario": "Como funciona esse sistema? Fiquei curioso.",
+      "sistema": "Excelente pergunta! Vou te mostrar como funciona.",
+      "estado": {
+        "estado": "curioso",
+        "intensidade": "alta",
+        "confianca": 1.0
+      },
+      "timestamp": "2026-08-31T16:44:55"
+    },
+    {
+      "usuario": "Me desculpa, acho que fiz errado.",
+      "sistema": "Entendi sua solicitação. Vou verificar.",
+      "estado": {
+        "estado": "neutro",
+        "intensidade": "media",
+        "confianca": 0.3
+      },
+      "timestamp": "2026-08-31T16:44:55"
+    },
+    {
+      "usuario": "Bom dia chefe, tudo bem?",
+      "sistema": "Que ótimo que as coisas estão indo bem!",
+      "estado": {
+        "estado": "feliz",
+        "intensidade": "media",
+        "confianca": 0.4
+      },
+      "timestamp": "2026-08-31T16:44:55"
+    }
+  ],
+  "historico_emocoes": [
+    {
+      "estado": "feliz",
+      "intensidade": "media",
+      "confianca": 0.6
+    },
+    {
+      "estado": "frustrado",
+      "intensidade": "media",
+      "confianca": 0.4
+    },
+    {
+      "estado": "urgente",
+      "intensidade": "alta",
+      "confianca": 0.8400000000000001
+    },
+    {
+      "estado": "preocupado",
+      "intensidade": "media",
+      "confianca": 0.4
+    },
+    {
+      "estado": "agradecido",
+      "intensidade": "alta",
+      "confianca": 1.0
+    },
+    {
+      "estado": "curioso",
+      "intensidade": "alta",
+      "confianca": 1.0
+    },
+    {
+      "estado": "neutro",
+      "intensidade": "media",
+      "confianca": 0.3
+    },
+    {
+      "estado": "feliz",
+      "intensidade": "media",
+      "confianca": 0.4
+    }
+  ]
+}

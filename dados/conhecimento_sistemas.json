@@ -1,0 +1,242 @@
+{
+  "autonomous": {
+    "descricao": "\n            Sistema de loja autônoma em .NET 8 que gerencia vendas, estoque e clientes\n            sem operador de caixa. Usa RFID para identificação de produtos e permite\n            entrada autônoma por QR code.\n            ",
+    "arquitetura": "\n            Arquitetura em camadas: Domain → Application → Infrastructure → WebApi\n            Clientes: AdminApp, ClientApp, EdgeDesktop\n            Hardware: ESP32 com leitor RFID RC522\n            ",
+    "tecnologias": [
+      ".NET 8",
+      "ASP.NET Core",
+      "Entity Framework Core 8",
+      "SQL Server",
+      "Blazor WebAssembly",
+      "WPF",
+      "JWT",
+      "Google Auth",
+      ".NET nanoFramework"
+    ],
+    "pontos_fortes": [
+      "Arquitetura escalável em camadas",
+      "Separação clara de responsabilidades",
+      "Suporte a múltiplos clientes",
+      "Hardware acessível para protótipo",
+      "Documentação completa"
+    ],
+    "pontos_fracos": [
+      "Dependência de RFID 13.56 MHz com alcance curto",
+      "Falta de detecção de fraudes avançada",
+      "Integração com SO-Espacial ainda inicial",
+      "Testes automatizados limitados"
+    ],
+    "metricas": {
+      "fps_do_sistema": "Taxa de processamento do sistema",
+      "tempo_resposta_api": "Tempo médio de resposta da API",
+      "sucesso_leitura_rfid": "Taxa de sucesso de leitura de tags",
+      "sessoes_ativas": "Número de sessões de compra ativas",
+      "faturamento_hora": "Faturamento por hora"
+    },
+    "problemas": [
+      {
+        "problema": "Leitura RFID inconsistente",
+        "sintomas": "Tags não são lidas consistentemente",
+        "causas_provaveis": [
+          "Problema com hardware RC522",
+          "Interferência RF",
+          "Distância muito grande"
+        ]
+      },
+      {
+        "problema": "Sessão expirada inesperadamente",
+        "sintomas": "Cliente perde sessão antes do checkout",
+        "causas_provaveis": [
+          "Timeout muito curto",
+          "Problema de rede",
+          "Erro no token"
+        ]
+      },
+      {
+        "problema": "Estoque desincronizado",
+        "sintomas": "Estoque mostra valores incorretos",
+        "causas_provaveis": [
+          "Race condition",
+          "Erro em atualização",
+          "Falha no cálculo"
+        ]
+      }
+    ],
+    "solucoes": [
+      {
+        "problema": "Leitura RFID inconsistente",
+        "solucao": "Verificar conexão SPI, ajustar distância, testar com diferentes tags",
+        "prioridade": "alta"
+      },
+      {
+        "problema": "Sessão expirada inesperadamente",
+        "solucao": "Aumentar timeout, implementar refresh de token, melhorar tratamento de erros",
+        "prioridade": "media"
+      },
+      {
+        "problema": "Estoque desincronizado",
+        "solucao": "Implementar transações ACID, adicionar locks, melhorar logging",
+        "prioridade": "alta"
+      }
+    ]
+  },
+  "so_espacial": {
+    "descricao": "\n            Sistema de percepção espacial multi-câmera em Python que cria um gêmeo digital\n            da loja em tempo real. Usa visão computacional e geometria projetiva para\n            rastrear pessoas e detectar gestos de retirada de produtos.\n            ",
+    "arquitetura": "\n            Pipeline: 3 Câmeras → Detector YOLO → Motor Espacial → Kalman → Classificador\n            Arquitetura em threads independentes por câmera\n            Fusão por voto (não média) de múltiplas câmeras\n            ",
+    "tecnologias": [
+      "Python 3.11+",
+      "OpenCV",
+      "YOLO11-pose",
+      "MediaPipe",
+      "NumPy",
+      "homografia DLT",
+      "filtro de Kalman",
+      "metrologia de vista única"
+    ],
+    "pontos_fortes": [
+      "Geometria projetiva elegante (sem sensores caros)",
+      "Fusão por voto (robusto a ruído)",
+      "Vocabulário fechado (evita erros de renderização)",
+      "Arquitetura em threads (escala bem)",
+      "814 testes automatizados"
+    ],
+    "pontos_fracos": [
+      "Re-ID entre câmeras ainda não implementado",
+      "Calibração manual para cada espaço",
+      "Apenas 2 de 5 prateleiras confiáveis",
+      "Performance depende de hardware"
+    ],
+    "metricas": {
+      "fps_sistema": "Taxa de processamento do sistema",
+      "fps_por_camera": "FPS individual de cada câmera",
+      "precisao_posicao": "Erro em centímetros na posição",
+      "taxa_sobrevivencia_rastro": "Porcentagem de rastros mantidos",
+      "confiabilidade_prateleira": "Precisão de detecção de prateleira"
+    },
+    "problemas": [
+      {
+        "problema": "FPS baixo do sistema",
+        "sintomas": "Sistema processa menos de 10 fps",
+        "causas_provaveis": [
+          "Câmera lenta limitando todas",
+          "YOLO muito pesado",
+          "CPU sobrecarregada"
+        ]
+      },
+      {
+        "problema": "Perda de rastro",
+        "sintomas": "Pessoa perde identidade durante movimento",
+        "causas_provaveis": [
+          "Falha na fusão",
+          "Oclusão prolongada",
+          "Erro no Kalman"
+        ]
+      },
+      {
+        "problema": "Detecção de prateleira errada",
+        "sintomas": "Sistema identifica prateleira incorreta",
+        "causas_provaveis": [
+          "Calibração imprecisa",
+          "Altura da mão errada",
+          "Fusão incorreta"
+        ]
+      }
+    ],
+    "solucoes": [
+      {
+        "problema": "FPS baixo do sistema",
+        "solucao": "Usar câmeras mais rápidas, otimizar YOLO, aumentar poder de processamento",
+        "prioridade": "alta"
+      },
+      {
+        "problema": "Perda de rastro",
+        "solucao": "Implementar Re-ID, melhorar fusão, ajustar parâmetros do Kalman",
+        "prioridade": "media"
+      },
+      {
+        "problema": "Detecção de prateleira errada",
+        "solucao": "Recalibrar sistema, melhorar estimativa de altura, ajustar assinaturas de prateleira",
+        "prioridade": "alta"
+      }
+    ]
+  },
+  "integracao": {
+    "descricao": "\n            Integração entre Smart Store, SO-Espacial e Rede Neural para criar\n            um ecossistema completo de varejo autônomo com gêmeo digital e\n            gerente virtual inteligente.\n            ",
+    "arquitetura": "\n            Arquitetura de integração:\n            SO-Espacial → Monitor Espacial (HTTP) → Gerente Espacial (C#) → AdminApp\n            AdminApp → Gerente Virtual (Rede Neural) → Classificador → Ação\n            Autonomous API → Gerente Virtual → SO-Espacial dados\n            ",
+    "tecnologias": [
+      "HTTP/REST",
+      "JSON",
+      "Python",
+      "C#",
+      "NumPy",
+      "Rede Neural",
+      "WebSocket (planejado)",
+      "gRPC (planejado)"
+    ],
+    "pontos_fortes": [
+      "Arquitetura modular e desacoplada",
+      "Cada sistema opera independentemente",
+      "Integração via API padronizada",
+      "Gerente virtual com inteligência emocional",
+      "Corpus treinado com dados reais"
+    ],
+    "pontos_fracos": [
+      "Integração ainda em fase inicial",
+      "Falta de reconciliação automática entre sistemas",
+      "Limiar de confiança ainda otimizando",
+      "Falta de testes de integração completos"
+    ],
+    "metricas": {
+      "latencia_integracao": "Tempo de resposta entre sistemas",
+      "taxa_sucesso_reconciliacao": "Porcentagem de reconciliação bem-sucedida",
+      "confianca_classificador": "Confiança média do classificador",
+      "cobertura_intencoes": "Porcentagem de intenções bem classificadas"
+    },
+    "problemas": [
+      {
+        "problema": "Desincronização entre sistemas",
+        "sintomas": "Dados do SO-Espacial não batem com Autonomous",
+        "causas_provaveis": [
+          "Latência alta",
+          "Formato de dados diferente",
+          "Erro de parsing"
+        ]
+      },
+      {
+        "problema": "Classificação incorreta de intenção",
+        "sintomas": "Gerente não entende a pergunta do usuário",
+        "causas_provaveis": [
+          "Corpus insuficiente",
+          "Limiar muito baixo",
+          "Ambiguidade"
+        ]
+      },
+      {
+        "problema": "Reconciliação falha",
+        "sintomas": "Sistemas não concordam sobre o que aconteceu",
+        "causas_provaveis": [
+          "Erro em um dos sistemas",
+          "Janela temporal diferente",
+          "Erro de fusão"
+        ]
+      }
+    ],
+    "solucoes": [
+      {
+        "problema": "Desincronização entre sistemas",
+        "solucao": "Implementar sincronização por timestamp, adicionar buffer, melhorar formato de dados",
+        "prioridade": "alta"
+      },
+      {
+        "problema": "Classificação incorreta de intenção",
+        "solucao": "Expandir corpus, ajustar limiar, adicionar mais exemplos de borda",
+        "prioridade": "media"
+      },
+      {
+        "problema": "Reconciliação falha",
+        "solucao": "Implementar lógica de votação, ajustar janela temporal, adicionar logging detalhado",
+        "prioridade": "alta"
+      }
+    ]
+  }
+}

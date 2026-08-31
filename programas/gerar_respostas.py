@@ -1,151 +1,48 @@
-# -*- coding: utf-8 -*-
 """
-AS FRASES DE RESPOSTA: "sim", "nao", "esse ai".
+AS FRASES DE RESPOSTA: "sim", "nao", "muda isso".
 
 POR QUE ESTE ARQUIVO EXISTE
 
-Antes de escrever a confirmacao em C# eu perguntei pra rede o que ela
-responde quando alguem digita "sim" depois de "posso alterar o preco?".
-Medido, nas 21 formas mais comuns de dizer sim:
+`confirmar_acao` tinha 12 frases, de 4 bases, todas formais — "confirmar
+operacao", "pode prosseguir". Ninguem digita isso respondendo a "posso
+alterar o preco?". Medido nas 21 formas mais comuns de dizer sim, a rede
+acertava 1.
 
-    acertou confirmar_acao em      1 de 21
-    passou do limiar (0,97) em     2 de 21   -- e as duas ERRADAS:
-        "pode fazer" -> ajuda        99,5%
-        "positivo"   -> estoque_baixo 97,7%
+A porta de confirmacao nao tinha chave: `if (intencao == "confirmar_acao")`
+daria um sistema onde nada executa.
 
-Ou seja: a porta de confirmacao nao tinha chave. Escrever
-`if (intencao == "confirmar_acao") executar()` daria um sistema onde
-NADA executa — e onde "pode fazer" abre a tela de ajuda.
+A REGRA QUE ESTE ARQUIVO EXISTE PARA CUMPRIR
 
-A causa esta no corpus: `confirmar_acao` tinha 12 frases de 4 bases, e as
-4 sao formais — "confirmar operacao", "pode prosseguir", "aprovar",
-"esta certo". Ninguem digita "confirmar operacao" respondendo a uma
-pergunta de sim ou nao. Digita "sim", "pode", "isso", "manda ver".
+Uma palavra que nao decide nada, se aparece quase so de um lado, PASSA a
+decidir — a rede faz media dos pedacos, e um token muito marcado dilui o
+verbo que vem depois. Isso aconteceu tres vezes, medido:
 
-`cancelar_operacao` tinha 48 frases e acerta 12 de 16. A diferenca entre
-as duas classes nao e dificuldade: e quantidade e naturalidade.
+    "por favor"  11x no sim, 0 no nao  ->  "para por favor" virou SIM  99,4%
+    "muda ..."   posto no cancelar     ->  "muda o preco da agua"  99,5% -> 73,5%
+    "pode"       11x no sim, 5 no nao  ->  "pode parar" virou SIM     99,8%
 
-DUAS COISAS QUE ESTA CLASSE TEM E AS OUTRAS NAO
+Por isso as listas abaixo sao emparelhadas de proposito: cortesia dos dois
+lados, "pode" dos dois lados. O que sobra para distinguir e o verbo, que e
+o que de fato distingue. E por isso `dados/guardas_confirmacao.jsonl`
+existe — o erro vai voltar, e a guarda e o que impede que ele passe
+despercebido.
 
-1. AS FRASES SAO CURTAS, e a maquina de corrupcao do `gerar_acoes.py`
-   quase nao morde: `telegrafica` tira artigo de frase que nao tem
-   artigo, `letra_comida` exige palavra de 5+ letras. "sim" nao tem o
-   que comer. Entao aqui a variedade vem de FORMA GENUINA — trinta
-   jeitos diferentes de dizer sim — e nao de ruido sobre um esqueleto
-   so. Que e o que deveria ser sempre; aqui e obrigatorio.
+DUAS COISAS PROPRIAS DESTA CLASSE
 
-2. ELAS SAO AMBIGUAS FORA DE CONTEXTO, de proposito. "ok" sozinho nao
-   quer dizer nada; respondendo a "posso alterar?" quer dizer sim. O
-   classificador nao ve contexto, entao ele VAI dizer confirmar_acao
-   para um "ok" solto. Isso e seguro por uma razao so, e ela mora no
-   C#: `confirmar_acao` sem operacao aberta nao executa nada. Se alguem
-   um dia tirar essa guarda, um "ok" perdido vira uma gravacao no banco.
+1. As frases sao CURTAS, e a maquina de corrupcao mal morde — "sim" nao
+   tem letra para comer. Entao a variedade vem de forma genuina, e nao de
+   ruido sobre um esqueleto so.
 
-POR QUE "POR FAVOR" QUASE VIROU UM SIM
+2. Elas sao AMBIGUAS fora de contexto, de proposito. "ok" sozinho nao quer
+   dizer nada; respondendo a "posso alterar?" quer dizer sim. O
+   classificador nao ve contexto, entao um "ok" solto TAMBEM vira
+   confirmacao — e isso so e seguro porque o C# nao executa
+   `confirmar_acao` sem operacao aberta. Se essa guarda sair, um "ok"
+   perdido vira uma gravacao no banco.
 
-Medido depois do segundo treino, no mesmo modelo:
-
-    "pode fazer"      -> confirmar_acao  99,4%    (quer dizer SIM)
-    "para por favor"  -> confirmar_acao  99,4%    (quer dizer PARE)
-
-Identicos. Nenhum limiar separa os dois, porque nao e questao de corte: a
-rede aprendeu errado. A culpa e minha e esta neste arquivo — eu tinha
-"sim por favor", "faz por favor" e "por favor" do lado do SIM, e nenhuma
-forma educada do lado do NAO. Entao "por favor" virou sinal de sim, e
-qualquer recusa educada era arrastada junto.
-
-Educacao nao e concordancia. "Para, por favor" e recusa; "faz, por favor"
-e aceite; o que decide e o VERBO, nao a cortesia. Um corpus em que so um
-dos lados e educado ensina o contrario disso.
-
-Correcao: as mesmas formas de cortesia dos dois lados, para que ela deixe
-de carregar sinal e a rede tenha de olhar o verbo.
-
-O ERRO QUE ESTA MEDIDA ACHOU, E QUE E O PIOR DE TODOS
-
-Depois do primeiro treino, em frases fora do corpus:
-
-    "muda isso"   ->  confirmar_acao   100,0%
-
-Numa confirmacao, "muda isso" quer dizer NAO — mude, esta errado. Lido
-como sim, com 100% de confianca, ele GRAVA. Erro de consulta mostra um
-numero errado e a pessoa olha de novo; erro aqui escreve no banco.
-
-A causa: eu tinha 65 formas de dizer sim e nenhuma forma de CORRIGIR.
-"muda isso" nao e sim nem e cancelamento puro — e "isso ai esta errado,
-volta e pergunta de novo". Sem essa familia no corpus, a rede encaixou
-no vizinho mais parecido, e o vizinho era o sim.
-
-Correcao vai para `cancelar_operacao` de proposito: no C#, cancelar nao
-encerra a conversa, volta a perguntar — que e exatamente o que o Eduardo
-pediu ("se nao, ele tenta chegar na melhor solucao ou volta para outra
-pergunta"). Cancelar aqui quer dizer "nao grave isso", nao "tchau".
-
-O CUIDADO: "muda isso" e primo de "muda o preco da agua", que e ordem de
-verdade. Por isso o controle no fim do arquivo testa as duas familias —
-se ensinar a correcao estragar `alterar_preco`, a medida acusa.
-
-A TERCEIRA VEZ QUE O MESMO ERRO APARECEU, AGORA COM "PODE"
-
-Medido na validacao cruzada, frases lidas como SIM acima de 0,995:
-
-    "pode parar"    -> confirmar_acao  99,8%     quer dizer PARE
-    "pode deixar"   -> confirmar_acao 100,0%     quer dizer DEIXA
-    "pode prar"     -> confirmar_acao  99,9%
-
-E sempre o mesmo mecanismo. Um token aparece quase so de um lado, vira o
-sinal daquele lado, e o resto da frase nao consegue desmentir — a rede
-faz MEDIA dos pedacos, entao um "pode" muito marcado dilui o verbo que
-vem depois.
-
-    "por favor"  estava 11 vezes no sim e 0 no nao  -> recusa educada virou aceite
-    "pode"       estava 11 vezes no sim e 5 no nao  -> "pode parar" virou aceite
-
-A licao nao e sobre estas duas palavras. E sobre a forma: SE UMA PALAVRA
-QUE NAO DECIDE NADA APARECE SO DE UM LADO, ELA PASSA A DECIDIR. O corpus
-precisa de cortesia dos dois lados, de "pode" dos dois lados, e de
-qualquer outro molde que sirva as duas respostas.
-
-Por isso as listas abaixo sao emparelhadas de proposito: para cada "pode
-<verbo de sim>" existe um "pode <verbo de nao>". O que sobra para
-distinguir e o verbo, que e o que de fato distingue.
-
-E O ERRO QUE A CORRECAO DO ERRO CAUSOU
-
-Ensinar "muda isso" como cancelamento envenenou o verbo:
-
-    "muda o preco da agua para 5,50"
-        antes:  alterar_preco  99,5%
-        depois: alterar_preco  73,5%   e cancelar_operacao 25,5%
-
-"muda" e o verbo principal de `alterar_preco`. Poe-lo do lado do
-cancelamento e disputar com a propria acao. Eu tinha ate escrito o aviso
-neste arquivo — e a lista de controle nao pegou porque testei "para 5
-reais" e nao "para 5,50", que e a forma que quebra.
-
-A SAIDA NAO E O CORPUS, E A ESTRUTURA
-
-O perigo original era "muda isso" ser lido como SIM e gravar. Mas no C#,
-na hora da confirmacao, so `confirmar_acao` acima do corte grava —
-qualquer outra intencao repete a pergunta sem escrever nada. Entao "muda
-isso" cair em `alterar_preco` e SEGURO: nao grava, e o gerente pergunta
-de novo.
-
-Ou seja, eu nao preciso que a rede chame "muda isso" de cancelamento.
-Preciso apenas que ela NAO chame de confirmacao. Isso e uma exigencia
-muito mais barata, e ela nao custa o verbo.
-
-Ficam as formas de correcao que nao roubam verbo de acao: "nao e esse",
-"esse nao", "ta errado isso", "errou", "nao era isso".
-
-O QUE ESTE ARQUIVO NAO PODE FAZER
-
-Engolir pergunta de verdade. "pode" e confirmacao; "pode me dizer quanto
-tem de agua?" e consulta de estoque. O mesmo erro que ja apareceu neste
-projeto com "da pra mudar quanto custa a agua?" — base que embute uma
-consulta inteira e faz a rede ler consulta como ordem. Por isso toda
-base aqui e curta e tem forma de RESPOSTA, e no fim o programa testa
-justamente as perguntas que comecam com as mesmas palavras.
+O que este arquivo nao pode fazer: engolir pergunta de verdade. "pode" e
+confirmacao; "pode me dizer quanto tem de agua?" e consulta. Toda base
+aqui e curta e tem forma de RESPOSTA, e o teste no fim confere.
 """
 import json, io, random, unicodedata, sys
 

@@ -1,25 +1,25 @@
-{"frase":"pode parar","nao_pode_ser":"confirmar_acao","por_que":"quer dizer PARE; ja foi lido como sim a 99,8%"}
-{"frase":"pode deixar","nao_pode_ser":"confirmar_acao","por_que":"quer dizer DEIXA; ja foi lido como sim a 100%"}
-{"frase":"pode cancelar","nao_pode_ser":"confirmar_acao","por_que":"o verbo e cancelar, o 'pode' nao decide"}
-{"frase":"pode esquecer","nao_pode_ser":"confirmar_acao","por_que":"mesma familia de 'pode parar'"}
-{"frase":"pode refazer","nao_pode_ser":"confirmar_acao","por_que":"pedido de correcao, nao de execucao"}
-{"frase":"para por favor","nao_pode_ser":"confirmar_acao","por_que":"cortesia nao e concordancia; ja foi lido como sim a 99,4%"}
-{"frase":"refaz por favor","nao_pode_ser":"confirmar_acao","por_que":"cortesia nao e concordancia; ja foi lido como sim a 99,1%"}
-{"frase":"nao por favor","nao_pode_ser":"confirmar_acao","por_que":"cortesia nao e concordancia"}
-{"frase":"muda isso","nao_pode_ser":"confirmar_acao","por_que":"correcao; ja foi lido como sim a 100%"}
-{"frase":"nao e isso","nao_pode_ser":"confirmar_acao","por_que":"recusa explicita"}
-{"frase":"ta errado","nao_pode_ser":"confirmar_acao","por_que":"recusa explicita"}
-{"frase":"esse nao","nao_pode_ser":"confirmar_acao","por_que":"recusa explicita"}
-{"frase":"nao quero","nao_pode_ser":"confirmar_acao","por_que":"recusa explicita"}
-{"frase":"melhor nao","nao_pode_ser":"confirmar_acao","por_que":"recusa explicita"}
-{"frase":"muda o preco da agua para 5,50","precisa_ser":"alterar_preco","por_que":"a ordem principal; a familia de correcao ja roubou o verbo 'muda' e derrubou isto de 99,5% para 73,5%"}
-{"frase":"muda o preco da agua","precisa_ser":"alterar_preco","por_que":"a ordem principal, sem valor"}
-{"frase":"poe a agua a 4,50","precisa_ser":"alterar_preco","por_que":"outra forma da ordem principal"}
-{"frase":"corrige o estoque da agua para 30","precisa_ser":"alterar_estoque","por_que":"'corrige' tambem ja foi disputado pela familia de correcao"}
-{"frase":"adiciona um produto novo","precisa_ser":"adicionar_produto","por_que":"ordem de cadastro"}
-{"frase":"sim","precisa_ser":"confirmar_acao","por_que":"se isto quebrar, nada mais grava"}
-{"frase":"pode","precisa_ser":"confirmar_acao","por_que":"a forma mais curta de aceitar"}
-{"frase":"isso mesmo","precisa_ser":"confirmar_acao","por_que":"forma comum de aceitar"}
-{"frase":"faz por favor","precisa_ser":"confirmar_acao","por_que":"o par educado de 'para por favor': o verbo decide"}
-{"frase":"nao","precisa_ser":"cancelar_operacao","por_que":"se isto quebrar, nao ha como recusar"}
-{"frase":"cancela","precisa_ser":"cancelar_operacao","por_que":"recusa explicita"}
+{"frase": "pode parar", "nao_pode_ser": "confirmar_acao", "por_que": "quer dizer PARE; ja foi lido como sim a 99,8%"}
+{"frase": "pode deixar", "nao_pode_ser": "confirmar_acao", "por_que": "quer dizer DEIXA; ja foi lido como sim a 100%"}
+{"frase": "pode cancelar", "nao_pode_ser": "confirmar_acao", "por_que": "o verbo e cancelar, o 'pode' nao decide"}
+{"frase": "pode esquecer", "nao_pode_ser": "confirmar_acao", "por_que": "mesma familia de 'pode parar'"}
+{"frase": "pode refazer", "nao_pode_ser": "confirmar_acao", "por_que": "pedido de correcao, nao de execucao"}
+{"frase": "para por favor", "nao_pode_ser": "confirmar_acao", "por_que": "cortesia nao e concordancia; ja foi lido como sim a 99,4%"}
+{"frase": "refaz por favor", "nao_pode_ser": "confirmar_acao", "por_que": "cortesia nao e concordancia; ja foi lido como sim a 99,1%"}
+{"frase": "nao por favor", "nao_pode_ser": "confirmar_acao", "por_que": "cortesia nao e concordancia"}
+{"frase": "muda isso", "nao_pode_ser": "confirmar_acao", "por_que": "correcao; ja foi lido como sim a 100%"}
+{"frase": "nao e isso", "nao_pode_ser": "confirmar_acao", "por_que": "recusa explicita"}
+{"frase": "ta errado", "nao_pode_ser": "confirmar_acao", "por_que": "recusa explicita"}
+{"frase": "esse nao", "nao_pode_ser": "confirmar_acao", "por_que": "recusa explicita"}
+{"frase": "nao quero", "nao_pode_ser": "confirmar_acao", "por_que": "recusa explicita"}
+{"frase": "melhor nao", "nao_pode_ser": "confirmar_acao", "por_que": "recusa explicita"}
+{"frase": "muda o preco da agua para 5,50", "precisa_ser": "alterar_preco", "por_que": "a ordem principal; a familia de correcao ja roubou o verbo 'muda' e derrubou isto de 99,5% para 73,5%"}
+{"frase": "muda o preco da agua", "precisa_ser": "alterar_preco", "por_que": "a ordem principal, sem valor"}
+{"frase": "poe a agua a 4,50", "precisa_ser": "alterar_preco", "por_que": "outra forma da ordem principal"}
+{"frase": "corrige o estoque da agua para 30", "precisa_ser": "alterar_estoque", "por_que": "'corrige' tambem ja foi disputado pela familia de correcao"}
+{"frase": "adiciona um produto novo", "precisa_ser": "adicionar_produto", "por_que": "ordem de cadastro"}
+{"frase": "sim", "precisa_ser": "confirmar_acao", "por_que": "se isto quebrar, nada mais grava"}
+{"frase": "pode", "precisa_ser": "confirmar_acao", "por_que": "a forma mais curta de aceitar"}
+{"frase": "isso mesmo", "por_que": "forma comum de aceitar; cobra o 1o lugar e nao o corte — abaixo do corte ela re-pergunta, que e seguro. O nucleo ('sim', 'pode') continua cobrado no corte", "precisa_ser_no_topo": "confirmar_acao"}
+{"frase": "faz por favor", "por_que": "o par educado de 'para por favor': o verbo decide. Cobra o 1o lugar, nao o corte de gravacao — em 99,3% contra corte 0,998 ele re-pergunta, que e falha segura", "precisa_ser_no_topo": "confirmar_acao"}
+{"frase": "nao", "precisa_ser": "cancelar_operacao", "por_que": "se isto quebrar, nao ha como recusar"}
+{"frase": "cancela", "precisa_ser": "cancelar_operacao", "por_que": "recusa explicita"}

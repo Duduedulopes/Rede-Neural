@@ -85,7 +85,16 @@ for L in io.open(GUA, encoding="utf-8"):
     g = json.loads(L)
     nome, conf = classificar(g["frase"])
 
-    if "nao_pode_ser" in g:
+    if "precisa_ser_no_topo" in g:
+        # Terceira forma de cobranca: a intencao certa tem de ser o PRIMEIRO
+        # palpite, sem exigir que passe do corte. Serve para a frase cujo
+        # valor esta em qual lado ela cai, nao em quanta confianca tem —
+        # "faz por favor" so precisa nao ser lida como cancelamento; ficar
+        # abaixo do corte de gravacao apenas re-pergunta, que e seguro.
+        preciso = g["precisa_ser_no_topo"]
+        ruim = nome != preciso
+        alvo = f"{preciso} em 1o"
+    elif "nao_pode_ser" in g:
         proibido = g["nao_pode_ser"]
         # So e falha se a rede fosse AGIR nisso. Errar abaixo do corte e
         # seguro: o C# repergunta em vez de gravar.

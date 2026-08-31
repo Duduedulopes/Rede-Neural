@@ -49,6 +49,39 @@ class Rede:
             for i in range(len(tamanhos) - 1)
         ]
 
+    @classmethod
+    def de_camadas(cls, camadas):
+        """Uma rede montada com camadas JA EXISTENTES, em vez de novas.
+
+        POR QUE ISTO EXISTE: DUAS SAIDAS SOBRE O MESMO TRONCO.
+
+        O gerente precisa responder duas coisas da mesma frase — o que a
+        pessoa quer, e em que tom ela esta. Sao duas perguntas, e cada uma
+        merece a sua propria softmax; juntar tudo numa saida so faria
+        "urgente" e "estoque" competirem pelo mesmo lugar, quando a frase
+        "urgente, quanto tem de agua" e as DUAS coisas.
+
+        Mas elas nao precisam de dois cerebros. A parte cara e a tabela de
+        vetores e a camada oculta, que e onde a frase vira entendimento —
+        e o entendimento serve as duas perguntas igual. Entao:
+
+            vetores -> oculta ─┬→ softmax das intencoes
+                               └→ softmax dos tons
+
+        Montar isso pede duas `Rede` que COMPARTILHAM o mesmo objeto
+        `Camada` do tronco. Compartilhar de verdade, o mesmo objeto: assim
+        o que uma aprende no tronco a outra ja sabe.
+
+        E seguro porque `Camada.frente` reescreve a memoria dela a cada
+        chamada, e `gradiente` sempre chama `frente` antes de olhar. Com a
+        mesma entrada nas duas, o estado guardado e o mesmo.
+        """
+        rede = cls.__new__(cls)
+        rede.camadas = list(camadas)
+        rede.tamanhos = ([camadas[0].n_entradas] +
+                         [c.n_neuronios for c in camadas])
+        return rede
+
     def frente(self, entrada):
         """A previsao. Passa a entrada por todas as camadas, em ordem."""
         a = np.asarray(entrada, dtype=float).reshape(self.tamanhos[0], 1)
