@@ -31,6 +31,10 @@ from pathlib import Path
 TEMPO_LIMITE = 1.5
 
 
+import re as _re
+_PAPEL_VALIDO = _re.compile(r"^[A-Za-z0-9_-]{1,40}$")
+
+
 class FonteEspacial:
     """O gemeo digital: estado atual completo e o fluxo de eventos."""
 
@@ -38,6 +42,7 @@ class FonteEspacial:
         self.raiz = Path(raiz)
         self.arquivo_estado = self.raiz / "dados" / "estado_atual.json"
         self.arquivo_eventos = self.raiz / "dados" / "eventos.jsonl"
+        self.pasta_ao_vivo = self.raiz / "dados" / "ao_vivo"
         self.posicao = None
 
     def estado(self):
@@ -58,6 +63,74 @@ class FonteEspacial:
             return {"online": False, "erro": "leitura no meio da escrita"}
         except OSError as erro:
             return {"online": False, "erro": str(erro)}
+
+    def planta(self):
+        """A planta da loja: limites do chao, moveis e zonas.
+
+        SERVIDA A PARTE DO ESTADO, e de proposito. A planta muda quando a
+        loja muda — talvez uma vez por mes. O estado muda cinco vezes por
+        segundo. Empacotar as duas juntas mandaria a mesma gondola pela rede
+        432 mil vezes por dia para nada.
+
+        Qual planta esta em uso vem do proprio estado, no campo `loja.id`:
+        assim o painel nao precisa saber o nome do arquivo, e trocar de loja
+        nao exige mexer no painel.
+        """
+        try:
+            estado = self.estado()
+            alvo = ((estado.get("dados") or {}).get("loja") or {}).get("id")
+        except Exception:
+            alvo = None
+
+        try:
+            for arq in sorted((self.raiz / "loja").glob("*.json")):
+                try:
+                    d = json.loads(arq.read_text(encoding="utf-8"))
+                except (OSError, json.JSONDecodeError):
+                    continue
+                if alvo is None or d.get("id") == alvo:
+                    return {k: v for k, v in d.items() if not k.startswith("_")}
+        except OSError:
+            pass
+        return None
+
+    def cameras_ao_vivo(self):
+        """Quais cameras estao publicando quadro AGORA, e ha quanto tempo.
+
+        A idade importa mais que a existencia: um `alto.jpg` de dez minutos
+        atras parece uma camera funcionando e nao e. Quem mostra decide o que
+        e velho demais — a fonte so informa.
+        """
+        try:
+            arquivos = sorted(self.pasta_ao_vivo.glob("*.jpg"))
+        except OSError:
+            return []
+        agora = time.time()
+        saida = []
+        for a in arquivos:
+            if a.name.startswith("."):
+                continue          # temporario de escrita atomica
+            try:
+                idade = agora - a.stat().st_mtime
+            except OSError:
+                continue
+            saida.append({"papel": a.stem, "idade_s": round(idade, 1)})
+        return saida
+
+    def quadro(self, papel):
+        """Os bytes do ultimo JPEG de uma camera, ou None.
+
+        `papel` vem da URL, entao e entrada de fora: so letra, numero, hifen
+        e sublinhado. Sem isto, "../../appsettings.json" seria um caminho
+        valido e o servidor entregaria arquivo de fora da pasta.
+        """
+        if not papel or not _PAPEL_VALIDO.match(papel):
+            return None
+        caminho = self.pasta_ao_vivo / f"{papel}.jpg"
+        try:
+            return caminho.read_bytes()
+        except OSError:
+            return None
 
     def eventos_novos(self, limite=40):
         """So o que apareceu desde a ultima chamada.

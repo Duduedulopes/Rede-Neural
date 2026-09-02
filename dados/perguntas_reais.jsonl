@@ -1,2 +1,3 @@
 {"pergunta": "esta tudo funcionando?", "palpite": "cameras", "confianca": 0.48, "respondida": false, "gravado_em": "2026-08-30T17:46:38.682705+00:00"}
 {"pergunta": "como funciona o sistema?", "palpite": "duvida_sistema", "confianca": 0.7, "respondida": false, "gravado_em": "2026-08-30T17:46:38.719086+00:00"}
+{"pergunta": "me fale o estoque hoje?", "palpite": "estoque", "confianca": 0.9979559582881294, "escolhida_por_voce": false, "de": "admin", "gravado_em": "2026-09-02T19:32:53.193596-03:00"}

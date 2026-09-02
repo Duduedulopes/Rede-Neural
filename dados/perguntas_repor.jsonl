@@ -1,0 +1,330 @@
+{"pergunta": "chegaram mais 20 chocolates", "intencao": "repor_estoque", "origem": "repor", "base": "chegaram mais 20 chocolates", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegaram mais 20 chocolstes", "intencao": "repor_estoque", "origem": "repor", "base": "chegaram mais 20 chocolates", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegaram mais 20 chocilates", "intencao": "repor_estoque", "origem": "repor", "base": "chegaram mais 20 chocolates", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegarm mais 20 chocolates", "intencao": "repor_estoque", "origem": "repor", "base": "chegaram mais 20 chocolates", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegaram mais 20 chovolates", "intencao": "repor_estoque", "origem": "repor", "base": "chegaram mais 20 chocolates", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegaram mais 20 cocolates", "intencao": "repor_estoque", "origem": "repor", "base": "chegaram mais 20 chocolates", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegou nais agua", "intencao": "repor_estoque", "origem": "repor", "base": "chegou mais agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegu mais agua", "intencao": "repor_estoque", "origem": "repor", "base": "chegou mais agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegou maos agua", "intencao": "repor_estoque", "origem": "repor", "base": "chegou mais agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegou + agua", "intencao": "repor_estoque", "origem": "repor", "base": "chegou mais agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chrgou + agua", "intencao": "repor_estoque", "origem": "repor", "base": "chegou mais agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegou mais agua", "intencao": "repor_estoque", "origem": "repor", "base": "chegou mais agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegou mercadoia nova", "intencao": "repor_estoque", "origem": "repor", "base": "chegou mercadoria nova", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegou mrcadoria nova", "intencao": "repor_estoque", "origem": "repor", "base": "chegou mercadoria nova", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegou mercadoria niva", "intencao": "repor_estoque", "origem": "repor", "base": "chegou mercadoria nova", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegou mercdoria nova", "intencao": "repor_estoque", "origem": "repor", "base": "chegou mercadoria nova", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegou mercadiria nova", "intencao": "repor_estoque", "origem": "repor", "base": "chegou mercadoria nova", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegou mercadoria nova", "intencao": "repor_estoque", "origem": "repor", "base": "chegou mercadoria nova", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegaram 10 caixas salgadinho", "intencao": "repor_estoque", "origem": "repor", "base": "chegaram 10 caixas de salgadinho", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegou 10 caixas de salgadinho", "intencao": "repor_estoque", "origem": "repor", "base": "chegaram 10 caixas de salgadinho", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegaram 10 csixas salgadinho", "intencao": "repor_estoque", "origem": "repor", "base": "chegaram 10 caixas de salgadinho", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegaram 10 caixas salgasinho", "intencao": "repor_estoque", "origem": "repor", "base": "chegaram 10 caixas de salgadinho", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chgaram 10 caixas salgadinho", "intencao": "repor_estoque", "origem": "repor", "base": "chegaram 10 caixas de salgadinho", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "chegaram 10 caixas de salgadinho", "intencao": "repor_estoque", "origem": "repor", "base": "chegaram 10 caixas de salgadinho", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "entrou mercadiria", "intencao": "repor_estoque", "origem": "repor", "base": "entrou mercadoria", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "entrou meradoria", "intencao": "repor_estoque", "origem": "repor", "base": "entrou mercadoria", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "entrou mercadoria", "intencao": "repor_estoque", "origem": "repor", "base": "entrou mercadoria", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "entrou mercadoroa", "intencao": "repor_estoque", "origem": "repor", "base": "entrou mercadoria", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "entrou mercsdoria", "intencao": "repor_estoque", "origem": "repor", "base": "entrou mercadoria", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "emtrou mercadoria", "intencao": "repor_estoque", "origem": "repor", "base": "entrou mercadoria", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "entru mais estoque", "intencao": "repor_estoque", "origem": "repor", "base": "entrou mais estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "entriu mais estoque", "intencao": "repor_estoque", "origem": "repor", "base": "entrou mais estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "entou + estq", "intencao": "repor_estoque", "origem": "repor", "base": "entrou mais estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "entrou mais estoque", "intencao": "repor_estoque", "origem": "repor", "base": "entrou mais estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "entrou mais estique", "intencao": "repor_estoque", "origem": "repor", "base": "entrou mais estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "entrou + estq", "intencao": "repor_estoque", "origem": "repor", "base": "entrou mais estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "rcebi + 30 un", "intencao": "repor_estoque", "origem": "repor", "base": "recebi mais 30 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "rcebi mais 30 unidades", "intencao": "repor_estoque", "origem": "repor", "base": "recebi mais 30 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "eecebi mais 30 unidades", "intencao": "repor_estoque", "origem": "repor", "base": "recebi mais 30 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "recebi mais 30 unidades", "intencao": "repor_estoque", "origem": "repor", "base": "recebi mais 30 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "recebi + 30 un", "intencao": "repor_estoque", "origem": "repor", "base": "recebi mais 30 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "recbi mais 30 unidades", "intencao": "repor_estoque", "origem": "repor", "base": "recebi mais 30 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "recebemos mercadoria hoje", "intencao": "repor_estoque", "origem": "repor", "base": "recebemos mercadoria hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "recebenos mercadoria hoje", "intencao": "repor_estoque", "origem": "repor", "base": "recebemos mercadoria hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "recebemos mercadora hoje", "intencao": "repor_estoque", "origem": "repor", "base": "recebemos mercadoria hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "recrbemos mercadoria hoje", "intencao": "repor_estoque", "origem": "repor", "base": "recebemos mercadoria hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "recebemos mercdoria hoje", "intencao": "repor_estoque", "origem": "repor", "base": "recebemos mercadoria hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "rrcebemos mercadoria hoje", "intencao": "repor_estoque", "origem": "repor", "base": "recebemos mercadoria hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "adiiona 1 unidade agua", "intencao": "repor_estoque", "origem": "repor", "base": "adiciona 1 unidade de agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "adiciona 1 unidade de agua", "intencao": "repor_estoque", "origem": "repor", "base": "adiciona 1 unidade de agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "adociona 1 unidade de agua", "intencao": "repor_estoque", "origem": "repor", "base": "adiciona 1 unidade de agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "adiciona 1 uidade de agua", "intencao": "repor_estoque", "origem": "repor", "base": "adiciona 1 unidade de agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "sdiciona 1 unidae de agua", "intencao": "repor_estoque", "origem": "repor", "base": "adiciona 1 unidade de agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "adicona 1 unidade agua", "intencao": "repor_estoque", "origem": "repor", "base": "adiciona 1 unidade de agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "adicione mais 1 unisade", "intencao": "repor_estoque", "origem": "repor", "base": "adicione mais 1 unidade", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "sdicione mais 1 undade", "intencao": "repor_estoque", "origem": "repor", "base": "adicione mais 1 unidade", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "adicione mais 1 unidade", "intencao": "repor_estoque", "origem": "repor", "base": "adicione mais 1 unidade", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "adicine mais 1 unidade", "intencao": "repor_estoque", "origem": "repor", "base": "adicione mais 1 unidade", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "adicone + 1 un", "intencao": "repor_estoque", "origem": "repor", "base": "adicione mais 1 unidade", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "adivione + 1 un", "intencao": "repor_estoque", "origem": "repor", "base": "adicione mais 1 unidade", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "adiciona 5 estique", "intencao": "repor_estoque", "origem": "repor", "base": "adiciona 5 no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "adiciona 5 estoque", "intencao": "repor_estoque", "origem": "repor", "base": "adiciona 5 no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "adicoona 5 no estoque", "intencao": "repor_estoque", "origem": "repor", "base": "adiciona 5 no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "add 5 no estq", "intencao": "repor_estoque", "origem": "repor", "base": "adiciona 5 no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "adiciona 5 no estoque", "intencao": "repor_estoque", "origem": "repor", "base": "adiciona 5 no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "adiciona 5 no estque", "intencao": "repor_estoque", "origem": "repor", "base": "adiciona 5 no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "addr 10 un", "intencao": "repor_estoque", "origem": "repor", "base": "adicionar 10 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "addr 10 undades", "intencao": "repor_estoque", "origem": "repor", "base": "adicionar 10 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "aicionar 10 unidades", "intencao": "repor_estoque", "origem": "repor", "base": "adicionar 10 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "addr 10 umidades", "intencao": "repor_estoque", "origem": "repor", "base": "adicionar 10 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "adicoonar 10 unidades", "intencao": "repor_estoque", "origem": "repor", "base": "adicionar 10 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "adicionar 10 unidades", "intencao": "repor_estoque", "origem": "repor", "base": "adicionar 10 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "acrescenta 10 estoque chocolate", "intencao": "repor_estoque", "origem": "repor", "base": "acrescenta 10 no estoque do chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "acrescenta 10 no esyoque do chocolate", "intencao": "repor_estoque", "origem": "repor", "base": "acrescenta 10 no estoque do chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "acrescenta 10 no estoque do chocolate", "intencao": "repor_estoque", "origem": "repor", "base": "acrescenta 10 no estoque do chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "aceescenta 10 estoque chocolate", "intencao": "repor_estoque", "origem": "repor", "base": "acrescenta 10 no estoque do chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "acrescenta 10 no estq do chocolate", "intencao": "repor_estoque", "origem": "repor", "base": "acrescenta 10 no estoque do chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "acresventa 10 no estq do chocolate", "intencao": "repor_estoque", "origem": "repor", "base": "acrescenta 10 no estoque do chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "acrescentar 20 unidades de coca", "intencao": "repor_estoque", "origem": "repor", "base": "acrescentar 20 unidades de coca", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "acrrscentar 20 uniades de coca", "intencao": "repor_estoque", "origem": "repor", "base": "acrescentar 20 unidades de coca", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "acrescntar 20 unidades de coca", "intencao": "repor_estoque", "origem": "repor", "base": "acrescentar 20 unidades de coca", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "acescentar 20 unidades coca", "intencao": "repor_estoque", "origem": "repor", "base": "acrescentar 20 unidades de coca", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "acrescentar 20 un de coca", "intencao": "repor_estoque", "origem": "repor", "base": "acrescentar 20 unidades de coca", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "acrscentar 20 unidades de coca", "intencao": "repor_estoque", "origem": "repor", "base": "acrescentar 20 unidades de coca", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "soma 5 no esique da agua", "intencao": "repor_estoque", "origem": "repor", "base": "soma 5 no estoque da agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "soma 5 no estoqe da agua", "intencao": "repor_estoque", "origem": "repor", "base": "soma 5 no estoque da agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "soma 5 estoque agus", "intencao": "repor_estoque", "origem": "repor", "base": "soma 5 no estoque da agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "soma 5 no estoque da agua", "intencao": "repor_estoque", "origem": "repor", "base": "soma 5 no estoque da agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "soma 5 no estq da agua", "intencao": "repor_estoque", "origem": "repor", "base": "soma 5 no estoque da agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "soma 5 eatoque agua", "intencao": "repor_estoque", "origem": "repor", "base": "soma 5 no estoque da agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "somar 15 unidsdes", "intencao": "repor_estoque", "origem": "repor", "base": "somar 15 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "somar 15 un", "intencao": "repor_estoque", "origem": "repor", "base": "somar 15 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "somar 15 unidades", "intencao": "repor_estoque", "origem": "repor", "base": "somar 15 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "somr 15 un", "intencao": "repor_estoque", "origem": "repor", "base": "somar 15 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "somar 15 uniddes", "intencao": "repor_estoque", "origem": "repor", "base": "somar 15 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "somar 15 unidads", "intencao": "repor_estoque", "origem": "repor", "base": "somar 15 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "poe mais 20 no estoque", "intencao": "repor_estoque", "origem": "repor", "base": "poe mais 20 no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "poe + 20 no estoue", "intencao": "repor_estoque", "origem": "repor", "base": "poe mais 20 no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "poe mais 20 estoue", "intencao": "repor_estoque", "origem": "repor", "base": "poe mais 20 no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "poe mais 20 estoque", "intencao": "repor_estoque", "origem": "repor", "base": "poe mais 20 no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "poe + 20 no estq", "intencao": "repor_estoque", "origem": "repor", "base": "poe mais 20 no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "poe + 20 estq", "intencao": "repor_estoque", "origem": "repor", "base": "poe mais 20 no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "cloca msis 3 aguas", "intencao": "repor_estoque", "origem": "repor", "base": "coloca mais 3 aguas", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "coloca mais 3 aguas", "intencao": "repor_estoque", "origem": "repor", "base": "coloca mais 3 aguas", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "coloca mais 3 auas", "intencao": "repor_estoque", "origem": "repor", "base": "coloca mais 3 aguas", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "cloca mais 3 aguas", "intencao": "repor_estoque", "origem": "repor", "base": "coloca mais 3 aguas", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "coloca + 3 agas", "intencao": "repor_estoque", "origem": "repor", "base": "coloca mais 3 aguas", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "coloca maos 3 aguas", "intencao": "repor_estoque", "origem": "repor", "base": "coloca mais 3 aguas", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "inclui + 10 un", "intencao": "repor_estoque", "origem": "repor", "base": "inclui mais 10 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "incli mais 10 unidades", "intencao": "repor_estoque", "origem": "repor", "base": "inclui mais 10 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "inclui mais 10 uidades", "intencao": "repor_estoque", "origem": "repor", "base": "inclui mais 10 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "inclui mais 10 unidadea", "intencao": "repor_estoque", "origem": "repor", "base": "inclui mais 10 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "inclui mais 10 unidades", "intencao": "repor_estoque", "origem": "repor", "base": "inclui mais 10 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "inclui mais 10 uniades", "intencao": "repor_estoque", "origem": "repor", "base": "inclui mais 10 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "mete mais 5 no esoque", "intencao": "repor_estoque", "origem": "repor", "base": "mete mais 5 no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "mete + 5 no etoque", "intencao": "repor_estoque", "origem": "repor", "base": "mete mais 5 no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "mete mais 5 no estoque", "intencao": "repor_estoque", "origem": "repor", "base": "mete mais 5 no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "mete mais 5 estoue", "intencao": "repor_estoque", "origem": "repor", "base": "mete mais 5 no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "mete mais 5 no estoue", "intencao": "repor_estoque", "origem": "repor", "base": "mete mais 5 no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "mete mais 5 estoque", "intencao": "repor_estoque", "origem": "repor", "base": "mete mais 5 no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "repe estoque salgadinho", "intencao": "repor_estoque", "origem": "repor", "base": "repoe o estoque do salgadinho", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "repoe o estour do salgadinho", "intencao": "repor_estoque", "origem": "repor", "base": "repoe o estoque do salgadinho", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "repoe o estq do salgadinho", "intencao": "repor_estoque", "origem": "repor", "base": "repoe o estoque do salgadinho", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "repoe o estoque do salgadinho", "intencao": "repor_estoque", "origem": "repor", "base": "repoe o estoque do salgadinho", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "repoe estoque salgadinho", "intencao": "repor_estoque", "origem": "repor", "base": "repoe o estoque do salgadinho", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "repoe esyoque salgadinho", "intencao": "repor_estoque", "origem": "repor", "base": "repoe o estoque do salgadinho", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "repor estoque agua", "intencao": "repor_estoque", "origem": "repor", "base": "repor o estoque da agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "repor estque agua", "intencao": "repor_estoque", "origem": "repor", "base": "repor o estoque da agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "repor o estoque da agus", "intencao": "repor_estoque", "origem": "repor", "base": "repor o estoque da agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "rpor o estq da agua", "intencao": "repor_estoque", "origem": "repor", "base": "repor o estoque da agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "repor o estique da agua", "intencao": "repor_estoque", "origem": "repor", "base": "repor o estoque da agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "repor o estoque da agua", "intencao": "repor_estoque", "origem": "repor", "base": "repor o estoque da agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "repoe 20 unidades", "intencao": "repor_estoque", "origem": "repor", "base": "repoe 20 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "reoe 20 unidades", "intencao": "repor_estoque", "origem": "repor", "base": "repoe 20 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "repe 20 unidades", "intencao": "repor_estoque", "origem": "repor", "base": "repoe 20 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "repoe 20 un", "intencao": "repor_estoque", "origem": "repor", "base": "repoe 20 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "repoe 20 unidads", "intencao": "repor_estoque", "origem": "repor", "base": "repoe 20 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "eepoe 20 unidades", "intencao": "repor_estoque", "origem": "repor", "base": "repoe 20 unidades", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faz a rrposicao do chocolate", "intencao": "repor_estoque", "origem": "repor", "base": "faz a reposicao do chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faz a reposicao do vhocolate", "intencao": "repor_estoque", "origem": "repor", "base": "faz a reposicao do chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faz a reposicao do chocolate", "intencao": "repor_estoque", "origem": "repor", "base": "faz a reposicao do chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faz a reposocao do chocolate", "intencao": "repor_estoque", "origem": "repor", "base": "faz a reposicao do chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faz a repoaicao do chocolate", "intencao": "repor_estoque", "origem": "repor", "base": "faz a reposicao do chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faz reposicao chocolate", "intencao": "repor_estoque", "origem": "repor", "base": "faz a reposicao do chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "precia repor agua", "intencao": "repor_estoque", "origem": "repor", "base": "precisa repor a agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "precisa repor a agua", "intencao": "repor_estoque", "origem": "repor", "base": "precisa repor a agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "precisa repr agua", "intencao": "repor_estoque", "origem": "repor", "base": "precisa repor a agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "prrcisa repor a agua", "intencao": "repor_estoque", "origem": "repor", "base": "precisa repor a agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "precisa reor agua", "intencao": "repor_estoque", "origem": "repor", "base": "precisa repor a agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "precisa repor agua", "intencao": "repor_estoque", "origem": "repor", "base": "precisa repor a agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "vou repr 15 un de coca", "intencao": "repor_estoque", "origem": "repor", "base": "vou repor 15 unidades de coca", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "vou repor 15 unidades coca", "intencao": "repor_estoque", "origem": "repor", "base": "vou repor 15 unidades de coca", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "vou repor 15 unidades de coca", "intencao": "repor_estoque", "origem": "repor", "base": "vou repor 15 unidades de coca", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "vou rpor 15 unidades de coca", "intencao": "repor_estoque", "origem": "repor", "base": "vou repor 15 unidades de coca", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "vou repor 15 un coca", "intencao": "repor_estoque", "origem": "repor", "base": "vou repor 15 unidades de coca", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "vou reor 15 unidades coca", "intencao": "repor_estoque", "origem": "repor", "base": "vou repor 15 unidades de coca", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "maos 5 de agua", "intencao": "repor_estoque", "origem": "repor", "base": "mais 5 de agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "+ 5 agua", "intencao": "repor_estoque", "origem": "repor", "base": "mais 5 de agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "mais 5 de agua", "intencao": "repor_estoque", "origem": "repor", "base": "mais 5 de agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "mais 5 agua", "intencao": "repor_estoque", "origem": "repor", "base": "mais 5 de agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "maos 5 agua", "intencao": "repor_estoque", "origem": "repor", "base": "mais 5 de agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "+ 5 de agua", "intencao": "repor_estoque", "origem": "repor", "base": "mais 5 de agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "+ 20 chocolate", "intencao": "repor_estoque", "origem": "repor", "base": "mais 20 chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "mais 20 chovolate", "intencao": "repor_estoque", "origem": "repor", "base": "mais 20 chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "mais 20 chcolate", "intencao": "repor_estoque", "origem": "repor", "base": "mais 20 chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "mais 20 chocolate", "intencao": "repor_estoque", "origem": "repor", "base": "mais 20 chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "mais 20 chicolate", "intencao": "repor_estoque", "origem": "repor", "base": "mais 20 chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "mais 20 chocolte", "intencao": "repor_estoque", "origem": "repor", "base": "mais 20 chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "bota + 10 ai", "intencao": "repor_estoque", "origem": "repor", "base": "bota mais 10 ai", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "bota maia 10 ai", "intencao": "repor_estoque", "origem": "repor", "base": "bota mais 10 ai", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "bota mais 10 ai", "intencao": "repor_estoque", "origem": "repor", "base": "bota mais 10 ai", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "bita mais 10 ai", "intencao": "repor_estoque", "origem": "repor", "base": "bota mais 10 ai", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "boya + 10 ai", "intencao": "repor_estoque", "origem": "repor", "base": "bota mais 10 ai", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "bots mais 10 ai", "intencao": "repor_estoque", "origem": "repor", "base": "bota mais 10 ai", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "sobe estoque 5", "intencao": "repor_estoque", "origem": "repor", "base": "sobe o estoque em 5", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "sibe o estoque em 5", "intencao": "repor_estoque", "origem": "repor", "base": "sobe o estoque em 5", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "sobe o estq em 5", "intencao": "repor_estoque", "origem": "repor", "base": "sobe o estoque em 5", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "sobe estoue 5", "intencao": "repor_estoque", "origem": "repor", "base": "sobe o estoque em 5", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "sobe o estoque em 5", "intencao": "repor_estoque", "origem": "repor", "base": "sobe o estoque em 5", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "sobe o estque em 5", "intencao": "repor_estoque", "origem": "repor", "base": "sobe o estoque em 5", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "aumenta o estoque em 12", "intencao": "repor_estoque", "origem": "repor", "base": "aumenta o estoque em 12", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "aumenta estoqe 12", "intencao": "repor_estoque", "origem": "repor", "base": "aumenta o estoque em 12", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "aumenta etoque 12", "intencao": "repor_estoque", "origem": "repor", "base": "aumenta o estoque em 12", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "aumenta o estoqe em 12", "intencao": "repor_estoque", "origem": "repor", "base": "aumenta o estoque em 12", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "aumenta o estq em 12", "intencao": "repor_estoque", "origem": "repor", "base": "aumenta o estoque em 12", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "aumenta estoque 12", "intencao": "repor_estoque", "origem": "repor", "base": "aumenta o estoque em 12", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "subir 30 un no estq", "intencao": "repor_estoque", "origem": "repor", "base": "subir 30 unidades no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "subir 30 un estq", "intencao": "repor_estoque", "origem": "repor", "base": "subir 30 unidades no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "subir 30 un no rstq", "intencao": "repor_estoque", "origem": "repor", "base": "subir 30 unidades no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "subir 30 unidades no estoque", "intencao": "repor_estoque", "origem": "repor", "base": "subir 30 unidades no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "subir 30 unidades estoque", "intencao": "repor_estoque", "origem": "repor", "base": "subir 30 unidades no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "subie 30 unidades estoque", "intencao": "repor_estoque", "origem": "repor", "base": "subir 30 unidades no estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "somar + agua", "intencao": "repor_estoque", "origem": "repor", "base": "somar mais uma agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "somar mais uma agua", "intencao": "repor_estoque", "origem": "repor", "base": "somar mais uma agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "somar + uma agua", "intencao": "repor_estoque", "origem": "repor", "base": "somar mais uma agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "somar msis agua", "intencao": "repor_estoque", "origem": "repor", "base": "somar mais uma agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "soar mais uma agua", "intencao": "repor_estoque", "origem": "repor", "base": "somar mais uma agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "somar mais agua", "intencao": "repor_estoque", "origem": "repor", "base": "somar mais uma agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "corrige o esyq da agua pra 30", "intencao": "alterar_estoque", "origem": "repor", "base": "corrige o estoque da agua para 30", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "corrige esoque agua 30", "intencao": "alterar_estoque", "origem": "repor", "base": "corrige o estoque da agua para 30", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "corrige o estoque da agua para 30", "intencao": "alterar_estoque", "origem": "repor", "base": "corrige o estoque da agua para 30", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "corrie estoque agua 30", "intencao": "alterar_estoque", "origem": "repor", "base": "corrige o estoque da agua para 30", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "corrige o estoque da agus para 30", "intencao": "alterar_estoque", "origem": "repor", "base": "corrige o estoque da agua para 30", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "corrige o estque da agua para 30", "intencao": "alterar_estoque", "origem": "repor", "base": "corrige o estoque da agua para 30", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "corrige esoque 12", "intencao": "alterar_estoque", "origem": "repor", "base": "corrige o estoque para 12", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "corrige o estoque para 12", "intencao": "alterar_estoque", "origem": "repor", "base": "corrige o estoque para 12", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "corrge estoque 12", "intencao": "alterar_estoque", "origem": "repor", "base": "corrige o estoque para 12", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "corrige estque 12", "intencao": "alterar_estoque", "origem": "repor", "base": "corrige o estoque para 12", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "corrige o estq pra 12", "intencao": "alterar_estoque", "origem": "repor", "base": "corrige o estoque para 12", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "corrige estoque 12", "intencao": "alterar_estoque", "origem": "repor", "base": "corrige o estoque para 12", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o estoque crto da agua e 25", "intencao": "alterar_estoque", "origem": "repor", "base": "o estoque certo da agua e 25", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "estoque certo agua e 25", "intencao": "alterar_estoque", "origem": "repor", "base": "o estoque certo da agua e 25", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o estoque ceeto da agua e 25", "intencao": "alterar_estoque", "origem": "repor", "base": "o estoque certo da agua e 25", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o estoque certo da agua e 25", "intencao": "alterar_estoque", "origem": "repor", "base": "o estoque certo da agua e 25", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o estq verto da agua e 25", "intencao": "alterar_estoque", "origem": "repor", "base": "o estoque certo da agua e 25", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "estq certo agua e 25", "intencao": "alterar_estoque", "origem": "repor", "base": "o estoque certo da agua e 25", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o estoque da cica deveria ser 40", "intencao": "alterar_estoque", "origem": "repor", "base": "o estoque da coca deveria ser 40", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o estoue da coca deveria ser 40", "intencao": "alterar_estoque", "origem": "repor", "base": "o estoque da coca deveria ser 40", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o eatoque da coca deveria ser 40", "intencao": "alterar_estoque", "origem": "repor", "base": "o estoque da coca deveria ser 40", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o estoque da coca deveria ser 40", "intencao": "alterar_estoque", "origem": "repor", "base": "o estoque da coca deveria ser 40", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o estq da coca deveria ser 40", "intencao": "alterar_estoque", "origem": "repor", "base": "o estoque da coca deveria ser 40", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "estq coca deveria ser 40", "intencao": "alterar_estoque", "origem": "repor", "base": "o estoque da coca deveria ser 40", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "deine o estq do baly em 18", "intencao": "alterar_estoque", "origem": "repor", "base": "define o estoque do baly em 18", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "define estoque baly 18", "intencao": "alterar_estoque", "origem": "repor", "base": "define o estoque do baly em 18", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "define estoqur baly 18", "intencao": "alterar_estoque", "origem": "repor", "base": "define o estoque do baly em 18", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "define o estq do baly em 18", "intencao": "alterar_estoque", "origem": "repor", "base": "define o estoque do baly em 18", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "dfine o estoque do baly em 18", "intencao": "alterar_estoque", "origem": "repor", "base": "define o estoque do baly em 18", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "define o estoque do baly em 18", "intencao": "alterar_estoque", "origem": "repor", "base": "define o estoque do baly em 18", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "deixa estoque 50", "intencao": "alterar_estoque", "origem": "repor", "base": "deixa o estoque em 50", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "deixa o estque em 50", "intencao": "alterar_estoque", "origem": "repor", "base": "deixa o estoque em 50", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "deixa o estqur em 50", "intencao": "alterar_estoque", "origem": "repor", "base": "deixa o estoque em 50", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "deixa o estoque em 50", "intencao": "alterar_estoque", "origem": "repor", "base": "deixa o estoque em 50", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "dixa o estq em 50", "intencao": "alterar_estoque", "origem": "repor", "base": "deixa o estoque em 50", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "deixa estq 50", "intencao": "alterar_estoque", "origem": "repor", "base": "deixa o estoque em 50", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "conta de novo o esoque do baly", "intencao": "alterar_estoque", "origem": "repor", "base": "conta de novo o estoque do baly", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "conta novo estq baly", "intencao": "alterar_estoque", "origem": "repor", "base": "conta de novo o estoque do baly", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "conta de novo o estoque do baly", "intencao": "alterar_estoque", "origem": "repor", "base": "conta de novo o estoque do baly", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "conta de novo o estoqur do baly", "intencao": "alterar_estoque", "origem": "repor", "base": "conta de novo o estoque do baly", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "conta novi estoque baly", "intencao": "alterar_estoque", "origem": "repor", "base": "conta de novo o estoque do baly", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "conta de novo o estq do baly", "intencao": "alterar_estoque", "origem": "repor", "base": "conta de novo o estoque do baly", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "recontei, tem 22 de chocolate", "intencao": "alterar_estoque", "origem": "repor", "base": "recontei, tem 22 de chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "recotei, tem 22 de chocolate", "intencao": "alterar_estoque", "origem": "repor", "base": "recontei, tem 22 de chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "recontei, tem 22 de chocolae", "intencao": "alterar_estoque", "origem": "repor", "base": "recontei, tem 22 de chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "recontei, tem 22 de chicolate", "intencao": "alterar_estoque", "origem": "repor", "base": "recontei, tem 22 de chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "recontei, tem 22 de chocolaye", "intencao": "alterar_estoque", "origem": "repor", "base": "recontei, tem 22 de chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "revontei, tem 22 chocolate", "intencao": "alterar_estoque", "origem": "repor", "base": "recontei, tem 22 de chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "atualiza o estq do salgadinhi pra 8", "intencao": "alterar_estoque", "origem": "repor", "base": "atualiza o estoque do salgadinho para 8", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "atualiza o estoque do salgadinho paea 8", "intencao": "alterar_estoque", "origem": "repor", "base": "atualiza o estoque do salgadinho para 8", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "atualiza o estoque do salgadinho para 8", "intencao": "alterar_estoque", "origem": "repor", "base": "atualiza o estoque do salgadinho para 8", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "atualiza o estq do salgadinho pra 8", "intencao": "alterar_estoque", "origem": "repor", "base": "atualiza o estoque do salgadinho para 8", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "stualiza estoque salgadinho 8", "intencao": "alterar_estoque", "origem": "repor", "base": "atualiza o estoque do salgadinho para 8", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "atualiza estq salgadinho 8", "intencao": "alterar_estoque", "origem": "repor", "base": "atualiza o estoque do salgadinho para 8", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "muda quantidade baly 15", "intencao": "alterar_estoque", "origem": "repor", "base": "muda a quantidade do baly para 15", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "muda a qtd do bsly pra 15", "intencao": "alterar_estoque", "origem": "repor", "base": "muda a quantidade do baly para 15", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "muda a quantidade do baly para 15", "intencao": "alterar_estoque", "origem": "repor", "base": "muda a quantidade do baly para 15", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "muda a qtd do baly pra 15", "intencao": "alterar_estoque", "origem": "repor", "base": "muda a quantidade do baly para 15", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "muda qtd baly 15", "intencao": "alterar_estoque", "origem": "repor", "base": "muda a quantidade do baly para 15", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "muda quantidae baly 15", "intencao": "alterar_estoque", "origem": "repor", "base": "muda a quantidade do baly para 15", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "ajuta a quantidade para 60", "intencao": "alterar_estoque", "origem": "repor", "base": "ajusta a quantidade para 60", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "austa a quantidade para 60", "intencao": "alterar_estoque", "origem": "repor", "base": "ajusta a quantidade para 60", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "ajusta a quantidade para 60", "intencao": "alterar_estoque", "origem": "repor", "base": "ajusta a quantidade para 60", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "ajusta a quamtidade para 60", "intencao": "alterar_estoque", "origem": "repor", "base": "ajusta a quantidade para 60", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "ajusta a qtd pra 60", "intencao": "alterar_estoque", "origem": "repor", "base": "ajusta a quantidade para 60", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "ajusta a qusntidade para 60", "intencao": "alterar_estoque", "origem": "repor", "base": "ajusta a quantidade para 60", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "estq coca ta errado", "intencao": "alterar_estoque", "origem": "repor", "base": "o estoque da coca ta errado", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o estoque da cocs ta errado", "intencao": "alterar_estoque", "origem": "repor", "base": "o estoque da coca ta errado", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "estoque coca ta errado", "intencao": "alterar_estoque", "origem": "repor", "base": "o estoque da coca ta errado", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o estoqe da coca ta eerado", "intencao": "alterar_estoque", "origem": "repor", "base": "o estoque da coca ta errado", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o estoque da coca ta errado", "intencao": "alterar_estoque", "origem": "repor", "base": "o estoque da coca ta errado", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "estoque voca ta errado", "intencao": "alterar_estoque", "origem": "repor", "base": "o estoque da coca ta errado", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "arrma a quantidade que ta errads", "intencao": "alterar_estoque", "origem": "repor", "base": "arruma a quantidade que ta errada", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "arruma qtd ta errada", "intencao": "alterar_estoque", "origem": "repor", "base": "arruma a quantidade que ta errada", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "arruma a quantisade que ta errada", "intencao": "alterar_estoque", "origem": "repor", "base": "arruma a quantidade que ta errada", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "arrums a qtd que ta errada", "intencao": "alterar_estoque", "origem": "repor", "base": "arruma a quantidade que ta errada", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "aruma a quantidade que ta errsda", "intencao": "alterar_estoque", "origem": "repor", "base": "arruma a quantidade que ta errada", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "arruma a quantidade que ta errada", "intencao": "alterar_estoque", "origem": "repor", "base": "arruma a quantidade que ta errada", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "fiz inventaro, agua tem 9", "intencao": "alterar_estoque", "origem": "repor", "base": "fiz o inventario, agua tem 9", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "fiz o inventsrio, agua tem 9", "intencao": "alterar_estoque", "origem": "repor", "base": "fiz o inventario, agua tem 9", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "fiz o inventario, agua tem 9", "intencao": "alterar_estoque", "origem": "repor", "base": "fiz o inventario, agua tem 9", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "fiz inventario, agua tem 9", "intencao": "alterar_estoque", "origem": "repor", "base": "fiz o inventario, agua tem 9", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "fiz o inventari, agua tem 9", "intencao": "alterar_estoque", "origem": "repor", "base": "fiz o inventario, agua tem 9", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "fiz o inventario, sgua tem 9", "intencao": "alterar_estoque", "origem": "repor", "base": "fiz o inventario, agua tem 9", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "invntario deu 33 de chocolate", "intencao": "alterar_estoque", "origem": "repor", "base": "inventario deu 33 de chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "inventario deu 33 de chocolte", "intencao": "alterar_estoque", "origem": "repor", "base": "inventario deu 33 de chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "inventario deu 33 de chocolate", "intencao": "alterar_estoque", "origem": "repor", "base": "inventario deu 33 de chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "inventario deu 33 de chcolate", "intencao": "alterar_estoque", "origem": "repor", "base": "inventario deu 33 de chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "invensrio deu 33 de chocolate", "intencao": "alterar_estoque", "origem": "repor", "base": "inventario deu 33 de chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "inventario deu 33 chocolate", "intencao": "alterar_estoque", "origem": "repor", "base": "inventario deu 33 de chocolate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qusntidade certa e 44", "intencao": "alterar_estoque", "origem": "repor", "base": "quantidade certa e 44", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qtd certa e 44", "intencao": "alterar_estoque", "origem": "repor", "base": "quantidade certa e 44", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quantiade certa e 44", "intencao": "alterar_estoque", "origem": "repor", "base": "quantidade certa e 44", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quantidade certa e 44", "intencao": "alterar_estoque", "origem": "repor", "base": "quantidade certa e 44", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quntidade certa e 44", "intencao": "alterar_estoque", "origem": "repor", "base": "quantidade certa e 44", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quantidade cerya e 44", "intencao": "alterar_estoque", "origem": "repor", "base": "quantidade certa e 44", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "poe o etoque em 100", "intencao": "alterar_estoque", "origem": "repor", "base": "poe o estoque em 100", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "poe estq 100", "intencao": "alterar_estoque", "origem": "repor", "base": "poe o estoque em 100", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "poe o estq em 100", "intencao": "alterar_estoque", "origem": "repor", "base": "poe o estoque em 100", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "poe o estoque em 100", "intencao": "alterar_estoque", "origem": "repor", "base": "poe o estoque em 100", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "poe estoque 100", "intencao": "alterar_estoque", "origem": "repor", "base": "poe o estoque em 100", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "poe estoqe 100", "intencao": "alterar_estoque", "origem": "repor", "base": "poe o estoque em 100", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "prevso ajustar a quantidade de um produto", "intencao": "alterar_estoque", "origem": "repor", "base": "preciso ajustar a quantidade de um produto", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "preciso ajusyar a quantidade de um produo", "intencao": "alterar_estoque", "origem": "repor", "base": "preciso ajustar a quantidade de um produto", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "preciso ajustar a quantidade de um produto", "intencao": "alterar_estoque", "origem": "repor", "base": "preciso ajustar a quantidade de um produto", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "preciso ajustar a quantdade de um produto", "intencao": "alterar_estoque", "origem": "repor", "base": "preciso ajustar a quantidade de um produto", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "preciso ajustar a qtd de um produto", "intencao": "alterar_estoque", "origem": "repor", "base": "preciso ajustar a quantidade de um produto", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "preciso ajustar quantidade produyo", "intencao": "alterar_estoque", "origem": "repor", "base": "preciso ajustar a quantidade de um produto", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "da baixa em 3 aguas", "intencao": "alterar_estoque", "origem": "repor", "base": "da baixa em 3 aguas", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "da baxa em 3 aguas", "intencao": "alterar_estoque", "origem": "repor", "base": "da baixa em 3 aguas", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "baixa 3 aguas", "intencao": "alterar_estoque", "origem": "repor", "base": "da baixa em 3 aguas", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "da bsixa em 3 agus", "intencao": "alterar_estoque", "origem": "repor", "base": "da baixa em 3 aguas", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "da baixa em 3 agus", "intencao": "alterar_estoque", "origem": "repor", "base": "da baixa em 3 aguas", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "da baixa em 3 sguas", "intencao": "alterar_estoque", "origem": "repor", "base": "da baixa em 3 aguas", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "diminui qtd coca", "intencao": "alterar_estoque", "origem": "repor", "base": "diminui a quantidade da coca", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "diminui a quantidade da coca", "intencao": "alterar_estoque", "origem": "repor", "base": "diminui a quantidade da coca", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "diinui a quamtidade da coca", "intencao": "alterar_estoque", "origem": "repor", "base": "diminui a quantidade da coca", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "diinui a quantidade da coca", "intencao": "alterar_estoque", "origem": "repor", "base": "diminui a quantidade da coca", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "diminui a quantidade da voca", "intencao": "alterar_estoque", "origem": "repor", "base": "diminui a quantidade da coca", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "diminui a qtd da coca", "intencao": "alterar_estoque", "origem": "repor", "base": "diminui a quantidade da coca", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tirs 5 do estq", "intencao": "alterar_estoque", "origem": "repor", "base": "tira 5 do estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tira 5 estq", "intencao": "alterar_estoque", "origem": "repor", "base": "tira 5 do estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tira 5 estoue", "intencao": "alterar_estoque", "origem": "repor", "base": "tira 5 do estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tira 5 do estoque", "intencao": "alterar_estoque", "origem": "repor", "base": "tira 5 do estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tiea 5 estoque", "intencao": "alterar_estoque", "origem": "repor", "base": "tira 5 do estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tira 5 do estq", "intencao": "alterar_estoque", "origem": "repor", "base": "tira 5 do estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "baixa 2 unidaes de agua", "intencao": "alterar_estoque", "origem": "repor", "base": "baixa 2 unidades de agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "baixa 2 unidades de agua", "intencao": "alterar_estoque", "origem": "repor", "base": "baixa 2 unidades de agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "bixa 2 unidades de agua", "intencao": "alterar_estoque", "origem": "repor", "base": "baixa 2 unidades de agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "baixa 2 un de agua", "intencao": "alterar_estoque", "origem": "repor", "base": "baixa 2 unidades de agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "baixa 2 uidadrs de agua", "intencao": "alterar_estoque", "origem": "repor", "base": "baixa 2 unidades de agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "baixa 2 un agua", "intencao": "alterar_estoque", "origem": "repor", "base": "baixa 2 unidades de agua", "estado_emocional": "neutro", "tom_origem": "rotulado"}

@@ -1,0 +1,659 @@
+{"pergunta": "quaia sao os produtos?", "intencao": "listar_produtos", "origem": "novas", "base": "quais sao os produtos?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais sao os proutos?", "intencao": "listar_produtos", "origem": "novas", "base": "quais sao os produtos?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais sao produtos?", "intencao": "listar_produtos", "origem": "novas", "base": "quais sao os produtos?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais sao os produtos?", "intencao": "listar_produtos", "origem": "novas", "base": "quais sao os produtos?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais sao produto?", "intencao": "listar_produtos", "origem": "novas", "base": "quais sao os produtos?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quas sao os produtos?", "intencao": "listar_produtos", "origem": "novas", "base": "quais sao os produtos?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais produtos temis?", "intencao": "listar_produtos", "origem": "novas", "base": "quais produtos temos?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quaos podutos temos?", "intencao": "listar_produtos", "origem": "novas", "base": "quais produtos temos?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quis produtos temos?", "intencao": "listar_produtos", "origem": "novas", "base": "quais produtos temos?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais produtos temos?", "intencao": "listar_produtos", "origem": "novas", "base": "quais produtos temos?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qais produtos temos?", "intencao": "listar_produtos", "origem": "novas", "base": "quais produtos temos?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais prdutos temos?", "intencao": "listar_produtos", "origem": "novas", "base": "quais produtos temos?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais sao os iens?", "intencao": "listar_produtos", "origem": "novas", "base": "quais sao os itens?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais sao os itens?", "intencao": "listar_produtos", "origem": "novas", "base": "quais sao os itens?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais sao os items?", "intencao": "listar_produtos", "origem": "novas", "base": "quais sao os itens?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quaia sao os itens?", "intencao": "listar_produtos", "origem": "novas", "base": "quais sao os itens?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais sao iyens?", "intencao": "listar_produtos", "origem": "novas", "base": "quais sao os itens?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais sao os iten?", "intencao": "listar_produtos", "origem": "novas", "base": "quais sao os itens?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "liste todos os produtos", "intencao": "listar_produtos", "origem": "novas", "base": "liste todos os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "listr todos os produtos", "intencao": "listar_produtos", "origem": "novas", "base": "liste todos os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "lste todos produtos", "intencao": "listar_produtos", "origem": "novas", "base": "liste todos os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "liste todos os peodutos", "intencao": "listar_produtos", "origem": "novas", "base": "liste todos os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "loste todos produtos", "intencao": "listar_produtos", "origem": "novas", "base": "liste todos os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "liste todos produtos", "intencao": "listar_produtos", "origem": "novas", "base": "liste todos os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "lista os peodutos", "intencao": "listar_produtos", "origem": "novas", "base": "lista os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "lista produtos", "intencao": "listar_produtos", "origem": "novas", "base": "lista os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "lista os produtis", "intencao": "listar_produtos", "origem": "novas", "base": "lista os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "lists os produtos", "intencao": "listar_produtos", "origem": "novas", "base": "lista os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "lista os produtos", "intencao": "listar_produtos", "origem": "novas", "base": "lista os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "lista os produtoa", "intencao": "listar_produtos", "origem": "novas", "base": "lista os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "lista de produos", "intencao": "listar_produtos", "origem": "novas", "base": "lista de produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "lists de produtos", "intencao": "listar_produtos", "origem": "novas", "base": "lista de produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "liata de produtos", "intencao": "listar_produtos", "origem": "novas", "base": "lista de produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "lista de produtos", "intencao": "listar_produtos", "origem": "novas", "base": "lista de produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "lisa de produtos", "intencao": "listar_produtos", "origem": "novas", "base": "lista de produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mosyra os produtos", "intencao": "listar_produtos", "origem": "novas", "base": "me mostra os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mosta os produtos", "intencao": "listar_produtos", "origem": "novas", "base": "me mostra os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mostra os produtos", "intencao": "listar_produtos", "origem": "novas", "base": "me mostra os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mostra produtos", "intencao": "listar_produtos", "origem": "novas", "base": "me mostra os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mosta os produtis", "intencao": "listar_produtos", "origem": "novas", "base": "me mostra os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mostra os produts", "intencao": "listar_produtos", "origem": "novas", "base": "me mostra os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mosra catalogo", "intencao": "listar_produtos", "origem": "novas", "base": "me mostra o catalogo", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mostra o catalogo", "intencao": "listar_produtos", "origem": "novas", "base": "me mostra o catalogo", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mistra o catalogo", "intencao": "listar_produtos", "origem": "novas", "base": "me mostra o catalogo", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mosta catalogo", "intencao": "listar_produtos", "origem": "novas", "base": "me mostra o catalogo", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me nostra o catalgo", "intencao": "listar_produtos", "origem": "novas", "base": "me mostra o catalogo", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mistra catalogo", "intencao": "listar_produtos", "origem": "novas", "base": "me mostra o catalogo", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "mostea o caalogo da loja", "intencao": "listar_produtos", "origem": "novas", "base": "mostra o catalogo da loja", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "mostra catalogo loja", "intencao": "listar_produtos", "origem": "novas", "base": "mostra o catalogo da loja", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "mostra o catalogo da lojs", "intencao": "listar_produtos", "origem": "novas", "base": "mostra o catalogo da loja", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "mostra o ctalogo da loja", "intencao": "listar_produtos", "origem": "novas", "base": "mostra o catalogo da loja", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "mostra o cataogo da loja", "intencao": "listar_produtos", "origem": "novas", "base": "mostra o catalogo da loja", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "mostra o catalogo da loja", "intencao": "listar_produtos", "origem": "novas", "base": "mostra o catalogo da loja", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qual o catalogo da lja?", "intencao": "listar_produtos", "origem": "novas", "base": "qual o catalogo da loja?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qual o catalogo da loa?", "intencao": "listar_produtos", "origem": "novas", "base": "qual o catalogo da loja?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qual cstalogo loja?", "intencao": "listar_produtos", "origem": "novas", "base": "qual o catalogo da loja?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qual o catalogo da loja?", "intencao": "listar_produtos", "origem": "novas", "base": "qual o catalogo da loja?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qual o catalgo da loja?", "intencao": "listar_produtos", "origem": "novas", "base": "qual o catalogo da loja?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qual catalogo loja?", "intencao": "listar_produtos", "origem": "novas", "base": "qual o catalogo da loja?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "ctalogo completo", "intencao": "listar_produtos", "origem": "novas", "base": "catalogo completo", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "catalogo copleto", "intencao": "listar_produtos", "origem": "novas", "base": "catalogo completo", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "cataligo completo", "intencao": "listar_produtos", "origem": "novas", "base": "catalogo completo", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "cayalogo completo", "intencao": "listar_produtos", "origem": "novas", "base": "catalogo completo", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "catalogo completo", "intencao": "listar_produtos", "origem": "novas", "base": "catalogo completo", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "catalogo cimpleto", "intencao": "listar_produtos", "origem": "novas", "base": "catalogo completo", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "ver produts", "intencao": "listar_produtos", "origem": "novas", "base": "ver produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "ver prodtos", "intencao": "listar_produtos", "origem": "novas", "base": "ver produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "ver prdutos", "intencao": "listar_produtos", "origem": "novas", "base": "ver produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "ver proutos", "intencao": "listar_produtos", "origem": "novas", "base": "ver produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "ver produyos", "intencao": "listar_produtos", "origem": "novas", "base": "ver produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "ver produtos", "intencao": "listar_produtos", "origem": "novas", "base": "ver produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem loj?", "intencao": "listar_produtos", "origem": "novas", "base": "o que tem na loja?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem loja?", "intencao": "listar_produtos", "origem": "novas", "base": "o que tem na loja?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o que tem na loja?", "intencao": "listar_produtos", "origem": "novas", "base": "o que tem na loja?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o que tem na lij?", "intencao": "listar_produtos", "origem": "novas", "base": "o que tem na loja?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem loa?", "intencao": "listar_produtos", "origem": "novas", "base": "o que tem na loja?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o q tem na loja?", "intencao": "listar_produtos", "origem": "novas", "base": "o que tem na loja?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "loja vrnde?", "intencao": "listar_produtos", "origem": "novas", "base": "o que a loja vende?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o que a loja vendr?", "intencao": "listar_produtos", "origem": "novas", "base": "o que a loja vende?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o que a loja vende?", "intencao": "listar_produtos", "origem": "novas", "base": "o que a loja vende?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "loja vende?", "intencao": "listar_produtos", "origem": "novas", "base": "o que a loja vende?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o q a loja vend?", "intencao": "listar_produtos", "origem": "novas", "base": "o que a loja vende?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o que a loja vnde?", "intencao": "listar_produtos", "origem": "novas", "base": "o que a loja vende?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o q temos a venda?", "intencao": "listar_produtos", "origem": "novas", "base": "o que temos a venda?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o que tmos a vrnda?", "intencao": "listar_produtos", "origem": "novas", "base": "o que temos a venda?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "temos venda?", "intencao": "listar_produtos", "origem": "novas", "base": "o que temos a venda?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o que teos a venda?", "intencao": "listar_produtos", "origem": "novas", "base": "o que temos a venda?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o que temos a venda?", "intencao": "listar_produtos", "origem": "novas", "base": "o que temos a venda?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o q temos a vend?", "intencao": "listar_produtos", "origem": "novas", "base": "o que temos a venda?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais itens loja tem?", "intencao": "listar_produtos", "origem": "novas", "base": "quais itens a loja tem?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quis itens a loja tem?", "intencao": "listar_produtos", "origem": "novas", "base": "quais itens a loja tem?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qais itens a loja tem?", "intencao": "listar_produtos", "origem": "novas", "base": "quais itens a loja tem?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais ites a loja tem?", "intencao": "listar_produtos", "origem": "novas", "base": "quais itens a loja tem?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais itens a loja tem?", "intencao": "listar_produtos", "origem": "novas", "base": "quais itens a loja tem?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais itens a lija tem?", "intencao": "listar_produtos", "origem": "novas", "base": "quais itens a loja tem?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais produtos tem sistem?", "intencao": "listar_produtos", "origem": "novas", "base": "quais produtos tem no sistema?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais produtos tem no sistema?", "intencao": "listar_produtos", "origem": "novas", "base": "quais produtos tem no sistema?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais produtos tem no sist?", "intencao": "listar_produtos", "origem": "novas", "base": "quais produtos tem no sistema?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais produtoa tem no sist?", "intencao": "listar_produtos", "origem": "novas", "base": "quais produtos tem no sistema?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quaos produtos tem sistema?", "intencao": "listar_produtos", "origem": "novas", "base": "quais produtos tem no sistema?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais produtos tem sistema?", "intencao": "listar_produtos", "origem": "novas", "base": "quais produtos tem no sistema?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me lista produtos", "intencao": "listar_produtos", "origem": "novas", "base": "me da a lista de produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me lista produyos", "intencao": "listar_produtos", "origem": "novas", "base": "me da a lista de produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me da a lista de peodtos", "intencao": "listar_produtos", "origem": "novas", "base": "me da a lista de produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me da a lista de produtos", "intencao": "listar_produtos", "origem": "novas", "base": "me da a lista de produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me lisa produtos", "intencao": "listar_produtos", "origem": "novas", "base": "me da a lista de produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me da a lista de pridutos", "intencao": "listar_produtos", "origem": "novas", "base": "me da a lista de produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me passa os produtos da loja", "intencao": "listar_produtos", "origem": "novas", "base": "me passa os produtos da loja", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me pssa os produtos da loja", "intencao": "listar_produtos", "origem": "novas", "base": "me passa os produtos da loja", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me pasa os produtos da loja", "intencao": "listar_produtos", "origem": "novas", "base": "me passa os produtos da loja", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me passa os proutos da loja", "intencao": "listar_produtos", "origem": "novas", "base": "me passa os produtos da loja", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me passa os produts da loja", "intencao": "listar_produtos", "origem": "novas", "base": "me passa os produtos da loja", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me passa os produtis da loja", "intencao": "listar_produtos", "origem": "novas", "base": "me passa os produtos da loja", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero ver todoa os produtos", "intencao": "listar_produtos", "origem": "novas", "base": "quero ver todos os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero ver todos os peoduts", "intencao": "listar_produtos", "origem": "novas", "base": "quero ver todos os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero ver todos produtos", "intencao": "listar_produtos", "origem": "novas", "base": "quero ver todos os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero ver todos os produtos", "intencao": "listar_produtos", "origem": "novas", "base": "quero ver todos os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "queo ver todos produtos", "intencao": "listar_produtos", "origem": "novas", "base": "quero ver todos os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qro ver todos os produtos", "intencao": "listar_produtos", "origem": "novas", "base": "quero ver todos os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero a relacao dos produtos", "intencao": "listar_produtos", "origem": "novas", "base": "quero a relacao dos produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero relacao dos produos", "intencao": "listar_produtos", "origem": "novas", "base": "quero a relacao dos produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qro a relacao dos produyos", "intencao": "listar_produtos", "origem": "novas", "base": "quero a relacao dos produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qro a relacao dos produtos", "intencao": "listar_produtos", "origem": "novas", "base": "quero a relacao dos produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero relacao dos produtos", "intencao": "listar_produtos", "origem": "novas", "base": "quero a relacao dos produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero relaco dos produtos", "intencao": "listar_produtos", "origem": "novas", "base": "quero a relacao dos produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me fala os produos", "intencao": "listar_produtos", "origem": "novas", "base": "me fala os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me fala os produtos", "intencao": "listar_produtos", "origem": "novas", "base": "me fala os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me fala os prdutos", "intencao": "listar_produtos", "origem": "novas", "base": "me fala os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me fala produtos", "intencao": "listar_produtos", "origem": "novas", "base": "me fala os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me fala os produts", "intencao": "listar_produtos", "origem": "novas", "base": "me fala os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me fala os podutos", "intencao": "listar_produtos", "origem": "novas", "base": "me fala os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me diz quas produtos tem", "intencao": "listar_produtos", "origem": "novas", "base": "me diz quais produtos tem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me diz quais pridutos tem", "intencao": "listar_produtos", "origem": "novas", "base": "me diz quais produtos tem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me diz quaos produtos tem", "intencao": "listar_produtos", "origem": "novas", "base": "me diz quais produtos tem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me diz quais produtos tem", "intencao": "listar_produtos", "origem": "novas", "base": "me diz quais produtos tem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me diz qais produtos tem", "intencao": "listar_produtos", "origem": "novas", "base": "me diz quais produtos tem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me diz quais produtoa tem", "intencao": "listar_produtos", "origem": "novas", "base": "me diz quais produtos tem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me losta o q tem", "intencao": "listar_produtos", "origem": "novas", "base": "me lista o que tem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me lista o q tem", "intencao": "listar_produtos", "origem": "novas", "base": "me lista o que tem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me lita o q tem", "intencao": "listar_produtos", "origem": "novas", "base": "me lista o que tem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me lista q tem", "intencao": "listar_produtos", "origem": "novas", "base": "me lista o que tem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me lista o que tem", "intencao": "listar_produtos", "origem": "novas", "base": "me lista o que tem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me lisa o que tem", "intencao": "listar_produtos", "origem": "novas", "base": "me lista o que tem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "toos os produtos", "intencao": "listar_produtos", "origem": "novas", "base": "todos os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tdos produtos", "intencao": "listar_produtos", "origem": "novas", "base": "todos os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "todos os produtos", "intencao": "listar_produtos", "origem": "novas", "base": "todos os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tidos os produtos", "intencao": "listar_produtos", "origem": "novas", "base": "todos os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "todos produtos", "intencao": "listar_produtos", "origem": "novas", "base": "todos os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tidos produtos", "intencao": "listar_produtos", "origem": "novas", "base": "todos os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais mercsdorias temos?", "intencao": "listar_produtos", "origem": "novas", "base": "quais mercadorias temos?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qais mercadoriss temos?", "intencao": "listar_produtos", "origem": "novas", "base": "quais mercadorias temos?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais mercadorias teos?", "intencao": "listar_produtos", "origem": "novas", "base": "quais mercadorias temos?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qusis mercadorias temos?", "intencao": "listar_produtos", "origem": "novas", "base": "quais mercadorias temos?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais mercadorias temos?", "intencao": "listar_produtos", "origem": "novas", "base": "quais mercadorias temos?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais mercadorias yemos?", "intencao": "listar_produtos", "origem": "novas", "base": "quais mercadorias temos?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "produtos exisyem sistema?", "intencao": "listar_produtos", "origem": "novas", "base": "que produtos existem no sistema?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "q produtos existem no sisy?", "intencao": "listar_produtos", "origem": "novas", "base": "que produtos existem no sistema?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "que produtos existem no sistema?", "intencao": "listar_produtos", "origem": "novas", "base": "que produtos existem no sistema?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "que produtos exitem no sistema?", "intencao": "listar_produtos", "origem": "novas", "base": "que produtos existem no sistema?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "produtos existem sistema?", "intencao": "listar_produtos", "origem": "novas", "base": "que produtos existem no sistema?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "q produtos existem sist?", "intencao": "listar_produtos", "origem": "novas", "base": "que produtos existem no sistema?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "abee a lista de proutos", "intencao": "listar_produtos", "origem": "novas", "base": "abre a lista de produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "abre a lista de produtos", "intencao": "listar_produtos", "origem": "novas", "base": "abre a lista de produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "abre a lista de prodtos", "intencao": "listar_produtos", "origem": "novas", "base": "abre a lista de produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "abee lista produtos", "intencao": "listar_produtos", "origem": "novas", "base": "abre a lista de produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "abre lista produtos", "intencao": "listar_produtos", "origem": "novas", "base": "abre a lista de produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "abre lista produyos", "intencao": "listar_produtos", "origem": "novas", "base": "abre a lista de produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mstra tudo que a loja tem", "intencao": "listar_produtos", "origem": "novas", "base": "me mostra tudo que a loja tem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mostra tudo q a loja tem", "intencao": "listar_produtos", "origem": "novas", "base": "me mostra tudo que a loja tem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mostra tudo que a loja tem", "intencao": "listar_produtos", "origem": "novas", "base": "me mostra tudo que a loja tem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mosyra tudo loja tem", "intencao": "listar_produtos", "origem": "novas", "base": "me mostra tudo que a loja tem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mostrs tudo loja tem", "intencao": "listar_produtos", "origem": "novas", "base": "me mostra tudo que a loja tem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mosra tudo que a loja tem", "intencao": "listar_produtos", "origem": "novas", "base": "me mostra tudo que a loja tem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais sao mercdorias loja?", "intencao": "listar_produtos", "origem": "novas", "base": "quais sao as mercadorias da loja?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais sao as mercadorias da loja?", "intencao": "listar_produtos", "origem": "novas", "base": "quais sao as mercadorias da loja?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quas sao mercadorias loja?", "intencao": "listar_produtos", "origem": "novas", "base": "quais sao as mercadorias da loja?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais sao as mercsdorias da loja?", "intencao": "listar_produtos", "origem": "novas", "base": "quais sao as mercadorias da loja?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais sao mercadorias loa?", "intencao": "listar_produtos", "origem": "novas", "base": "quais sao as mercadorias da loja?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quais sao as mercadirias da loja?", "intencao": "listar_produtos", "origem": "novas", "base": "quais sao as mercadorias da loja?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "enmera produtos", "intencao": "listar_produtos", "origem": "novas", "base": "enumera os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "enumera produtos", "intencao": "listar_produtos", "origem": "novas", "base": "enumera os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "enuera produtos", "intencao": "listar_produtos", "origem": "novas", "base": "enumera os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "enumra produtos", "intencao": "listar_produtos", "origem": "novas", "base": "enumera os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "enumera os produtos", "intencao": "listar_produtos", "origem": "novas", "base": "enumera os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "enumera os podutos", "intencao": "listar_produtos", "origem": "novas", "base": "enumera os produtos", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "losta tudo q temos a venda", "intencao": "listar_produtos", "origem": "novas", "base": "lista tudo que temos a venda", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "lista tudo temos venda", "intencao": "listar_produtos", "origem": "novas", "base": "lista tudo que temos a venda", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "lista tudo que temos a vemda", "intencao": "listar_produtos", "origem": "novas", "base": "lista tudo que temos a venda", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "lista tudo q temos a venda", "intencao": "listar_produtos", "origem": "novas", "base": "lista tudo que temos a venda", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "lista tudo q temos venda", "intencao": "listar_produtos", "origem": "novas", "base": "lista tudo que temos a venda", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "lista tudo que temos a venda", "intencao": "listar_produtos", "origem": "novas", "base": "lista tudo que temos a venda", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tivemos algum furo sistema?", "intencao": "furo_sistema", "origem": "novas", "base": "tivemos algum furo no sistema?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tiveos algum furo no sist?", "intencao": "furo_sistema", "origem": "novas", "base": "tivemos algum furo no sistema?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tivemos agum furo no sist?", "intencao": "furo_sistema", "origem": "novas", "base": "tivemos algum furo no sistema?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tivemos algum furo no sistema?", "intencao": "furo_sistema", "origem": "novas", "base": "tivemos algum furo no sistema?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tvemos algum furo no sistema?", "intencao": "furo_sistema", "origem": "novas", "base": "tivemos algum furo no sistema?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tivemos algum furo no siatema?", "intencao": "furo_sistema", "origem": "novas", "base": "tivemos algum furo no sistema?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve furo?", "intencao": "furo_sistema", "origem": "novas", "base": "teve furo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve fur?", "intencao": "furo_sistema", "origem": "novas", "base": "teve furo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve fuo?", "intencao": "furo_sistema", "origem": "novas", "base": "teve furo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve fro?", "intencao": "furo_sistema", "origem": "novas", "base": "teve furo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve fueo?", "intencao": "furo_sistema", "origem": "novas", "base": "teve furo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "trve furo?", "intencao": "furo_sistema", "origem": "novas", "base": "teve furo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem furo no estiq?", "intencao": "furo_sistema", "origem": "novas", "base": "tem furo no estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem furo no rstoq?", "intencao": "furo_sistema", "origem": "novas", "base": "tem furo no estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem furo no estoque?", "intencao": "furo_sistema", "origem": "novas", "base": "tem furo no estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem furo no estoqe?", "intencao": "furo_sistema", "origem": "novas", "base": "tem furo no estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem furo estoq?", "intencao": "furo_sistema", "origem": "novas", "base": "tem furo no estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem fueo no estoue?", "intencao": "furo_sistema", "origem": "novas", "base": "tem furo no estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "deu furo hje?", "intencao": "furo_sistema", "origem": "novas", "base": "deu furo hoje?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "deu furo hoe?", "intencao": "furo_sistema", "origem": "novas", "base": "deu furo hoje?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "deu fueo hoje?", "intencao": "furo_sistema", "origem": "novas", "base": "deu furo hoje?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "deu furo hoje?", "intencao": "furo_sistema", "origem": "novas", "base": "deu furo hoje?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "deu furo hije?", "intencao": "furo_sistema", "origem": "novas", "base": "deu furo hoje?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "deu furi hoje?", "intencao": "furo_sistema", "origem": "novas", "base": "deu furo hoje?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem buraco no estoque?", "intencao": "furo_sistema", "origem": "novas", "base": "tem buraco no estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem burco no estoque?", "intencao": "furo_sistema", "origem": "novas", "base": "tem buraco no estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem buraco no etoque?", "intencao": "furo_sistema", "origem": "novas", "base": "tem buraco no estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem buraco no esyoque?", "intencao": "furo_sistema", "origem": "novas", "base": "tem buraco no estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem buraco no estoq?", "intencao": "furo_sistema", "origem": "novas", "base": "tem buraco no estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem buraco estoque?", "intencao": "furo_sistema", "origem": "novas", "base": "tem buraco no estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve quera de estique?", "intencao": "furo_sistema", "origem": "novas", "base": "teve quebra de estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve quebra estoque?", "intencao": "furo_sistema", "origem": "novas", "base": "teve quebra de estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve quera de estoque?", "intencao": "furo_sistema", "origem": "novas", "base": "teve quebra de estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve qebra de estoque?", "intencao": "furo_sistema", "origem": "novas", "base": "teve quebra de estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve quebra de estoque?", "intencao": "furo_sistema", "origem": "novas", "base": "teve quebra de estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve qbra de etoq?", "intencao": "furo_sistema", "origem": "novas", "base": "teve quebra de estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "estoq bate?", "intencao": "furo_sistema", "origem": "novas", "base": "o estoque bate?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o estoque bate?", "intencao": "furo_sistema", "origem": "novas", "base": "o estoque bate?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o estoque bae?", "intencao": "furo_sistema", "origem": "novas", "base": "o estoque bate?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o estoq bate?", "intencao": "furo_sistema", "origem": "novas", "base": "o estoque bate?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "estoque bat?", "intencao": "furo_sistema", "origem": "novas", "base": "o estoque bate?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "estoque bate?", "intencao": "furo_sistema", "origem": "novas", "base": "o estoque bate?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o estoque esta batendo?", "intencao": "furo_sistema", "origem": "novas", "base": "o estoque esta batendo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o estoq ta bstendo?", "intencao": "furo_sistema", "origem": "novas", "base": "o estoque esta batendo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "estoq ta batendo?", "intencao": "furo_sistema", "origem": "novas", "base": "o estoque esta batendo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o estique esta batendo?", "intencao": "furo_sistema", "origem": "novas", "base": "o estoque esta batendo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o estoq ta batendo?", "intencao": "furo_sistema", "origem": "novas", "base": "o estoque esta batendo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "estoque esta batendo?", "intencao": "furo_sistema", "origem": "novas", "base": "o estoque esta batendo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o invntario bate?", "intencao": "furo_sistema", "origem": "novas", "base": "o inventario bate?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "inventario bate?", "intencao": "furo_sistema", "origem": "novas", "base": "o inventario bate?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o inentario bate?", "intencao": "furo_sistema", "origem": "novas", "base": "o inventario bate?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "invenario bate?", "intencao": "furo_sistema", "origem": "novas", "base": "o inventario bate?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o inventario bate?", "intencao": "furo_sistema", "origem": "novas", "base": "o inventario bate?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o inventario bat?", "intencao": "furo_sistema", "origem": "novas", "base": "o inventario bate?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o sostema bate com a prateleira?", "intencao": "furo_sistema", "origem": "novas", "base": "o sistema bate com a prateleira?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o sistema batr com a prateleira?", "intencao": "furo_sistema", "origem": "novas", "base": "o sistema bate com a prateleira?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o sistema bate com a prateleira?", "intencao": "furo_sistema", "origem": "novas", "base": "o sistema bate com a prateleira?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "sisema bate com prateleira?", "intencao": "furo_sistema", "origem": "novas", "base": "o sistema bate com a prateleira?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "sist bate com prateleira?", "intencao": "furo_sistema", "origem": "novas", "base": "o sistema bate com a prateleira?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "sistema bate com prateleira?", "intencao": "furo_sistema", "origem": "novas", "base": "o sistema bate com a prateleira?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "numero sistea confere com prateleira?", "intencao": "furo_sistema", "origem": "novas", "base": "o numero do sistema confere com a prateleira?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "numero sistema confere com prateleira?", "intencao": "furo_sistema", "origem": "novas", "base": "o numero do sistema confere com a prateleira?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "numero sist confere com prateleira?", "intencao": "furo_sistema", "origem": "novas", "base": "o numero do sistema confere com a prateleira?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o numero do sistema cnfere com a prateleiea?", "intencao": "furo_sistema", "origem": "novas", "base": "o numero do sistema confere com a prateleira?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o numero do sistema confere com a prateleira?", "intencao": "furo_sistema", "origem": "novas", "base": "o numero do sistema confere com a prateleira?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o numero do sist confere com a prateleira?", "intencao": "furo_sistema", "origem": "novas", "base": "o numero do sistema confere com a prateleira?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "confere o estoqe com o fosico", "intencao": "furo_sistema", "origem": "novas", "base": "confere o estoque com o fisico", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "confere o etoque com o fisico", "intencao": "furo_sistema", "origem": "novas", "base": "confere o estoque com o fisico", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "confere estoque com fisico", "intencao": "furo_sistema", "origem": "novas", "base": "confere o estoque com o fisico", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "confere o estoque com o fisico", "intencao": "furo_sistema", "origem": "novas", "base": "confere o estoque com o fisico", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "comfere o estoque com o fisico", "intencao": "furo_sistema", "origem": "novas", "base": "confere o estoque com o fisico", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "confere o estque com o fisico", "intencao": "furo_sistema", "origem": "novas", "base": "confere o estoque com o fisico", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "confeeenca de estoque", "intencao": "furo_sistema", "origem": "novas", "base": "conferencia de estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "conferencia de estoue", "intencao": "furo_sistema", "origem": "novas", "base": "conferencia de estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "confeeenia de estoque", "intencao": "furo_sistema", "origem": "novas", "base": "conferencia de estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "conferencia de estoque", "intencao": "furo_sistema", "origem": "novas", "base": "conferencia de estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "conferencia de estoqe", "intencao": "furo_sistema", "origem": "novas", "base": "conferencia de estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "conferencia de esoque", "intencao": "furo_sistema", "origem": "novas", "base": "conferencia de estoque", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "sumiu sgum produto?", "intencao": "furo_sistema", "origem": "novas", "base": "sumiu algum produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "sumiu slgum produto?", "intencao": "furo_sistema", "origem": "novas", "base": "sumiu algum produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "smiu algum produto?", "intencao": "furo_sistema", "origem": "novas", "base": "sumiu algum produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "sumiu algum poduto?", "intencao": "furo_sistema", "origem": "novas", "base": "sumiu algum produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "sumiu algum produto?", "intencao": "furo_sistema", "origem": "novas", "base": "sumiu algum produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "suniu algum produto?", "intencao": "furo_sistema", "origem": "novas", "base": "sumiu algum produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "ests sumindo produto?", "intencao": "furo_sistema", "origem": "novas", "base": "esta sumindo produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "ta sumndo produto?", "intencao": "furo_sistema", "origem": "novas", "base": "esta sumindo produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "ta sumindo produto?", "intencao": "furo_sistema", "origem": "novas", "base": "esta sumindo produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "esta sumndo produto?", "intencao": "furo_sistema", "origem": "novas", "base": "esta sumindo produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "esta sumindo prouto?", "intencao": "furo_sistema", "origem": "novas", "base": "esta sumindo produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "esta sumindo produto?", "intencao": "furo_sistema", "origem": "novas", "base": "esta sumindo produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quano sumiu?", "intencao": "furo_sistema", "origem": "novas", "base": "quanto sumiu?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanti sumiu?", "intencao": "furo_sistema", "origem": "novas", "base": "quanto sumiu?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qunto sumiu?", "intencao": "furo_sistema", "origem": "novas", "base": "quanto sumiu?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto sumiu?", "intencao": "furo_sistema", "origem": "novas", "base": "quanto sumiu?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto suniu?", "intencao": "furo_sistema", "origem": "novas", "base": "quanto sumiu?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto sumi?", "intencao": "furo_sistema", "origem": "novas", "base": "quanto sumiu?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tevr diverencia de estoque?", "intencao": "furo_sistema", "origem": "novas", "base": "teve divergencia de estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve divergencis estoque?", "intencao": "furo_sistema", "origem": "novas", "base": "teve divergencia de estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve divergencia de eatoq?", "intencao": "furo_sistema", "origem": "novas", "base": "teve divergencia de estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve divergencia estique?", "intencao": "furo_sistema", "origem": "novas", "base": "teve divergencia de estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve divergencia de estoque?", "intencao": "furo_sistema", "origem": "novas", "base": "teve divergencia de estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve divergencia estoqe?", "intencao": "furo_sistema", "origem": "novas", "base": "teve divergencia de estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem divergemcia?", "intencao": "furo_sistema", "origem": "novas", "base": "tem divergencia?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem divergencia?", "intencao": "furo_sistema", "origem": "novas", "base": "tem divergencia?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem dovergencia?", "intencao": "furo_sistema", "origem": "novas", "base": "tem divergencia?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem divergncia?", "intencao": "furo_sistema", "origem": "novas", "base": "tem divergencia?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem diveegencia?", "intencao": "furo_sistema", "origem": "novas", "base": "tem divergencia?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem diverencia?", "intencao": "furo_sistema", "origem": "novas", "base": "tem divergencia?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "perdemos alguma cosa?", "intencao": "furo_sistema", "origem": "novas", "base": "perdemos alguma coisa?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "perdemos alguma coosa?", "intencao": "furo_sistema", "origem": "novas", "base": "perdemos alguma coisa?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "perdemis alguma coisa?", "intencao": "furo_sistema", "origem": "novas", "base": "perdemos alguma coisa?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "perdemos alguma coisa?", "intencao": "furo_sistema", "origem": "novas", "base": "perdemos alguma coisa?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "perdemos alguma cois?", "intencao": "furo_sistema", "origem": "novas", "base": "perdemos alguma coisa?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "perdemos alguna coisa?", "intencao": "furo_sistema", "origem": "novas", "base": "perdemos alguma coisa?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "yeve perda?", "intencao": "furo_sistema", "origem": "novas", "base": "teve perda?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve prda?", "intencao": "furo_sistema", "origem": "novas", "base": "teve perda?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tevr pera?", "intencao": "furo_sistema", "origem": "novas", "base": "teve perda?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve perd?", "intencao": "furo_sistema", "origem": "novas", "base": "teve perda?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve perda?", "intencao": "furo_sistema", "origem": "novas", "base": "teve perda?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve peeda?", "intencao": "furo_sistema", "origem": "novas", "base": "teve perda?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tivemos perda de prodto?", "intencao": "furo_sistema", "origem": "novas", "base": "tivemos perda de produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tivemos perda de produto?", "intencao": "furo_sistema", "origem": "novas", "base": "tivemos perda de produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tiemos perda produto?", "intencao": "furo_sistema", "origem": "novas", "base": "tivemos perda de produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tivemos perda de produyo?", "intencao": "furo_sistema", "origem": "novas", "base": "tivemos perda de produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tivemos perda de produti?", "intencao": "furo_sistema", "origem": "novas", "base": "tivemos perda de produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tivemos perda produto?", "intencao": "furo_sistema", "origem": "novas", "base": "tivemos perda de produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "aluem levou sem pagar?", "intencao": "furo_sistema", "origem": "novas", "base": "alguem levou sem pagar?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "alguem levou sem pagar?", "intencao": "furo_sistema", "origem": "novas", "base": "alguem levou sem pagar?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "alguem levou sem pagr?", "intencao": "furo_sistema", "origem": "novas", "base": "alguem levou sem pagar?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "alguem leou sem pagar?", "intencao": "furo_sistema", "origem": "novas", "base": "alguem levou sem pagar?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "alguem levou sem pgar?", "intencao": "furo_sistema", "origem": "novas", "base": "alguem levou sem pagar?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "algurm levou sem pagar?", "intencao": "furo_sistema", "origem": "novas", "base": "alguem levou sem pagar?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "saiu piduto sem pagamento?", "intencao": "furo_sistema", "origem": "novas", "base": "saiu produto sem pagamento?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "saiu produyo sem pagamento?", "intencao": "furo_sistema", "origem": "novas", "base": "saiu produto sem pagamento?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "ssiu produto sem pagamento?", "intencao": "furo_sistema", "origem": "novas", "base": "saiu produto sem pagamento?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "saiu produto sem paganento?", "intencao": "furo_sistema", "origem": "novas", "base": "saiu produto sem pagamento?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "saiu prouto sem pagamento?", "intencao": "furo_sistema", "origem": "novas", "base": "saiu produto sem pagamento?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "saiu produto sem pagamento?", "intencao": "furo_sistema", "origem": "novas", "base": "saiu produto sem pagamento?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem produto saindo sem vnda?", "intencao": "furo_sistema", "origem": "novas", "base": "tem produto saindo sem venda?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem produto saindo sem venda?", "intencao": "furo_sistema", "origem": "novas", "base": "tem produto saindo sem venda?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem produto saindo sem veda?", "intencao": "furo_sistema", "origem": "novas", "base": "tem produto saindo sem venda?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem produto saimdo sem venda?", "intencao": "furo_sistema", "origem": "novas", "base": "tem produto saindo sem venda?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem produti saindo sem venda?", "intencao": "furo_sistema", "origem": "novas", "base": "tem produto saindo sem venda?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem produto sindo sem venda?", "intencao": "furo_sistema", "origem": "novas", "base": "tem produto saindo sem venda?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve rubo?", "intencao": "furo_sistema", "origem": "novas", "base": "teve roubo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve rouo?", "intencao": "furo_sistema", "origem": "novas", "base": "teve roubo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve roubo?", "intencao": "furo_sistema", "origem": "novas", "base": "teve roubo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "trve roubo?", "intencao": "furo_sistema", "origem": "novas", "base": "teve roubo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve robo?", "intencao": "furo_sistema", "origem": "novas", "base": "teve roubo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "teve riubo?", "intencao": "furo_sistema", "origem": "novas", "base": "teve roubo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "contei prateleira e n bate", "intencao": "furo_sistema", "origem": "novas", "base": "contei a prateleira e nao bate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "contei a prateleira e nao bate", "intencao": "furo_sistema", "origem": "novas", "base": "contei a prateleira e nao bate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "contei prateleira e nao batr", "intencao": "furo_sistema", "origem": "novas", "base": "contei a prateleira e nao bate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "contei prateleira e nao bate", "intencao": "furo_sistema", "origem": "novas", "base": "contei a prateleira e nao bate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "contei a pateleira e n bate", "intencao": "furo_sistema", "origem": "novas", "base": "contei a prateleira e nao bate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "vontei a prateleira e nao bate", "intencao": "furo_sistema", "origem": "novas", "base": "contei a prateleira e nao bate", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "estoque sistema esta errado", "intencao": "furo_sistema", "origem": "novas", "base": "o estoque do sistema esta errado", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o etoque do sistema ests errado", "intencao": "furo_sistema", "origem": "novas", "base": "o estoque do sistema esta errado", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o esoq do sist ta errado", "intencao": "furo_sistema", "origem": "novas", "base": "o estoque do sistema esta errado", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o estoque do sistema esta errado", "intencao": "furo_sistema", "origem": "novas", "base": "o estoque do sistema esta errado", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o estoq do sist ta errado", "intencao": "furo_sistema", "origem": "novas", "base": "o estoque do sistema esta errado", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "estque sistema esta errado", "intencao": "furo_sistema", "origem": "novas", "base": "o estoque do sistema esta errado", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem produto a mens do que deveroa?", "intencao": "furo_sistema", "origem": "novas", "base": "tem produto a menos do que deveria?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem produto a menos do que devria?", "intencao": "furo_sistema", "origem": "novas", "base": "tem produto a menos do que deveria?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem produto a menos do que deveria?", "intencao": "furo_sistema", "origem": "novas", "base": "tem produto a menos do que deveria?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem produto mnos deveria?", "intencao": "furo_sistema", "origem": "novas", "base": "tem produto a menos do que deveria?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem produto a mens do que deveria?", "intencao": "furo_sistema", "origem": "novas", "base": "tem produto a menos do que deveria?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem produto menos deveria?", "intencao": "furo_sistema", "origem": "novas", "base": "tem produto a menos do que deveria?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "q n ta batendo?", "intencao": "furo_sistema", "origem": "novas", "base": "o que nao esta batendo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o que nao esta batendo?", "intencao": "furo_sistema", "origem": "novas", "base": "o que nao esta batendo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o q n esya batendo?", "intencao": "furo_sistema", "origem": "novas", "base": "o que nao esta batendo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "n ta batendo?", "intencao": "furo_sistema", "origem": "novas", "base": "o que nao esta batendo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o que nao esta bayendo?", "intencao": "furo_sistema", "origem": "novas", "base": "o que nao esta batendo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o q n ta btendo?", "intencao": "furo_sistema", "origem": "novas", "base": "o que nao esta batendo?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "algo errado com o estoue?", "intencao": "furo_sistema", "origem": "novas", "base": "algo errado com o estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "algo errado com o estoque?", "intencao": "furo_sistema", "origem": "novas", "base": "algo errado com o estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "slgo errado com o estoqe?", "intencao": "furo_sistema", "origem": "novas", "base": "algo errado com o estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "algo errado com o estoqe?", "intencao": "furo_sistema", "origem": "novas", "base": "algo errado com o estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "algo errao com o estoque?", "intencao": "furo_sistema", "origem": "novas", "base": "algo errado com o estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "algo errado com estoq?", "intencao": "furo_sistema", "origem": "novas", "base": "algo errado com o estoque?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o sist ta perdrndo produto?", "intencao": "furo_sistema", "origem": "novas", "base": "o sistema esta perdendo produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "sistema esta perdendo produto?", "intencao": "furo_sistema", "origem": "novas", "base": "o sistema esta perdendo produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o sist ta perdendo prduto?", "intencao": "furo_sistema", "origem": "novas", "base": "o sistema esta perdendo produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "sist ta perdendo produto?", "intencao": "furo_sistema", "origem": "novas", "base": "o sistema esta perdendo produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "sistema esta perdemdo produto?", "intencao": "furo_sistema", "origem": "novas", "base": "o sistema esta perdendo produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o sistema esta perdendo produto?", "intencao": "furo_sistema", "origem": "novas", "base": "o sistema esta perdendo produto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem veda que nao entrou na conta?", "intencao": "furo_sistema", "origem": "novas", "base": "tem venda que nao entrou na conta?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem venda que nao entrou na conya?", "intencao": "furo_sistema", "origem": "novas", "base": "tem venda que nao entrou na conta?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem vena que nao entrou na conta?", "intencao": "furo_sistema", "origem": "novas", "base": "tem venda que nao entrou na conta?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem venda q n enyrou na conta?", "intencao": "furo_sistema", "origem": "novas", "base": "tem venda que nao entrou na conta?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem venda que nao entrou na conta?", "intencao": "furo_sistema", "origem": "novas", "base": "tem venda que nao entrou na conta?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tem venda nao entrou conta?", "intencao": "furo_sistema", "origem": "novas", "base": "tem venda que nao entrou na conta?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxe todas informacoes hije", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxe todas as informacoes de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxe todas as informacoes de hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxe todas as informacoes de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxe todas as infirmacos de hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxe todas as informacoes de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxe todas inforacoes hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxe todas as informacoes de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxe tods as informacoes de hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxe todas as informacoes de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxe todas informacoes hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxe todas as informacoes de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxa tudo do mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxa tudo do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxa tudo mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxa tudo do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxa yudo do mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxa tudo do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxa tudi do mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxa tudo do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxs tudo do mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxa tudo do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxs tudo mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxa tudo do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxe no sist tudo sobre onten", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxe no sistema tudo sobre ontem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxe no sist tudo sobre ontem", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxe no sistema tudo sobre ontem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxe no sstema tudo sobre ontem", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxe no sistema tudo sobre ontem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxe no sistema tudo sobre ontem", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxe no sistema tudo sobre ontem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxe sistea tudo sobre ontem", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxe no sistema tudo sobre ontem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxe sistema tudo sobre ontem", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxe no sistema tudo sobre ontem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxa dados mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxa os dados do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxa os dados do mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxa os dados do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxa dadis mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxa os dados do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxa os dada do mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxa os dados do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxa os dads do mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxa os dados do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "puxa daos mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "puxa os dados do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me rrlatorio agosto", "intencao": "relatorio_periodo", "origem": "novas", "base": "me da um relatorio de agosto", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me da um relatorii de agosto", "intencao": "relatorio_periodo", "origem": "novas", "base": "me da um relatorio de agosto", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me relatorio agosto", "intencao": "relatorio_periodo", "origem": "novas", "base": "me da um relatorio de agosto", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me da um eelatorio de agosto", "intencao": "relatorio_periodo", "origem": "novas", "base": "me da um relatorio de agosto", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me da um relatorio de agosto", "intencao": "relatorio_periodo", "origem": "novas", "base": "me da um relatorio de agosto", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me da um relaorio de agosto", "intencao": "relatorio_periodo", "origem": "novas", "base": "me da um relatorio de agosto", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero relatirio dia", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero um relatorio do dia", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qro relatorio dia", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero um relatorio do dia", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero um relatorio do dia", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero um relatorio do dia", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero reltorio dia", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero um relatorio do dia", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero relatorio dia", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero um relatorio do dia", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qro um relatorio do dia", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero um relatorio do dia", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "relatorio semana", "intencao": "relatorio_periodo", "origem": "novas", "base": "relatorio da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "relatorio da semaa", "intencao": "relatorio_periodo", "origem": "novas", "base": "relatorio da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "relatirio da semana", "intencao": "relatorio_periodo", "origem": "novas", "base": "relatorio da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "relatorio da seana", "intencao": "relatorio_periodo", "origem": "novas", "base": "relatorio da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "eelatorio da semana", "intencao": "relatorio_periodo", "origem": "novas", "base": "relatorio da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "relatorio da semana", "intencao": "relatorio_periodo", "origem": "novas", "base": "relatorio da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "relatorio conpleto", "intencao": "relatorio_periodo", "origem": "novas", "base": "relatorio completo", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "relatorio completi", "intencao": "relatorio_periodo", "origem": "novas", "base": "relatorio completo", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "relatorio vompleto", "intencao": "relatorio_periodo", "origem": "novas", "base": "relatorio completo", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "relatoio completo", "intencao": "relatorio_periodo", "origem": "novas", "base": "relatorio completo", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "relatorio completo", "intencao": "relatorio_periodo", "origem": "novas", "base": "relatorio completo", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "relatorii completo", "intencao": "relatorio_periodo", "origem": "novas", "base": "relatorio completo", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "reltorio geral", "intencao": "relatorio_periodo", "origem": "novas", "base": "relatorio geral", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "relatorio geral", "intencao": "relatorio_periodo", "origem": "novas", "base": "relatorio geral", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "relstorio geral", "intencao": "relatorio_periodo", "origem": "novas", "base": "relatorio geral", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "relatoeio geral", "intencao": "relatorio_periodo", "origem": "novas", "base": "relatorio geral", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "relayorio geral", "intencao": "relatorio_periodo", "origem": "novas", "base": "relatorio geral", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "relatorio gerl", "intencao": "relatorio_periodo", "origem": "novas", "base": "relatorio geral", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faz um relatorio", "intencao": "relatorio_periodo", "origem": "novas", "base": "faz um relatorio", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faz um relatoroo", "intencao": "relatorio_periodo", "origem": "novas", "base": "faz um relatorio", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faz um relatrio", "intencao": "relatorio_periodo", "origem": "novas", "base": "faz um relatorio", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faz um relatoro", "intencao": "relatorio_periodo", "origem": "novas", "base": "faz um relatorio", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faz um rlatorio", "intencao": "relatorio_periodo", "origem": "novas", "base": "faz um relatorio", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faz um relstorio", "intencao": "relatorio_periodo", "origem": "novas", "base": "faz um relatorio", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "gera um relatorio do mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "gera um relatorio do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "gera relatorio mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "gera um relatorio do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "geea um relatorio do mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "gera um relatorio do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "gera rlatorio mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "gera um relatorio do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "gera relaorio mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "gera um relatorio do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "gers um relatorio do mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "gera um relatorio do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me passa o resumo geral de hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "me passa o resumo geral de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me passa o resumo gersl de hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "me passa o resumo geral de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me passa resumo geral hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "me passa o resumo geral de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me passa resuno geral hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "me passa o resumo geral de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me psssa resumo geral hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "me passa o resumo geral de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me passa o resmo geral de hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "me passa o resumo geral de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "reumo do mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "resumo do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "eesumo mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "resumo do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "reumo mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "resumo do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "resumo mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "resumo do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "resuo do mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "resumo do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "resumo do mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "resumo do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "resumo completo da smana", "intencao": "relatorio_periodo", "origem": "novas", "base": "resumo completo da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "resumo completo da semaa", "intencao": "relatorio_periodo", "origem": "novas", "base": "resumo completo da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "resumo compleo semana", "intencao": "relatorio_periodo", "origem": "novas", "base": "resumo completo da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "resumo cmpleto da semana", "intencao": "relatorio_periodo", "origem": "novas", "base": "resumo completo da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "resumo completo semana", "intencao": "relatorio_periodo", "origem": "novas", "base": "resumo completo da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "resumo completo da semana", "intencao": "relatorio_periodo", "origem": "novas", "base": "resumo completo da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me da um apanhado do dia", "intencao": "relatorio_periodo", "origem": "novas", "base": "me da um apanhado do dia", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me da um apanhdo do dia", "intencao": "relatorio_periodo", "origem": "novas", "base": "me da um apanhado do dia", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me da um apanado do dia", "intencao": "relatorio_periodo", "origem": "novas", "base": "me da um apanhado do dia", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me apanhado dia", "intencao": "relatorio_periodo", "origem": "novas", "base": "me da um apanhado do dia", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me da um apanhao do dia", "intencao": "relatorio_periodo", "origem": "novas", "base": "me da um apanhado do dia", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me da um apnhado do dia", "intencao": "relatorio_periodo", "origem": "novas", "base": "me da um apanhado do dia", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me da o panorma de hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "me da o panorama de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me panorsma hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "me da o panorama de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me da o pnorama de hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "me da o panorama de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me da o panrama de hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "me da o panorama de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me da o panorama de hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "me da o panorama de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me panorama hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "me da o panorama de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "informacoes geraia de hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "informacoes gerais de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "informacoes gerais de hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "informacoes gerais de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "informacos gerais de hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "informacoes gerais de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "infrmacoes gerais hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "informacoes gerais de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "informaces gerais de hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "informacoes gerais de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "informacoes geras de hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "informacoes gerais de hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me teaz todas as informacoes da semana", "intencao": "relatorio_periodo", "origem": "novas", "base": "me traz todas as informacoes da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me traz todas informacoes semana", "intencao": "relatorio_periodo", "origem": "novas", "base": "me traz todas as informacoes da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me traz todss informacoes semana", "intencao": "relatorio_periodo", "origem": "novas", "base": "me traz todas as informacoes da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me traz tidas informacoes semana", "intencao": "relatorio_periodo", "origem": "novas", "base": "me traz todas as informacoes da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me traz todas as informacoes da aemana", "intencao": "relatorio_periodo", "origem": "novas", "base": "me traz todas as informacoes da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me traz todas as informacoes da semana", "intencao": "relatorio_periodo", "origem": "novas", "base": "me traz todas as informacoes da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "todas as inforacoes do mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "todas as informacoes do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "todas as informacoes do mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "todas as informacoes do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "todas as inormacoes do mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "todas as informacoes do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "todas informacoes mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "todas as informacoes do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "todas as informaoes do mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "todas as informacoes do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tods as informavoes do mes", "intencao": "relatorio_periodo", "origem": "novas", "base": "todas as informacoes do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qro tudo sobre dia 15", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero tudo sobre o dia 15", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero tudo sobe o dia 15", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero tudo sobre o dia 15", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero tudo sobre o dia 15", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero tudo sobre o dia 15", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qro tudo sobre o dia 15", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero tudo sobre o dia 15", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero tudo sobre dia 15", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero tudo sobre o dia 15", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero tudo sore o dia 15", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero tudo sobre o dia 15", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tudo sobe ontem", "intencao": "relatorio_periodo", "origem": "novas", "base": "tudo sobre ontem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tudo sobre otem", "intencao": "relatorio_periodo", "origem": "novas", "base": "tudo sobre ontem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tudo sore ontem", "intencao": "relatorio_periodo", "origem": "novas", "base": "tudo sobre ontem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tudo sobrr ontem", "intencao": "relatorio_periodo", "origem": "novas", "base": "tudo sobre ontem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "tudo sobre ontem", "intencao": "relatorio_periodo", "origem": "novas", "base": "tudo sobre ontem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "yudo sobre ontem", "intencao": "relatorio_periodo", "origem": "novas", "base": "tudo sobre ontem", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero ver tudo acoteceu hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero ver tudo que aconteceu hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qro ver tudo q aconteeu hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero ver tudo que aconteceu hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero ver tudo que aconteceu hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero ver tudo que aconteceu hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qro ver tudo q aconteceu hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero ver tudo que aconteceu hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero ver tudo aconteceu hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero ver tudo que aconteceu hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qero ver tudo q aconteceu hoje", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero ver tudo que aconteceu hoje", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o que aconteceu essa semsna?", "intencao": "relatorio_periodo", "origem": "novas", "base": "o que aconteceu essa semana?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o q aconteceu essa semna?", "intencao": "relatorio_periodo", "origem": "novas", "base": "o que aconteceu essa semana?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o q aconteceu easa semana?", "intencao": "relatorio_periodo", "origem": "novas", "base": "o que aconteceu essa semana?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "aconteceu essa semana?", "intencao": "relatorio_periodo", "origem": "novas", "base": "o que aconteceu essa semana?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "aconteeu essa semana?", "intencao": "relatorio_periodo", "origem": "novas", "base": "o que aconteceu essa semana?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "o que aconteceu essa semana?", "intencao": "relatorio_periodo", "origem": "novas", "base": "o que aconteceu essa semana?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me conta cm foi semana inteira", "intencao": "relatorio_periodo", "origem": "novas", "base": "me conta como foi a semana inteira", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me conta como foi semna inteira", "intencao": "relatorio_periodo", "origem": "novas", "base": "me conta como foi a semana inteira", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me conta como foi a semana inteira", "intencao": "relatorio_periodo", "origem": "novas", "base": "me conta como foi a semana inteira", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me conta comi foi a semana inteira", "intencao": "relatorio_periodo", "origem": "novas", "base": "me conta como foi a semana inteira", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me conta como foi semana inteira", "intencao": "relatorio_periodo", "origem": "novas", "base": "me conta como foi a semana inteira", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me conya como foi semana inteira", "intencao": "relatorio_periodo", "origem": "novas", "base": "me conta como foi a semana inteira", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero balanco semana", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero o balanco da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero o balanco da semana", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero o balanco da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quero o balanco da semna", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero o balanco da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qro balanco semana", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero o balanco da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qro o balanco da semana", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero o balanco da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qero o balanco da semans", "intencao": "relatorio_periodo", "origem": "novas", "base": "quero o balanco da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "consolida informacoes agosto", "intencao": "relatorio_periodo", "origem": "novas", "base": "consolida as informacoes de agosto", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "consolida informacoes agisto", "intencao": "relatorio_periodo", "origem": "novas", "base": "consolida as informacoes de agosto", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "conaolida as informacoes de agosto", "intencao": "relatorio_periodo", "origem": "novas", "base": "consolida as informacoes de agosto", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "consolida as inormacoes de agosto", "intencao": "relatorio_periodo", "origem": "novas", "base": "consolida as informacoes de agosto", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "consolida as infornacoes de agosto", "intencao": "relatorio_periodo", "origem": "novas", "base": "consolida as informacoes de agosto", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "consolida as informacoes de agosto", "intencao": "relatorio_periodo", "origem": "novas", "base": "consolida as informacoes de agosto", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "junta tudo do mes num relatorio", "intencao": "relatorio_periodo", "origem": "novas", "base": "junta tudo do mes num relatorio", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "junta tudo do mes num eelatorio", "intencao": "relatorio_periodo", "origem": "novas", "base": "junta tudo do mes num relatorio", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "juna tudo mes num relatorio", "intencao": "relatorio_periodo", "origem": "novas", "base": "junta tudo do mes num relatorio", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "jnts tudo do mes num relatorio", "intencao": "relatorio_periodo", "origem": "novas", "base": "junta tudo do mes num relatorio", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "junta tudo mes num relatorio", "intencao": "relatorio_periodo", "origem": "novas", "base": "junta tudo do mes num relatorio", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "juta tudo do mes num relatorio", "intencao": "relatorio_periodo", "origem": "novas", "base": "junta tudo do mes num relatorio", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mosta tudo do dia", "intencao": "relatorio_periodo", "origem": "novas", "base": "me mostra tudo do dia", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mostra yudo dia", "intencao": "relatorio_periodo", "origem": "novas", "base": "me mostra tudo do dia", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mostra tudi dia", "intencao": "relatorio_periodo", "origem": "novas", "base": "me mostra tudo do dia", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mstra tudo do dia", "intencao": "relatorio_periodo", "origem": "novas", "base": "me mostra tudo do dia", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me motra tudo dia", "intencao": "relatorio_periodo", "origem": "novas", "base": "me mostra tudo do dia", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me mostra tudo do dia", "intencao": "relatorio_periodo", "origem": "novas", "base": "me mostra tudo do dia", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me fale qual faturamento hoje, semaa e mes?", "intencao": "faturamento", "origem": "novas", "base": "me fale qual o faturamento de hoje, da semana e do mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me fale qual o faturamento de hje, da semana e do mes?", "intencao": "faturamento", "origem": "novas", "base": "me fale qual o faturamento de hoje, da semana e do mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me fale qual o fauramento de hoje, da semana e do mes?", "intencao": "faturamento", "origem": "novas", "base": "me fale qual o faturamento de hoje, da semana e do mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me fale qual fturamento hoje, semana e mes?", "intencao": "faturamento", "origem": "novas", "base": "me fale qual o faturamento de hoje, da semana e do mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me fale qual o faturamento de hoje, da semana e do mes?", "intencao": "faturamento", "origem": "novas", "base": "me fale qual o faturamento de hoje, da semana e do mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me fale qual faturamento hoje, semana e mes?", "intencao": "faturamento", "origem": "novas", "base": "me fale qual o faturamento de hoje, da semana e do mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qual o faturamento de hoje da semana e do mes?", "intencao": "faturamento", "origem": "novas", "base": "qual o faturamento de hoje da semana e do mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qual o faturamento de hojr da semana e do mes?", "intencao": "faturamento", "origem": "novas", "base": "qual o faturamento de hoje da semana e do mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qual o faturamento de hoje da semna e do mes?", "intencao": "faturamento", "origem": "novas", "base": "qual o faturamento de hoje da semana e do mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qual o fstramento de hoje da semana e do mes?", "intencao": "faturamento", "origem": "novas", "base": "qual o faturamento de hoje da semana e do mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qual faturmento hoje semana e mes?", "intencao": "faturamento", "origem": "novas", "base": "qual o faturamento de hoje da semana e do mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qual o faturamento de hoje da semaa e do nes?", "intencao": "faturamento", "origem": "novas", "base": "qual o faturamento de hoje da semana e do mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto faturamos hoje, esaa semana e esse mes?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos hoje, essa semana e esse mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto faturamos hoje, essa senana e esse mes?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos hoje, essa semana e esse mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quano fatursmos hoje, essa semana e esse mes?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos hoje, essa semana e esse mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto faturamos hje, essa semana e esse mrs?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos hoje, essa semana e esse mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto faturamos hoje, essa semana e esse mes?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos hoje, essa semana e esse mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto faturamos hoje, essa semana e rsse mes?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos hoje, essa semana e esse mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me diz faturamento dia, semana e mes", "intencao": "faturamento", "origem": "novas", "base": "me diz o faturamento do dia, da semana e do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me diz o faturameno do dia, da semana e do mes", "intencao": "faturamento", "origem": "novas", "base": "me diz o faturamento do dia, da semana e do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me diz o fatramento do dia, da semana e do mes", "intencao": "faturamento", "origem": "novas", "base": "me diz o faturamento do dia, da semana e do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me diz o faturamento do dia, da semana e do mes", "intencao": "faturamento", "origem": "novas", "base": "me diz o faturamento do dia, da semana e do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me diz o faturamento do dia, da smana e do mes", "intencao": "faturamento", "origem": "novas", "base": "me diz o faturamento do dia, da semana e do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "me diz o fatueamento do dia, da seana e do mes", "intencao": "faturamento", "origem": "novas", "base": "me diz o faturamento do dia, da semana e do mes", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamemto de hoje e da semana", "intencao": "faturamento", "origem": "novas", "base": "faturamento de hoje e da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "fauramento de hoje e da semana", "intencao": "faturamento", "origem": "novas", "base": "faturamento de hoje e da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamnto de hoje e da semana", "intencao": "faturamento", "origem": "novas", "base": "faturamento de hoje e da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamento hoje e semana", "intencao": "faturamento", "origem": "novas", "base": "faturamento de hoje e da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamento hoje e senana", "intencao": "faturamento", "origem": "novas", "base": "faturamento de hoje e da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamento de hoje e da semana", "intencao": "faturamento", "origem": "novas", "base": "faturamento de hoje e da semana", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto foi hoje e ontem?", "intencao": "faturamento", "origem": "novas", "base": "quanto foi hoje e ontem?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto foi hoje e onem?", "intencao": "faturamento", "origem": "novas", "base": "quanto foi hoje e ontem?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qanto foi hoje e ontem?", "intencao": "faturamento", "origem": "novas", "base": "quanto foi hoje e ontem?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto foi hije e ontem?", "intencao": "faturamento", "origem": "novas", "base": "quanto foi hoje e ontem?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto foi hoje e ontm?", "intencao": "faturamento", "origem": "novas", "base": "quanto foi hoje e ontem?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quato foi hoje e ontem?", "intencao": "faturamento", "origem": "novas", "base": "quanto foi hoje e ontem?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamnto da semana passada", "intencao": "faturamento", "origem": "novas", "base": "faturamento da semana passada", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamento da semana passada", "intencao": "faturamento", "origem": "novas", "base": "faturamento da semana passada", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamrnto da smana passada", "intencao": "faturamento", "origem": "novas", "base": "faturamento da semana passada", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamento da semaa passada", "intencao": "faturamento", "origem": "novas", "base": "faturamento da semana passada", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamento da semana paasada", "intencao": "faturamento", "origem": "novas", "base": "faturamento da semana passada", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamento da aemana passada", "intencao": "faturamento", "origem": "novas", "base": "faturamento da semana passada", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qanto faturamos essa semana?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos essa semana?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto faturamos esss semana?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos essa semana?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto faturamos essa semans?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos essa semana?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto faturamos essa semana?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos essa semana?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto faturamos essa semaa?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos essa semana?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qunto faturamos essa semana?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos essa semana?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto fatramos esse mes?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos esse mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qanto faturamos esse mes?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos esse mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto faturamos esse mes?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos esse mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quano faturamos esse mes?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos esse mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qunto faturamos esse mes?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos esse mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto fturamos esse mea?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos esse mes?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qanto faturamos mes passado?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos no mes passado?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto faturamos mes passado?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos no mes passado?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quato faturamos no mes passado?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos no mes passado?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto faturmos no mes passado?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos no mes passado?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto faturamos no mes passado?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos no mes passado?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto faturamos no mes pasado?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos no mes passado?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto vendems em agosto?", "intencao": "faturamento", "origem": "novas", "base": "quanto vendemos em agosto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto vendemos agosto?", "intencao": "faturamento", "origem": "novas", "base": "quanto vendemos em agosto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto vendemos em agosto?", "intencao": "faturamento", "origem": "novas", "base": "quanto vendemos em agosto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto vendeos em agosti?", "intencao": "faturamento", "origem": "novas", "base": "quanto vendemos em agosto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanti vendemos em agosto?", "intencao": "faturamento", "origem": "novas", "base": "quanto vendemos em agosto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanyo vendemos em agosto?", "intencao": "faturamento", "origem": "novas", "base": "quanto vendemos em agosto?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamento de julho", "intencao": "faturamento", "origem": "novas", "base": "faturamento de julho", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamento julho", "intencao": "faturamento", "origem": "novas", "base": "faturamento de julho", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamento juho", "intencao": "faturamento", "origem": "novas", "base": "faturamento de julho", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturaento de julho", "intencao": "faturamento", "origem": "novas", "base": "faturamento de julho", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamento de jlho", "intencao": "faturamento", "origem": "novas", "base": "faturamento de julho", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamento julhi", "intencao": "faturamento", "origem": "novas", "base": "faturamento de julho", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamento dos ultimoa 7 dias", "intencao": "faturamento", "origem": "novas", "base": "faturamento dos ultimos 7 dias", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamento dos ultimos 7 dias", "intencao": "faturamento", "origem": "novas", "base": "faturamento dos ultimos 7 dias", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturameno dos ultimos 7 dias", "intencao": "faturamento", "origem": "novas", "base": "faturamento dos ultimos 7 dias", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamento dos ulimos 7 doas", "intencao": "faturamento", "origem": "novas", "base": "faturamento dos ultimos 7 dias", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "fauramento dos ultimos 7 dias", "intencao": "faturamento", "origem": "novas", "base": "faturamento dos ultimos 7 dias", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamento dos utimos 7 dias", "intencao": "faturamento", "origem": "novas", "base": "faturamento dos ultimos 7 dias", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto entrou este sno?", "intencao": "faturamento", "origem": "novas", "base": "quanto entrou este ano?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto entrou este ano?", "intencao": "faturamento", "origem": "novas", "base": "quanto entrou este ano?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto etrou este ano?", "intencao": "faturamento", "origem": "novas", "base": "quanto entrou este ano?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto etrou este sno?", "intencao": "faturamento", "origem": "novas", "base": "quanto entrou este ano?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto entou este ano?", "intencao": "faturamento", "origem": "novas", "base": "quanto entrou este ano?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto enrou este ano?", "intencao": "faturamento", "origem": "novas", "base": "quanto entrou este ano?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qanyo faturamos no dia 15?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos no dia 15?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qunto faturamos no dia 15?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos no dia 15?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto faturamos dia 15?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos no dia 15?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto faturamoa dia 15?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos no dia 15?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto faturamoa no dia 15?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos no dia 15?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto faturamos no dia 15?", "intencao": "faturamento", "origem": "novas", "base": "quanto faturamos no dia 15?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qual foi o faturamento de otem?", "intencao": "faturamento", "origem": "novas", "base": "qual foi o faturamento de ontem?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qual foi faturanento ontem?", "intencao": "faturamento", "origem": "novas", "base": "qual foi o faturamento de ontem?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qual foi o faturamento de ontem?", "intencao": "faturamento", "origem": "novas", "base": "qual foi o faturamento de ontem?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qual foi faturamento onte?", "intencao": "faturamento", "origem": "novas", "base": "qual foi o faturamento de ontem?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qual foi faturamento ontem?", "intencao": "faturamento", "origem": "novas", "base": "qual foi o faturamento de ontem?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "qual foi o fauramento de ontem?", "intencao": "faturamento", "origem": "novas", "base": "qual foi o faturamento de ontem?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto vrndeu semana?", "intencao": "faturamento", "origem": "novas", "base": "quanto vendeu na semana?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto vemdeu na semaa?", "intencao": "faturamento", "origem": "novas", "base": "quanto vendeu na semana?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto vendu na semana?", "intencao": "faturamento", "origem": "novas", "base": "quanto vendeu na semana?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto vendeu semana?", "intencao": "faturamento", "origem": "novas", "base": "quanto vendeu na semana?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto vendeu na semana?", "intencao": "faturamento", "origem": "novas", "base": "quanto vendeu na semana?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "quanto vndeu na semana?", "intencao": "faturamento", "origem": "novas", "base": "quanto vendeu na semana?", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "fayuramento mes ate agora", "intencao": "faturamento", "origem": "novas", "base": "faturamento do mes ate agora", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "fatuamento do mes ate agora", "intencao": "faturamento", "origem": "novas", "base": "faturamento do mes ate agora", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamento mes ate agra", "intencao": "faturamento", "origem": "novas", "base": "faturamento do mes ate agora", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "fsturamento do mes ate agora", "intencao": "faturamento", "origem": "novas", "base": "faturamento do mes ate agora", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamento do mes ate agora", "intencao": "faturamento", "origem": "novas", "base": "faturamento do mes ate agora", "estado_emocional": "neutro", "tom_origem": "rotulado"}
+{"pergunta": "faturamento mes ate agora", "intencao": "faturamento", "origem": "novas", "base": "faturamento do mes ate agora", "estado_emocional": "neutro", "tom_origem": "rotulado"}

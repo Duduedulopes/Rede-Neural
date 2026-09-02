@@ -22,7 +22,7 @@ Serve para tres coisas:
     mostrar     em video, o terminal prova que existe uma rede ali;
                 a interface sozinha poderia ser um monte de `if`
 """
-import io, json, sys, unicodedata
+import io, json, os, sys, unicodedata
 from pathlib import Path
 import numpy as np
 
@@ -41,8 +41,49 @@ BT = np.array(M["camada_tom"]["vies"]).reshape(-1, 1) if TONS else None
 LIM = M["limiar"]
 CORTE = M.get("limiar_confirmacao", 1.0)
 
+# ══════════════════════════════════════════════════════════════════════
+#  O TERMINAL DO WINDOWS, QUE NAO E O TERMINAL DO LINUX
+#
+#  Neste mesmo projeto um programa ja morreu com
+#
+#      UnicodeEncodeError: 'charmap' codec can't encode character '\u2192'
+#
+#  O console do Windows abre em cp1252 quando nao negocia UTF-8, e ai a
+#  seta e os blocos derrubam o programa inteiro — no meio de uma
+#  demonstracao, na frente de quem estiver assistindo.
+#
+#  Duas defesas, nesta ordem:
+#    1. pedir UTF-8 ao stdout, que resolve na maioria dos casos
+#    2. se nao der, trocar os desenhos por ASCII e seguir. Um grafico de
+#       `#` e `-` diz a mesma coisa; um traceback nao diz nada.
+# ══════════════════════════════════════════════════════════════════════
+def _tem_utf8():
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+        return True
+    except Exception:
+        pass
+    try:
+        "\u2192\u2588".encode(sys.stdout.encoding or "ascii")
+        return True
+    except Exception:
+        return False
+
+
+BONITO = _tem_utf8()
+
+# Cor so quando ha terminal de verdade do outro lado: redirecionar para
+# arquivo com codigo de cor dentro suja o arquivo sem avisar.
+_COR = sys.stdout.isatty() and os.environ.get("NO_COLOR") is None
 VERDE, AMAR, VERM, CINZA, FORTE, FIM = (
-    "\033[32m", "\033[33m", "\033[31m", "\033[90m", "\033[1m", "\033[0m")
+    ("\033[32m", "\033[33m", "\033[31m", "\033[90m", "\033[1m", "\033[0m")
+    if _COR else ("", "", "", "", "", ""))
+
+SETA   = "\u2192" if BONITO else ">"
+CHEIO  = "\u2588" if BONITO else "#"
+VAZIO  = "\u00b7" if BONITO else "-"
+MEIO   = "\u00b7" if BONITO else "-"
+NIVEIS = ("\u2589", "\u2593", "\u2592", "\u2591") if BONITO else ("#", "+", ":", ".")
 
 
 def normalizar(s):
@@ -63,7 +104,7 @@ def sig(z):
 
 def barra(p, largura=26):
     cheio = int(round(p * largura))
-    return "█" * cheio + "·" * (largura - cheio)
+    return CHEIO * cheio + VAZIO * (largura - cheio)
 
 
 def pensar(frase):
@@ -90,14 +131,14 @@ def pensar(frase):
 
     acesos = int((oculta > 0.5).sum())
     print(f"  {CINZA}neurônios{FIM}  {acesos} de {len(oculta)} acesos   " +
-          "".join("▉" if a > .75 else "▓" if a > .5 else "▒" if a > .25 else "░"
-                  for a in oculta))
+          "".join(NIVEIS[0] if a > .75 else NIVEIS[1] if a > .5
+                          else NIVEIS[2] if a > .25 else NIVEIS[3] for a in oculta))
 
     print()
     for k in ordem[:3]:
         nome, pr = M["intencoes"][k], p[k]
         cor = VERDE if pr >= LIM else (AMAR if pr >= 0.5 else CINZA)
-        marca = FORTE + "→" + FIM if k == ordem[0] else " "
+        marca = FORTE + SETA + FIM if k == ordem[0] else " "
         print(f"  {marca} {cor}{nome:<22}{FIM} {barra(pr)} {pr:6.2%}")
 
     if TONS:
@@ -124,8 +165,8 @@ def pensar(frase):
 
 def main():
     print(f"\n  {FORTE}{MODELO.name}{FIM}  "
-          f"{len(M['intencoes'])} intenções · {M['medido']['corpus']} frases · "
-          f"limiar {LIM:.0%}" + (f" · {len(TONS)} tons" if TONS else ""))
+          f"{len(M['intencoes'])} intenções {MEIO} {M['medido']['corpus']} frases {MEIO} "
+          f"limiar {LIM:.0%}" + (f" {MEIO} {len(TONS)} tons" if TONS else ""))
     n = (TAB.size + W0.size + len(C0['vies']) + W1.size + len(C1['vies']))
     # `.replace(",", ".")` na frase inteira comia a virgula do texto tambem
     # ("73.334 parametros. todos treinados"). O separador se troca so no

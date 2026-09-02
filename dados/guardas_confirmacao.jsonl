@@ -23,3 +23,25 @@
 {"frase": "faz por favor", "por_que": "o par educado de 'para por favor': o verbo decide. Cobra o 1o lugar, nao o corte de gravacao — em 99,3% contra corte 0,998 ele re-pergunta, que e falha segura", "precisa_ser_no_topo": "confirmar_acao"}
 {"frase": "nao", "precisa_ser": "cancelar_operacao", "por_que": "se isto quebrar, nao ha como recusar"}
 {"frase": "cancela", "precisa_ser": "cancelar_operacao", "por_que": "recusa explicita"}
+{"frase": "adicione 1 unidade de agua", "precisa_ser_no_topo": "repor_estoque", "por_que": "SOMAR. Com 4 em estoque tinha de ficar 5; ja definiu 1 e ia tirar 3 — cobra o 1o lugar: abaixo do limiar vira botao, que e rota normal"}
+{"frase": "adicione mais 1 unidade", "precisa_ser_no_topo": "repor_estoque", "por_que": "a frase que o Chefe usou e que dava ajuda 51% — cobra o 1o lugar: abaixo do limiar vira botao, que e rota normal"}
+{"frase": "chegaram mais 20 chocolates", "precisa_ser_no_topo": "repor_estoque", "por_que": "chegada de mercadoria soma, nao define — cobra o 1o lugar: abaixo do limiar vira botao, que e rota normal"}
+{"frase": "acrescenta 10 no estoque", "precisa_ser_no_topo": "repor_estoque", "por_que": "acrescentar e somar — cobra o 1o lugar: abaixo do limiar vira botao, que e rota normal"}
+{"frase": "mais 5 de agua", "precisa_ser_no_topo": "repor_estoque", "por_que": "forma curta de somar — cobra o 1o lugar: abaixo do limiar vira botao, que e rota normal"}
+{"frase": "o estoque certo da agua e 25", "precisa_ser_no_topo": "alterar_estoque", "por_que": "declarar o certo define o total — cobra o 1o lugar: abaixo do limiar vira botao, que e rota normal"}
+{"frase": "fiz o inventario agua tem 9", "precisa_ser_no_topo": "alterar_estoque", "por_que": "inventario define o total — cobra o 1o lugar: abaixo do limiar vira botao, que e rota normal"}
+{"frase": "cadastrar produto", "precisa_ser_no_topo": "adicionar_produto", "por_que": "listar_produtos nasceu com 191 frases contra 58; a vizinha nao pode ser engolida"}
+{"frase": "cadastra ai um salgadinho novo", "precisa_ser_no_topo": "adicionar_produto", "por_que": "mesma familia: verbo de acao decide, nao a palavra produto"}
+{"frase": "poe esse produto no catalogo", "precisa_ser_no_topo": "adicionar_produto", "por_que": "'catalogo' agora existe dos dois lados; o verbo e que separa"}
+{"frase": "quais sao os produtos?", "precisa_ser_no_topo": "listar_produtos", "por_que": "a pergunta que o Chefe fez tres vezes e recebeu a soma nas tres"}
+{"frase": "liste todos os produtos", "precisa_ser_no_topo": "listar_produtos", "por_que": "idem, na forma imperativa"}
+{"frase": "o que esta acabando?", "precisa_ser_no_topo": "estoque_baixo", "por_que": "listar_produtos nao pode roubar a pergunta de estoque baixo"}
+{"frase": "temos agua no estoque?", "precisa_ser_no_topo": "estoque", "por_que": "QUANTO de um continua sendo estoque, nao a lista inteira"}
+{"frase": "tivemos algum furo no sistema?", "precisa_ser_no_topo": "furo_sistema", "por_que": "a pergunta do Chefe; 'sistema' nao pode puxar para status_sistema"}
+{"frase": "o estoque bate?", "precisa_ser_no_topo": "furo_sistema", "por_que": "conferencia do fisico contra o sistema"}
+{"frase": "ta rodando tudo?", "precisa_ser_no_topo": "status_sistema", "por_que": "furo_sistema nao pode roubar a conferencia de servico"}
+{"frase": "corrige o estoque para 30", "precisa_ser_no_topo": "alterar_estoque", "por_que": "furo_sistema fala de estoque sem numero; com numero de destino e alterar"}
+{"frase": "puxe todas as informacoes de hoje", "precisa_ser_no_topo": "relatorio_periodo", "por_que": "o pedido de relatorio completo do Chefe"}
+{"frase": "quanto faturamos hoje?", "precisa_ser_no_topo": "faturamento", "por_que": "relatorio_periodo nao pode roubar a pergunta de dinheiro"}
+{"frase": "me fale qual o faturamento de hoje, da semana e do mes?", "precisa_ser": "faturamento", "por_que": "a frase longa do Chefe; chegava a 51,4% e o palpite era comparar"}
+{"frase": "pode adicionar mais uma camera?", "precisa_ser_no_topo": "configurar_camera", "por_que": "ja funcionava; as intencoes novas nao podem estragar"}

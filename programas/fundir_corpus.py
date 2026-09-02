@@ -63,9 +63,53 @@ sys.path.insert(0, str(RAIZ / "programas"))
 
 import gerar_corpus_inteligente as dela
 
-NOSSO  = RAIZ / "dados" / "perguntas_confirmacao.jsonl"
-DELA   = RAIZ / "dados" / "perguntas_inteligente.jsonl"
-DESTINO = RAIZ / "dados" / "perguntas_fundido.jsonl"
+# ══════════════════════════════════════════════════════════════════════
+#  TODAS AS ENTRADAS, DECLARADAS.
+#
+#  ESTE ARQUIVO MENTIA. Ele dizia que o corpus vinha de dois arquivos —
+#  o nosso e o dela. Vinha de cinco. `perguntas_repor.jsonl`,
+#  `perguntas_sobre_sistema.jsonl` e as 88 frases de `sim_educado` foram
+#  entrando por fora, uma execucao de cada vez, e nunca voltaram para ca.
+#
+#  Isso ficou dois dias sem incomodar ninguem, porque o
+#  `perguntas_fundido.jsonl` no disco estava certo. Ate alguem rodar a
+#  fusao de novo: o arquivo foi refeito a partir das duas entradas
+#  declaradas e `repor_estoque` — 198 frases, a intencao que separa somar
+#  de definir e que existe por causa de um bug que quase apagou estoque —
+#  simplesmente sumiu. 39 intencoes viraram 38 sem uma linha de erro.
+#
+#  Um pipeline que nao reproduz o proprio resultado nao e pipeline, e
+#  sorte. As cinco entradas agora estao aqui, e no fim do programa ha uma
+#  conferencia contra o fundido anterior: se alguma intencao encolher, o
+#  programa reclama em vez de deixar passar.
+# ══════════════════════════════════════════════════════════════════════
+D = RAIZ / "dados"
+
+# A ORDEM DECIDE QUEM GANHA, e nao e detalhe.
+#
+# Em frase repetida, quem chega primeiro fica com o rotulo. Entao as
+# CORRECOES vem antes do corpus que elas corrigem.
+#
+# "chegaram mais 20 chocolates" existe nos dois: em
+# `perguntas_confirmacao.jsonl` com o rotulo velho `alterar_estoque`, de
+# quando uma intencao so carregava somar, definir e tirar; e em
+# `perguntas_repor.jsonl` com `repor_estoque`, que foi a correcao daquele
+# bug — o mesmo que quase apagou estoque ao ler "adicione 1 unidade" como
+# "deixe 1 unidade".
+#
+# Com a ordem trocada, 18 frases voltaram ao rotulo antigo e a guarda
+# quebrou: 86% para `alterar_estoque`. O arquivo velho nao foi limpo de
+# proposito — ele e o registro do que foi gerado. Quem corrige e a ordem.
+NOSSAS = [
+    D / "perguntas_repor.jsonl",         # CORRECAO: somar contra definir
+    D / "perguntas_novas.jsonl",         # listar_produtos, furo_sistema, relatorio_periodo
+    D / "perguntas_sobre_sistema.jsonl", # sobre_sistema — "como funciona o sistema?"
+    D / "perguntas_sim_educado.jsonl",   # sim_educado — "faz por favor" e as corrupcoes
+    D / "perguntas_confirmacao.jsonl",   # o corpus geral, o mais antigo
+]
+
+DELA    = D / "perguntas_inteligente.jsonl"
+DESTINO = D / "perguntas_fundido.jsonl"
 
 
 def norm(s):
@@ -148,17 +192,66 @@ def mapa_das_bases():
 
 
 def main():
-    nosso = carregar(NOSSO)
+    # O fundido de antes, para conferir no fim que nada encolheu.
+    antes = Counter()
+    if DESTINO.exists():
+        for o in carregar(DESTINO):
+            antes[o["intencao"]] += 1
+
+    nosso = []
+    faltando = []
+    dono = {}          # frase -> (arquivo, intencao) de quem chegou primeiro
+    conflitos = []
+    for caminho in NOSSAS:
+        if not caminho.exists():
+            faltando.append(caminho.name)
+            continue
+        parte = carregar(caminho)
+        for o in parte:
+            ch = norm(o["pergunta"])
+            if ch in dono:
+                antigo, rotulo = dono[ch]
+                if rotulo != o["intencao"]:
+                    conflitos.append((o["pergunta"], antigo, rotulo, caminho.name, o["intencao"]))
+            else:
+                dono[ch] = (caminho.name, o["intencao"])
+        nosso += parte
+        print(f"  {caminho.name:<32} {len(parte):5d} frases")
+
+    if faltando:
+        print("\n  !! ENTRADA QUE NAO EXISTE: " + ", ".join(faltando))
+        print("     Rodar assim APAGA do corpus tudo que vinha dela.\n")
+
+    # A MESMA FRASE COM DOIS ROTULOS. Nao e erro por si: e assim que uma
+    # correcao substitui um rotulo velho. Mas e a unica coisa que a ORDEM
+    # da lista decide, entao ela precisa ser vista, nunca suposta.
+    if conflitos:
+        vistos = set()
+        print(f"\n  {len(conflitos)} frase(s) com rotulo diferente entre entradas "
+              f"— vence quem vem primeiro:")
+        for frase, arq_a, int_a, arq_b, int_b in conflitos:
+            ch = (int_a, int_b, arq_a, arq_b)
+            if ch in vistos:
+                continue
+            vistos.add(ch)
+            n = sum(1 for c in conflitos if (c[2], c[4], c[1], c[3]) == ch)
+            print(f"   {int_a:<18} ({arq_a})")
+            print(f"   {int_b:<18} ({arq_b})   <- perde, {n} frase(s)")
+            print(f"     ex.: \"{frase}\"")
+
     dela_l = carregar(DELA)
     mapa = mapa_das_bases()
-    print(f"nosso:  {len(nosso)} frases, {len({o['intencao'] for o in nosso})} intencoes")
+    print(f"  {DELA.name:<32} {len(dela_l):5d} frases")
+    print(f"\nnosso:  {len(nosso)} frases, {len({o['intencao'] for o in nosso})} intencoes")
     print(f"dela:   {len(dela_l)} frases, {len({o['intencao'] for o in dela_l})} intencoes")
     print(f"radicais reconstruidos: {len(mapa)}\n")
 
     saida, vistas = [], set()
     sem_base = 0
 
-    # 1. o nosso corpus inteiro, com rotulo de tom deduzido
+    # 1. o nosso corpus inteiro, com rotulo de tom deduzido. Vem antes do
+    #    dela de proposito: em frase repetida, quem chega primeiro fica com
+    #    o rotulo, e rotulo nosso vale mais que rotulo de molde.
     for o in nosso:
         ch = norm(o["pergunta"])
         if ch in vistas:
@@ -222,6 +315,27 @@ def main():
     for t, n in ct.most_common():
         print(f"  {t:<24} {n:6d}")
 
+    # ── A CONFERENCIA QUE FALTAVA ─────────────────────────────────────
+    #
+    # `repor_estoque` sumiu inteira — 198 frases — porque uma entrada nao
+    # estava declarada. O programa terminou com codigo 0 e imprimiu um
+    # relatorio bonito. Uma fusao so pode ENCOLHER uma intencao quando
+    # alguem quis; caso contrario e entrada faltando, e vale parar.
+    if antes:
+        encolheu = [(i, antes[i], ci.get(i, 0)) for i in antes if ci.get(i, 0) < antes[i]]
+        print("\n  contra o corpus anterior:")
+        if not encolheu:
+            novas_i = set(ci) - set(antes)
+            print(f"   nada encolheu. {len(novas_i)} intencao(oes) nova(s): "
+                  f"{', '.join(sorted(novas_i)) or '(nenhuma)'}")
+        else:
+            for i, a, d in encolheu:
+                print(f"   !! {i:<22} {a:5d} -> {d:5d}   PERDEU {a - d}")
+            print("\n   Falta entrada declarada em NOSSAS, ou alguem apagou um gerador.")
+            print("   NAO treine com este corpus antes de entender o que sumiu.")
+            return 1
+    return 0
+
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

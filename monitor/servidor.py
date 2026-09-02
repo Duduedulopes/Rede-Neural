@@ -43,7 +43,16 @@ EVENTOS_LOJA = AQUI.parent / "dados" / "eventos_loja.jsonl"
 # vicio de escrita dele, vale mais que dez que eu invente.
 PERGUNTAS = AQUI.parent / "dados" / "perguntas_reais.jsonl"
 
+MODELO = AQUI.parent / "modelos" / "intencao.json"
+APRENDIDO = AQUI.parent / "modelos" / "aprendido_na_loja.json"
+HISTORICO = AQUI.parent / "dados" / "modelos_recebidos.jsonl"
+
 LIMITE_CORPO = 64 * 1024   # uma correcao nao passa de alguns KB
+
+# O modelo inteiro passa de 600 KB. Limite proprio, e nao o mesmo dos
+# relatos: afrouxar o limite geral por causa de UMA rota abriria as outras
+# junto.
+LIMITE_MODELO = 8 * 1024 * 1024
 
 
 def construir(espacial, loja):
@@ -130,6 +139,73 @@ def construir(espacial, loja):
             Somente escrita, sempre acrescentando. Nenhuma linha e alterada
             depois — mesma regra do `dados/bruto` do SO Espacial.
             """
+            # ── O MODELO QUE A LOJA APRENDEU ──────────────────────────
+            #
+            # A OUTRA METADE DA PONTE. Ate aqui o Python so MANDAVA: treinava
+            # e o C# copiava o arquivo. Agora o C# devolve o que aprendeu
+            # sozinho, e o Python passa a poder medir, recalibrar e retreinar
+            # em cima do que aconteceu na loja de verdade.
+            #
+            # O arquivo do Python (`intencao.json`) NAO e sobrescrito. O que
+            # chega vai para `aprendido_na_loja.json`, ao lado. Deixar uma
+            # rota HTTP escrever por cima do modelo de origem seria entregar
+            # a base a quem quer que alcance a porta 8760.
+            if self.path.startswith("/api/modelo"):
+                try:
+                    tamanho = int(self.headers.get("Content-Length") or 0)
+                except ValueError:
+                    tamanho = 0
+                if tamanho <= 0 or tamanho > LIMITE_MODELO:
+                    self._responder(400, b'{"ok":false,"erro":"tamanho"}',
+                                    "application/json; charset=utf-8")
+                    return
+                try:
+                    modelo = json.loads(self.rfile.read(tamanho).decode("utf-8"))
+                except (ValueError, UnicodeDecodeError):
+                    self._responder(400, b'{"ok":false,"erro":"json invalido"}',
+                                    "application/json; charset=utf-8")
+                    return
+
+                # Conferencia minima: um modelo sem estas chaves nao e um
+                # modelo, e gravar lixo aqui faria o proximo treino partir
+                # dele.
+                faltando = [c for c in ("intencoes", "pecas", "tabela", "camadas")
+                            if c not in modelo]
+                if faltando:
+                    self._responder(400, json.dumps(
+                        {"ok": False, "erro": f"faltam chaves: {faltando}"}).encode(),
+                        "application/json; charset=utf-8")
+                    return
+
+                modelo["recebido_em"] = datetime.now().astimezone().isoformat()
+                try:
+                    APRENDIDO.parent.mkdir(exist_ok=True)
+                    APRENDIDO.write_text(
+                        json.dumps(modelo, ensure_ascii=False), encoding="utf-8")
+
+                    # O historico guarda so o RESUMO, nao o modelo inteiro:
+                    # um arquivo de 600 KB por envio encheria o disco em uma
+                    # semana, e o que interessa depois e a linha do tempo.
+                    HISTORICO.parent.mkdir(exist_ok=True)
+                    with open(HISTORICO, "a", encoding="utf-8") as f:
+                        f.write(json.dumps({
+                            "recebido_em": modelo["recebido_em"],
+                            "intencoes": len(modelo["intencoes"]),
+                            "pecas": len(modelo["pecas"]),
+                            "aprendido_na_loja": modelo.get("aprendido_na_loja"),
+                        }, ensure_ascii=False) + "\n")
+                except OSError as erro:
+                    self._responder(500, json.dumps({"ok": False, "erro": str(erro)}).encode(),
+                                    "application/json; charset=utf-8")
+                    return
+
+                self._responder(200, json.dumps({
+                    "ok": True,
+                    "gravado_em": str(APRENDIDO),
+                    "kb": round(APRENDIDO.stat().st_size / 1024),
+                }).encode(), "application/json; charset=utf-8")
+                return
+
             if self.path.startswith("/api/correcao"):
                 destino = CORRECOES
             elif self.path.startswith("/api/pergunta"):
@@ -169,6 +245,19 @@ def construir(espacial, loja):
                             "application/json; charset=utf-8")
 
         def do_GET(self):
+            # O caminho de volta: depois de o Python recalibrar, a loja
+            # puxa o modelo novo daqui em vez de esperar alguem copiar um
+            # arquivo a mao. E o fim da copia manual.
+            if self.path.startswith("/api/modelo"):
+                try:
+                    corpo = MODELO.read_bytes()
+                except OSError:
+                    self._responder(404, b'{"ok":false,"erro":"sem modelo"}',
+                                    "application/json; charset=utf-8")
+                    return
+                self._responder(200, corpo, "application/json; charset=utf-8")
+                return
+
             if self.path.startswith("/api/estado"):
                 estado = espacial.estado()
                 da_loja = loja.resumo()
@@ -195,6 +284,64 @@ def construir(espacial, loja):
                 }
                 self._responder(200, json.dumps(pacote).encode("utf-8"),
                                 "application/json; charset=utf-8")
+                return
+
+            if self.path.startswith("/api/planta"):
+                """O desenho do chao: limites, moveis e zonas.
+
+                Sem isto o painel nao tem como transformar metro em pixel, e
+                a pessoa apareceria num quadrado sem contexto. Com isto ele
+                desenha a loja e poe a pessoa DENTRO dela.
+                """
+                planta = espacial.planta()
+                if planta is None:
+                    self._responder(404, b'{"erro":"planta nao encontrada"}',
+                                    "application/json; charset=utf-8")
+                    return
+                self._responder(200, json.dumps(planta, ensure_ascii=False).encode("utf-8"),
+                                "application/json; charset=utf-8")
+                return
+
+            # ── as cameras, para o painel ────────────────────────────
+            if self.path.startswith("/api/cameras"):
+                """Quem esta publicando quadro, e ha quanto tempo.
+
+                O painel precisa saber ANTES de pedir imagem: quantas
+                cameras ha nesta instalacao (1, 3 ou 5 — o Espacial abre o
+                que estiver no `cameras.json`) e quais estao vivas. Sem
+                isto, a tela teria de adivinhar os papeis, e uma tela que
+                adivinha mostra caixa vazia quando alguem muda a instalacao.
+                """
+                self._responder(
+                    200,
+                    json.dumps({"cameras": espacial.cameras_ao_vivo()}).encode("utf-8"),
+                    "application/json; charset=utf-8")
+                return
+
+            if self.path.startswith("/api/camera/"):
+                """O ultimo quadro de uma camera.
+
+                JPEG SOLTO, e nao MJPEG. O fluxo continuo segura uma conexao
+                por camera por aba aberta, e este servidor e um
+                `ThreadingHTTPServer` simples servindo tambem o estado do
+                gemeo — tres abas com tres cameras seriam nove conexoes
+                presas. Com JPEG solto, o painel pede quando quer, para
+                quando a aba fecha, e o servidor nao guarda nada.
+
+                Custa uma requisicao a cada atualizacao. A esta taxa, e mais
+                barato que a conexao presa.
+                """
+                papel = self.path.split("/api/camera/", 1)[1].split("?")[0]
+                if papel.endswith(".jpg"):
+                    papel = papel[:-4]
+
+                dados = espacial.quadro(papel)
+                if dados is None:
+                    self._responder(404, b'{"erro":"sem quadro dessa camera"}',
+                                    "application/json; charset=utf-8")
+                    return
+
+                self._responder(200, dados, "image/jpeg")
                 return
 
             if self.path.startswith("/api/gerente/espacial"):
@@ -271,7 +418,7 @@ def main():
     servidor = ThreadingHTTPServer(("127.0.0.1", args.porta), construir(espacial, loja))
     print("monitor do gerente")
     print(f"  SO Espacial   {args.espacial}")
-    print(f"  SmartGo       {args.loja}")
+    print(f"  AutonomousStore       {args.loja}")
     print(f"  correcoes     {CORRECOES}")
     print(f"  eventos loja  {EVENTOS_LOJA}")
     print(f"  painel        http://localhost:{args.porta}")
