@@ -155,7 +155,7 @@ pytest
 Para o monitor em tempo real:
 
 ```powershell
-python monitor\servidor.py
+python programas\ao_vivo.py
 ```
 
 ---
