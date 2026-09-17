@@ -1,3 +1,16 @@
 {"pergunta": "esta tudo funcionando?", "palpite": "cameras", "confianca": 0.48, "respondida": false, "gravado_em": "2026-08-30T17:46:38.682705+00:00"}
 {"pergunta": "como funciona o sistema?", "palpite": "duvida_sistema", "confianca": 0.7, "respondida": false, "gravado_em": "2026-08-30T17:46:38.719086+00:00"}
 {"pergunta": "me fale o estoque hoje?", "palpite": "estoque", "confianca": 0.9979559582881294, "escolhida_por_voce": false, "de": "admin", "gravado_em": "2026-09-02T19:32:53.193596-03:00"}
+{"pergunta": "boa noite", "palpite": "saudacao", "confianca": 0.9996106156518398, "escolhida_por_voce": false, "de": "admin", "gravado_em": "2026-09-02T22:45:18.462557-03:00"}
+{"pergunta": "altere a quantidade do estoque", "palpite": "estoque", "confianca": 0.8519100849493096, "escolhida_por_voce": false, "de": "admin", "gravado_em": "2026-09-02T22:45:48.768002-03:00"}
+{"pergunta": "altere a quantidade do estoque", "palpite": "alterar_estoque", "confianca": 1, "escolhida_por_voce": true, "de": "admin", "gravado_em": "2026-09-02T22:46:18.202167-03:00"}
+{"pergunta": "coca", "palpite": "alterar_estoque", "confianca": 0.5433519473529433, "escolhida_por_voce": false, "de": "admin", "gravado_em": "2026-09-02T22:47:08.604721-03:00"}
+{"pergunta": "olá, como está o nosso estoque hoje?", "palpite": "estoque", "confianca": 0.6852616111375863, "escolhida_por_voce": false, "de": "admin", "gravado_em": "2026-09-17T11:28:36.209982-03:00"}
+{"pergunta": "olá, como está o nosso estoque hoje?", "palpite": "estoque", "confianca": 1, "escolhida_por_voce": true, "de": "admin", "gravado_em": "2026-09-17T11:28:46.125332-03:00"}
+{"pergunta": "Boa tarde, me diga quantos produtos temos em estoque", "palpite": "estoque", "confianca": 0.9999388902587384, "escolhida_por_voce": false, "de": "admin", "gravado_em": "2026-09-17T14:40:10.416679-03:00"}
+{"pergunta": "quero alterar a quantidade da coca", "palpite": "alterar_estoque", "confianca": 0.9953860590773477, "escolhida_por_voce": false, "de": "admin", "gravado_em": "2026-09-17T14:40:36.699877-03:00"}
+{"pergunta": "11", "palpite": "status_sistema", "confianca": 0.9850153187985949, "escolhida_por_voce": false, "de": "admin", "gravado_em": "2026-09-17T14:40:59.633766-03:00"}
+{"pergunta": "pode", "palpite": "confirmar_acao", "confianca": 0.992189664509581, "escolhida_por_voce": false, "de": "admin", "gravado_em": "2026-09-17T14:41:07.643367-03:00"}
+{"pergunta": "boa tarde", "palpite": "saudacao", "confianca": 0.9916500201900086, "escolhida_por_voce": false, "de": "admin", "gravado_em": "2026-09-17T14:54:31.741130-03:00"}
+{"pergunta": "Boa tarde", "palpite": "saudacao", "confianca": 0.9916500201900086, "escolhida_por_voce": false, "de": "admin", "gravado_em": "2026-09-17T14:56:06.581084-03:00"}
+{"pergunta": "olá", "palpite": "saudacao", "confianca": 0.9952868957664496, "escolhida_por_voce": false, "de": "admin", "gravado_em": "2026-09-17T14:56:24.701600-03:00"}
